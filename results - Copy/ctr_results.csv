@@ -1,0 +1,243 @@
+iteration,avg_ctr,topic,persona
+0,4.0,Stoicism,Price
+1,4.0,Stoicism,Price
+2,4.0,Stoicism,Price
+3,4.0,Stoicism,Price
+4,4.0,Stoicism,Price
+5,4.0,Stoicism,Price
+6,4.0,Stoicism,Price
+7,4.0,Stoicism,Price
+8,4.0,Stoicism,Price
+9,4.0,Stoicism,Price
+0,4.0,Stoicism,Quality
+1,3.75,Stoicism,Quality
+2,4.0,Stoicism,Quality
+3,4.0,Stoicism,Quality
+4,4.0,Stoicism,Quality
+5,4.0,Stoicism,Quality
+6,4.0,Stoicism,Quality
+7,4.0,Stoicism,Quality
+8,4.0,Stoicism,Quality
+9,4.0,Stoicism,Quality
+0,4.7,Stoicism,Brand Reputation
+1,4.75,Stoicism,Brand Reputation
+2,5.090909090909091,Stoicism,Brand Reputation
+3,4.666666666666667,Stoicism,Brand Reputation
+4,4.545454545454546,Stoicism,Brand Reputation
+5,5.2727272727272725,Stoicism,Brand Reputation
+6,4.833333333333333,Stoicism,Brand Reputation
+7,4.833333333333333,Stoicism,Brand Reputation
+8,5.0,Stoicism,Brand Reputation
+9,4.916666666666667,Stoicism,Brand Reputation
+0,2.0,Stoicism,Features & Functionality
+1,2.0,Stoicism,Features & Functionality
+2,2.0,Stoicism,Features & Functionality
+3,2.0,Stoicism,Features & Functionality
+4,2.0,Stoicism,Features & Functionality
+5,2.0,Stoicism,Features & Functionality
+6,2.0,Stoicism,Features & Functionality
+7,2.0,Stoicism,Features & Functionality
+8,2.0,Stoicism,Features & Functionality
+9,2.0,Stoicism,Features & Functionality
+0,9.0,Stoicism,Ethical Considerations
+1,9.0,Stoicism,Ethical Considerations
+2,9.0,Stoicism,Ethical Considerations
+3,9.0,Stoicism,Ethical Considerations
+4,9.0,Stoicism,Ethical Considerations
+5,9.0,Stoicism,Ethical Considerations
+6,9.0,Stoicism,Ethical Considerations
+7,9.0,Stoicism,Ethical Considerations
+8,9.0,Stoicism,Ethical Considerations
+9,9.0,Stoicism,Ethical Considerations
+0,8.0,Stoicism,Discussion-Focused
+1,8.0,Stoicism,Discussion-Focused
+2,8.0,Stoicism,Discussion-Focused
+3,8.0,Stoicism,Discussion-Focused
+4,8.0,Stoicism,Discussion-Focused
+5,8.0,Stoicism,Discussion-Focused
+6,8.0,Stoicism,Discussion-Focused
+7,8.0,Stoicism,Discussion-Focused
+8,8.0,Stoicism,Discussion-Focused
+9,8.0,Stoicism,Discussion-Focused
+0,9.0,Stoicism,History-Focused
+1,9.0,Stoicism,History-Focused
+2,9.0,Stoicism,History-Focused
+3,9.0,Stoicism,History-Focused
+4,9.0,Stoicism,History-Focused
+5,9.0,Stoicism,History-Focused
+6,9.0,Stoicism,History-Focused
+7,9.0,Stoicism,History-Focused
+8,8.909090909090908,Stoicism,History-Focused
+9,8.909090909090908,Stoicism,History-Focused
+0,7.25,Stoicism,Event-Focused
+1,7.416666666666667,Stoicism,Event-Focused
+2,7.363636363636363,Stoicism,Event-Focused
+3,7.333333333333333,Stoicism,Event-Focused
+4,7.818181818181818,Stoicism,Event-Focused
+5,7.0,Stoicism,Event-Focused
+6,7.083333333333333,Stoicism,Event-Focused
+7,7.583333333333333,Stoicism,Event-Focused
+8,7.1,Stoicism,Event-Focused
+9,7.454545454545454,Stoicism,Event-Focused
+0,7.55,Stoicism,Person-Focused
+1,7.833333333333333,Stoicism,Person-Focused
+2,7.75,Stoicism,Person-Focused
+3,7.5,Stoicism,Person-Focused
+4,7.909090909090909,Stoicism,Person-Focused
+5,8.0,Stoicism,Person-Focused
+6,7.7,Stoicism,Person-Focused
+7,8.0,Stoicism,Person-Focused
+8,7.8,Stoicism,Person-Focused
+9,7.909090909090909,Stoicism,Person-Focused
+0,2.35,Stoicism,Location-Focused
+1,2.3333333333333335,Stoicism,Location-Focused
+2,2.3333333333333335,Stoicism,Location-Focused
+3,2.4,Stoicism,Location-Focused
+4,2.0,Stoicism,Location-Focused
+5,2.1,Stoicism,Location-Focused
+6,2.5,Stoicism,Location-Focused
+7,2.25,Stoicism,Location-Focused
+8,2.4545454545454546,Stoicism,Location-Focused
+9,2.6,Stoicism,Location-Focused
+0,3.4,Friedrich Nietzsche,Price
+1,3.0,Friedrich Nietzsche,Price
+2,2.6666666666666665,Friedrich Nietzsche,Price
+3,2.6666666666666665,Friedrich Nietzsche,Price
+4,3.0,Friedrich Nietzsche,Price
+5,2.6666666666666665,Friedrich Nietzsche,Price
+6,2.909090909090909,Friedrich Nietzsche,Price
+7,3.4545454545454546,Friedrich Nietzsche,Price
+8,2.6666666666666665,Friedrich Nietzsche,Price
+9,2.909090909090909,Friedrich Nietzsche,Price
+0,1.0,Friedrich Nietzsche,Quality
+1,1.0,Friedrich Nietzsche,Quality
+2,1.0,Friedrich Nietzsche,Quality
+3,1.0,Friedrich Nietzsche,Quality
+4,1.0,Friedrich Nietzsche,Quality
+5,1.0,Friedrich Nietzsche,Quality
+6,1.0,Friedrich Nietzsche,Quality
+7,1.0,Friedrich Nietzsche,Quality
+8,1.0,Friedrich Nietzsche,Quality
+9,1.0,Friedrich Nietzsche,Quality
+0,2.1,Friedrich Nietzsche,Brand Reputation
+1,2.3333333333333335,Friedrich Nietzsche,Brand Reputation
+2,2.0,Friedrich Nietzsche,Brand Reputation
+3,2.1818181818181817,Friedrich Nietzsche,Brand Reputation
+4,2.4166666666666665,Friedrich Nietzsche,Brand Reputation
+5,2.1818181818181817,Friedrich Nietzsche,Brand Reputation
+6,2.3636363636363638,Friedrich Nietzsche,Brand Reputation
+7,2.0,Friedrich Nietzsche,Brand Reputation
+8,2.1666666666666665,Friedrich Nietzsche,Brand Reputation
+9,2.1666666666666665,Friedrich Nietzsche,Brand Reputation
+0,1.0,Friedrich Nietzsche,Features & Functionality
+1,1.0,Friedrich Nietzsche,Features & Functionality
+2,1.0,Friedrich Nietzsche,Features & Functionality
+3,1.0,Friedrich Nietzsche,Features & Functionality
+4,1.0,Friedrich Nietzsche,Features & Functionality
+5,1.0,Friedrich Nietzsche,Features & Functionality
+6,1.0,Friedrich Nietzsche,Features & Functionality
+7,1.0,Friedrich Nietzsche,Features & Functionality
+8,1.0,Friedrich Nietzsche,Features & Functionality
+9,1.0,Friedrich Nietzsche,Features & Functionality
+0,8.2,Friedrich Nietzsche,Ethical Considerations
+1,8.25,Friedrich Nietzsche,Ethical Considerations
+2,8.083333333333334,Friedrich Nietzsche,Ethical Considerations
+3,8.166666666666666,Friedrich Nietzsche,Ethical Considerations
+4,8.083333333333334,Friedrich Nietzsche,Ethical Considerations
+5,8.181818181818182,Friedrich Nietzsche,Ethical Considerations
+6,8.1,Friedrich Nietzsche,Ethical Considerations
+7,8.2,Friedrich Nietzsche,Ethical Considerations
+8,8.083333333333334,Friedrich Nietzsche,Ethical Considerations
+9,8.0,Friedrich Nietzsche,Ethical Considerations
+0,8.0,Friedrich Nietzsche,Discussion-Focused
+1,8.0,Friedrich Nietzsche,Discussion-Focused
+2,8.0,Friedrich Nietzsche,Discussion-Focused
+3,8.0,Friedrich Nietzsche,Discussion-Focused
+4,8.0,Friedrich Nietzsche,Discussion-Focused
+5,8.0,Friedrich Nietzsche,Discussion-Focused
+6,8.0,Friedrich Nietzsche,Discussion-Focused
+7,8.0,Friedrich Nietzsche,Discussion-Focused
+8,8.0,Friedrich Nietzsche,Discussion-Focused
+9,8.0,Friedrich Nietzsche,Discussion-Focused
+0,8.95,Friedrich Nietzsche,History-Focused
+1,8.916666666666666,Friedrich Nietzsche,History-Focused
+2,8.818181818181818,Friedrich Nietzsche,History-Focused
+3,8.916666666666666,Friedrich Nietzsche,History-Focused
+4,9.0,Friedrich Nietzsche,History-Focused
+5,9.0,Friedrich Nietzsche,History-Focused
+6,8.666666666666666,Friedrich Nietzsche,History-Focused
+7,8.909090909090908,Friedrich Nietzsche,History-Focused
+8,8.916666666666666,Friedrich Nietzsche,History-Focused
+9,9.0,Friedrich Nietzsche,History-Focused
+0,7.5,Friedrich Nietzsche,Event-Focused
+1,7.636363636363637,Friedrich Nietzsche,Event-Focused
+2,7.833333333333333,Friedrich Nietzsche,Event-Focused
+3,7.818181818181818,Friedrich Nietzsche,Event-Focused
+4,7.909090909090909,Friedrich Nietzsche,Event-Focused
+5,7.833333333333333,Friedrich Nietzsche,Event-Focused
+6,7.818181818181818,Friedrich Nietzsche,Event-Focused
+7,7.545454545454546,Friedrich Nietzsche,Event-Focused
+8,7.7272727272727275,Friedrich Nietzsche,Event-Focused
+9,7.545454545454546,Friedrich Nietzsche,Event-Focused
+0,8.05,Friedrich Nietzsche,Person-Focused
+1,8.083333333333334,Friedrich Nietzsche,Person-Focused
+2,8.083333333333334,Friedrich Nietzsche,Person-Focused
+3,8.0,Friedrich Nietzsche,Person-Focused
+4,8.0,Friedrich Nietzsche,Person-Focused
+5,8.0,Friedrich Nietzsche,Person-Focused
+6,8.090909090909092,Friedrich Nietzsche,Person-Focused
+7,8.0,Friedrich Nietzsche,Person-Focused
+8,8.0,Friedrich Nietzsche,Person-Focused
+9,8.0,Friedrich Nietzsche,Person-Focused
+0,2.75,Friedrich Nietzsche,Location-Focused
+1,2.4166666666666665,Friedrich Nietzsche,Location-Focused
+2,2.5833333333333335,Friedrich Nietzsche,Location-Focused
+3,2.4166666666666665,Friedrich Nietzsche,Location-Focused
+4,2.3636363636363638,Friedrich Nietzsche,Location-Focused
+5,2.6363636363636362,Friedrich Nietzsche,Location-Focused
+6,2.5,Friedrich Nietzsche,Location-Focused
+7,3.0,Friedrich Nietzsche,Location-Focused
+8,2.7,Friedrich Nietzsche,Location-Focused
+9,2.3333333333333335,Friedrich Nietzsche,Location-Focused
+0,1.85,Artificial Superintelligence,Price
+1,2.3333333333333335,Artificial Superintelligence,Price
+2,1.8181818181818181,Artificial Superintelligence,Price
+3,1.8,Artificial Superintelligence,Price
+4,1.8181818181818181,Artificial Superintelligence,Price
+5,2.0,Artificial Superintelligence,Price
+6,1.6363636363636365,Artificial Superintelligence,Price
+7,2.272727272727273,Artificial Superintelligence,Price
+8,1.9090909090909092,Artificial Superintelligence,Price
+9,1.8333333333333333,Artificial Superintelligence,Price
+0,3.25,Artificial Superintelligence,Quality
+1,3.3333333333333335,Artificial Superintelligence,Quality
+2,3.75,Artificial Superintelligence,Quality
+3,3.5833333333333335,Artificial Superintelligence,Quality
+4,3.6666666666666665,Artificial Superintelligence,Quality
+5,3.727272727272727,Artificial Superintelligence,Quality
+6,3.727272727272727,Artificial Superintelligence,Quality
+7,3.727272727272727,Artificial Superintelligence,Quality
+8,4.0,Artificial Superintelligence,Quality
+9,3.75,Artificial Superintelligence,Quality
+0,7.4,Artificial Superintelligence,Brand Reputation
+1,7.416666666666667,Artificial Superintelligence,Brand Reputation
+2,7.75,Artificial Superintelligence,Brand Reputation
+3,7.75,Artificial Superintelligence,Brand Reputation
+4,7.583333333333333,Artificial Superintelligence,Brand Reputation
+5,7.818181818181818,Artificial Superintelligence,Brand Reputation
+6,7.636363636363637,Artificial Superintelligence,Brand Reputation
+7,7.25,Artificial Superintelligence,Brand Reputation
+8,7.25,Artificial Superintelligence,Brand Reputation
+9,7.7272727272727275,Artificial Superintelligence,Brand Reputation
+0,8.8,Artificial Superintelligence,Features & Functionality
+1,8.833333333333334,Artificial Superintelligence,Features & Functionality
+2,8.75,Artificial Superintelligence,Features & Functionality
+3,8.666666666666666,Artificial Superintelligence,Features & Functionality
+4,8.9,Artificial Superintelligence,Features & Functionality
+5,8.7,Artificial Superintelligence,Features & Functionality
+6,8.545454545454545,Artificial Superintelligence,Features & Functionality
+7,8.833333333333334,Artificial Superintelligence,Features & Functionality
+8,8.4,Artificial Superintelligence,Features & Functionality
+9,8.75,Artificial Superintelligence,Features & Functionality
+0,10.0,Artificial Superintelligence,Ethical Considerations
+1,9.916666666666666,Artificial Superintelligence,Ethical Considerations

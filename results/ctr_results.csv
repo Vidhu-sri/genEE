@@ -1,0 +1,1062 @@
+iteration,avg_ctr,topic,persona
+0,5.0,Stoicism,Price
+1,5.0,Stoicism,Price
+2,5.0,Stoicism,Price
+3,5.0,Stoicism,Price
+4,5.0,Stoicism,Price
+5,5.0,Stoicism,Price
+6,5.0,Stoicism,Price
+7,5.0,Stoicism,Price
+8,5.0,Stoicism,Price
+9,5.0,Stoicism,Price
+0,5.0,Stoicism,Quality
+1,5.0,Stoicism,Quality
+2,5.0,Stoicism,Quality
+3,5.0,Stoicism,Quality
+4,5.0,Stoicism,Quality
+5,5.0,Stoicism,Quality
+6,5.0,Stoicism,Quality
+7,5.0,Stoicism,Quality
+8,5.0,Stoicism,Quality
+9,5.0,Stoicism,Quality
+0,5.0,Stoicism,Brand Reputation
+1,5.0,Stoicism,Brand Reputation
+2,5.0,Stoicism,Brand Reputation
+3,5.0,Stoicism,Brand Reputation
+4,5.0,Stoicism,Brand Reputation
+5,5.0,Stoicism,Brand Reputation
+6,5.0,Stoicism,Brand Reputation
+7,5.0,Stoicism,Brand Reputation
+8,5.0,Stoicism,Brand Reputation
+9,5.0,Stoicism,Brand Reputation
+0,5.0,Stoicism,Features & Functionality
+1,5.0,Stoicism,Features & Functionality
+2,5.0,Stoicism,Features & Functionality
+3,5.0,Stoicism,Features & Functionality
+4,5.0,Stoicism,Features & Functionality
+5,5.0,Stoicism,Features & Functionality
+6,5.0,Stoicism,Features & Functionality
+7,5.0,Stoicism,Features & Functionality
+8,5.0,Stoicism,Features & Functionality
+9,5.0,Stoicism,Features & Functionality
+0,5.0,Stoicism,Ethical Considerations
+1,5.0,Stoicism,Ethical Considerations
+2,5.0,Stoicism,Ethical Considerations
+3,5.0,Stoicism,Ethical Considerations
+4,5.0,Stoicism,Ethical Considerations
+5,5.0,Stoicism,Ethical Considerations
+6,5.0,Stoicism,Ethical Considerations
+7,5.0,Stoicism,Ethical Considerations
+8,5.0,Stoicism,Ethical Considerations
+9,5.0,Stoicism,Ethical Considerations
+0,5.0,Stoicism,Discussion-Focused
+1,5.0,Stoicism,Discussion-Focused
+2,5.0,Stoicism,Discussion-Focused
+3,5.0,Stoicism,Discussion-Focused
+4,5.0,Stoicism,Discussion-Focused
+5,5.0,Stoicism,Discussion-Focused
+6,5.0,Stoicism,Discussion-Focused
+7,5.0,Stoicism,Discussion-Focused
+8,5.0,Stoicism,Discussion-Focused
+9,5.0,Stoicism,Discussion-Focused
+0,5.0,Stoicism,History-Focused
+1,5.0,Stoicism,History-Focused
+2,5.0,Stoicism,History-Focused
+3,5.0,Stoicism,History-Focused
+4,5.0,Stoicism,History-Focused
+5,5.0,Stoicism,History-Focused
+6,5.0,Stoicism,History-Focused
+7,5.0,Stoicism,History-Focused
+8,5.0,Stoicism,History-Focused
+9,5.0,Stoicism,History-Focused
+0,5.0,Stoicism,Event-Focused
+1,5.0,Stoicism,Event-Focused
+2,5.0,Stoicism,Event-Focused
+3,5.0,Stoicism,Event-Focused
+4,5.0,Stoicism,Event-Focused
+5,5.0,Stoicism,Event-Focused
+6,5.0,Stoicism,Event-Focused
+7,5.0,Stoicism,Event-Focused
+8,5.0,Stoicism,Event-Focused
+9,5.0,Stoicism,Event-Focused
+0,5.0,Stoicism,Person-Focused
+1,5.0,Stoicism,Person-Focused
+2,5.0,Stoicism,Person-Focused
+3,5.0,Stoicism,Person-Focused
+4,5.0,Stoicism,Person-Focused
+5,5.0,Stoicism,Person-Focused
+6,5.0,Stoicism,Person-Focused
+7,5.0,Stoicism,Person-Focused
+8,5.0,Stoicism,Person-Focused
+9,5.0,Stoicism,Person-Focused
+0,5.0,Stoicism,Location-Focused
+1,5.0,Stoicism,Location-Focused
+2,5.0,Stoicism,Location-Focused
+3,5.0,Stoicism,Location-Focused
+4,5.0,Stoicism,Location-Focused
+5,5.0,Stoicism,Location-Focused
+6,5.0,Stoicism,Location-Focused
+7,5.0,Stoicism,Location-Focused
+8,5.0,Stoicism,Location-Focused
+9,5.0,Stoicism,Location-Focused
+0,5.0,Friedrich Nietzsche,Price
+1,5.0,Friedrich Nietzsche,Price
+2,5.0,Friedrich Nietzsche,Price
+3,5.0,Friedrich Nietzsche,Price
+4,5.0,Friedrich Nietzsche,Price
+5,5.0,Friedrich Nietzsche,Price
+6,5.0,Friedrich Nietzsche,Price
+7,5.0,Friedrich Nietzsche,Price
+8,5.0,Friedrich Nietzsche,Price
+9,5.0,Friedrich Nietzsche,Price
+0,5.0,Friedrich Nietzsche,Quality
+1,5.0,Friedrich Nietzsche,Quality
+2,5.0,Friedrich Nietzsche,Quality
+3,5.0,Friedrich Nietzsche,Quality
+4,5.0,Friedrich Nietzsche,Quality
+5,5.0,Friedrich Nietzsche,Quality
+6,5.0,Friedrich Nietzsche,Quality
+7,5.0,Friedrich Nietzsche,Quality
+8,5.0,Friedrich Nietzsche,Quality
+9,5.0,Friedrich Nietzsche,Quality
+0,5.0,Friedrich Nietzsche,Brand Reputation
+1,5.0,Friedrich Nietzsche,Brand Reputation
+2,5.0,Friedrich Nietzsche,Brand Reputation
+3,5.0,Friedrich Nietzsche,Brand Reputation
+4,5.0,Friedrich Nietzsche,Brand Reputation
+5,5.0,Friedrich Nietzsche,Brand Reputation
+6,5.0,Friedrich Nietzsche,Brand Reputation
+7,5.0,Friedrich Nietzsche,Brand Reputation
+8,5.0,Friedrich Nietzsche,Brand Reputation
+9,5.0,Friedrich Nietzsche,Brand Reputation
+0,5.0,Friedrich Nietzsche,Features & Functionality
+1,5.0,Friedrich Nietzsche,Features & Functionality
+2,5.0,Friedrich Nietzsche,Features & Functionality
+3,5.0,Friedrich Nietzsche,Features & Functionality
+4,5.0,Friedrich Nietzsche,Features & Functionality
+5,5.0,Friedrich Nietzsche,Features & Functionality
+6,5.0,Friedrich Nietzsche,Features & Functionality
+7,5.0,Friedrich Nietzsche,Features & Functionality
+8,5.0,Friedrich Nietzsche,Features & Functionality
+9,5.0,Friedrich Nietzsche,Features & Functionality
+0,5.0,Friedrich Nietzsche,Ethical Considerations
+1,5.0,Friedrich Nietzsche,Ethical Considerations
+2,5.0,Friedrich Nietzsche,Ethical Considerations
+3,5.0,Friedrich Nietzsche,Ethical Considerations
+4,5.0,Friedrich Nietzsche,Ethical Considerations
+5,5.0,Friedrich Nietzsche,Ethical Considerations
+6,5.0,Friedrich Nietzsche,Ethical Considerations
+7,5.0,Friedrich Nietzsche,Ethical Considerations
+8,5.0,Friedrich Nietzsche,Ethical Considerations
+9,5.0,Friedrich Nietzsche,Ethical Considerations
+0,5.0,Friedrich Nietzsche,Discussion-Focused
+1,5.0,Friedrich Nietzsche,Discussion-Focused
+2,5.0,Friedrich Nietzsche,Discussion-Focused
+3,5.0,Friedrich Nietzsche,Discussion-Focused
+4,5.0,Friedrich Nietzsche,Discussion-Focused
+5,5.0,Friedrich Nietzsche,Discussion-Focused
+6,5.0,Friedrich Nietzsche,Discussion-Focused
+7,5.0,Friedrich Nietzsche,Discussion-Focused
+8,5.0,Friedrich Nietzsche,Discussion-Focused
+9,5.0,Friedrich Nietzsche,Discussion-Focused
+0,5.0,Friedrich Nietzsche,History-Focused
+1,5.0,Friedrich Nietzsche,History-Focused
+2,5.0,Friedrich Nietzsche,History-Focused
+3,5.0,Friedrich Nietzsche,History-Focused
+4,5.0,Friedrich Nietzsche,History-Focused
+5,5.0,Friedrich Nietzsche,History-Focused
+6,5.0,Friedrich Nietzsche,History-Focused
+7,5.0,Friedrich Nietzsche,History-Focused
+8,5.0,Friedrich Nietzsche,History-Focused
+9,5.0,Friedrich Nietzsche,History-Focused
+0,5.0,Friedrich Nietzsche,Event-Focused
+1,5.0,Friedrich Nietzsche,Event-Focused
+2,5.0,Friedrich Nietzsche,Event-Focused
+3,5.0,Friedrich Nietzsche,Event-Focused
+4,5.0,Friedrich Nietzsche,Event-Focused
+5,5.0,Friedrich Nietzsche,Event-Focused
+6,5.0,Friedrich Nietzsche,Event-Focused
+7,5.0,Friedrich Nietzsche,Event-Focused
+8,5.0,Friedrich Nietzsche,Event-Focused
+9,5.0,Friedrich Nietzsche,Event-Focused
+0,5.0,Friedrich Nietzsche,Person-Focused
+1,5.0,Friedrich Nietzsche,Person-Focused
+2,5.0,Friedrich Nietzsche,Person-Focused
+3,5.0,Friedrich Nietzsche,Person-Focused
+4,5.0,Friedrich Nietzsche,Person-Focused
+5,5.0,Friedrich Nietzsche,Person-Focused
+6,5.0,Friedrich Nietzsche,Person-Focused
+7,5.0,Friedrich Nietzsche,Person-Focused
+8,5.0,Friedrich Nietzsche,Person-Focused
+9,5.0,Friedrich Nietzsche,Person-Focused
+0,5.0,Friedrich Nietzsche,Location-Focused
+1,5.0,Friedrich Nietzsche,Location-Focused
+2,5.0,Friedrich Nietzsche,Location-Focused
+3,5.0,Friedrich Nietzsche,Location-Focused
+4,5.0,Friedrich Nietzsche,Location-Focused
+5,5.0,Friedrich Nietzsche,Location-Focused
+6,5.0,Friedrich Nietzsche,Location-Focused
+7,5.0,Friedrich Nietzsche,Location-Focused
+8,5.0,Friedrich Nietzsche,Location-Focused
+9,5.0,Friedrich Nietzsche,Location-Focused
+0,5.0,Artificial Superintelligence,Price
+1,5.0,Artificial Superintelligence,Price
+2,5.0,Artificial Superintelligence,Price
+3,5.0,Artificial Superintelligence,Price
+4,5.0,Artificial Superintelligence,Price
+5,5.0,Artificial Superintelligence,Price
+6,5.0,Artificial Superintelligence,Price
+7,5.0,Artificial Superintelligence,Price
+8,5.0,Artificial Superintelligence,Price
+9,5.0,Artificial Superintelligence,Price
+0,5.0,Artificial Superintelligence,Quality
+1,5.0,Artificial Superintelligence,Quality
+2,5.0,Artificial Superintelligence,Quality
+3,5.0,Artificial Superintelligence,Quality
+4,5.0,Artificial Superintelligence,Quality
+5,5.0,Artificial Superintelligence,Quality
+6,5.0,Artificial Superintelligence,Quality
+7,5.0,Artificial Superintelligence,Quality
+8,5.0,Artificial Superintelligence,Quality
+9,5.0,Artificial Superintelligence,Quality
+0,5.0,Artificial Superintelligence,Brand Reputation
+1,5.0,Artificial Superintelligence,Brand Reputation
+2,5.0,Artificial Superintelligence,Brand Reputation
+3,5.0,Artificial Superintelligence,Brand Reputation
+4,5.0,Artificial Superintelligence,Brand Reputation
+5,5.0,Artificial Superintelligence,Brand Reputation
+6,5.0,Artificial Superintelligence,Brand Reputation
+7,5.0,Artificial Superintelligence,Brand Reputation
+8,5.0,Artificial Superintelligence,Brand Reputation
+9,5.0,Artificial Superintelligence,Brand Reputation
+0,5.0,Artificial Superintelligence,Features & Functionality
+1,5.0,Artificial Superintelligence,Features & Functionality
+2,5.0,Artificial Superintelligence,Features & Functionality
+3,5.0,Artificial Superintelligence,Features & Functionality
+4,5.0,Artificial Superintelligence,Features & Functionality
+5,5.0,Artificial Superintelligence,Features & Functionality
+6,5.0,Artificial Superintelligence,Features & Functionality
+7,5.0,Artificial Superintelligence,Features & Functionality
+8,5.0,Artificial Superintelligence,Features & Functionality
+9,5.0,Artificial Superintelligence,Features & Functionality
+0,5.0,Artificial Superintelligence,Ethical Considerations
+1,5.0,Artificial Superintelligence,Ethical Considerations
+2,5.0,Artificial Superintelligence,Ethical Considerations
+3,5.0,Artificial Superintelligence,Ethical Considerations
+4,5.0,Artificial Superintelligence,Ethical Considerations
+5,5.0,Artificial Superintelligence,Ethical Considerations
+6,5.0,Artificial Superintelligence,Ethical Considerations
+7,5.0,Artificial Superintelligence,Ethical Considerations
+8,5.0,Artificial Superintelligence,Ethical Considerations
+9,5.0,Artificial Superintelligence,Ethical Considerations
+0,5.0,Artificial Superintelligence,Discussion-Focused
+1,5.0,Artificial Superintelligence,Discussion-Focused
+2,5.0,Artificial Superintelligence,Discussion-Focused
+3,5.0,Artificial Superintelligence,Discussion-Focused
+4,5.0,Artificial Superintelligence,Discussion-Focused
+5,5.0,Artificial Superintelligence,Discussion-Focused
+6,5.0,Artificial Superintelligence,Discussion-Focused
+7,5.0,Artificial Superintelligence,Discussion-Focused
+8,5.0,Artificial Superintelligence,Discussion-Focused
+9,5.0,Artificial Superintelligence,Discussion-Focused
+0,5.0,Artificial Superintelligence,History-Focused
+1,5.0,Artificial Superintelligence,History-Focused
+2,5.0,Artificial Superintelligence,History-Focused
+3,5.0,Artificial Superintelligence,History-Focused
+4,5.0,Artificial Superintelligence,History-Focused
+5,5.0,Artificial Superintelligence,History-Focused
+6,5.0,Artificial Superintelligence,History-Focused
+7,5.0,Artificial Superintelligence,History-Focused
+8,5.0,Artificial Superintelligence,History-Focused
+9,5.0,Artificial Superintelligence,History-Focused
+0,5.0,Artificial Superintelligence,Event-Focused
+1,5.0,Artificial Superintelligence,Event-Focused
+2,5.0,Artificial Superintelligence,Event-Focused
+3,5.0,Artificial Superintelligence,Event-Focused
+4,5.0,Artificial Superintelligence,Event-Focused
+5,5.0,Artificial Superintelligence,Event-Focused
+6,5.0,Artificial Superintelligence,Event-Focused
+7,5.0,Artificial Superintelligence,Event-Focused
+8,5.0,Artificial Superintelligence,Event-Focused
+9,5.0,Artificial Superintelligence,Event-Focused
+0,5.0,Artificial Superintelligence,Person-Focused
+1,5.0,Artificial Superintelligence,Person-Focused
+2,5.0,Artificial Superintelligence,Person-Focused
+3,5.0,Artificial Superintelligence,Person-Focused
+4,5.0,Artificial Superintelligence,Person-Focused
+5,5.0,Artificial Superintelligence,Person-Focused
+6,5.0,Artificial Superintelligence,Person-Focused
+7,5.0,Artificial Superintelligence,Person-Focused
+8,5.0,Artificial Superintelligence,Person-Focused
+9,5.0,Artificial Superintelligence,Person-Focused
+0,5.0,Artificial Superintelligence,Location-Focused
+1,5.0,Artificial Superintelligence,Location-Focused
+2,5.0,Artificial Superintelligence,Location-Focused
+3,5.0,Artificial Superintelligence,Location-Focused
+4,5.0,Artificial Superintelligence,Location-Focused
+5,5.0,Artificial Superintelligence,Location-Focused
+6,5.0,Artificial Superintelligence,Location-Focused
+7,5.0,Artificial Superintelligence,Location-Focused
+8,5.0,Artificial Superintelligence,Location-Focused
+9,5.0,Artificial Superintelligence,Location-Focused
+0,5.0,The Beatles' rooftop concert,Price
+1,5.0,The Beatles' rooftop concert,Price
+2,5.0,The Beatles' rooftop concert,Price
+3,5.0,The Beatles' rooftop concert,Price
+4,5.0,The Beatles' rooftop concert,Price
+5,5.0,The Beatles' rooftop concert,Price
+6,5.0,The Beatles' rooftop concert,Price
+7,5.0,The Beatles' rooftop concert,Price
+8,5.0,The Beatles' rooftop concert,Price
+9,5.0,The Beatles' rooftop concert,Price
+0,5.0,The Beatles' rooftop concert,Quality
+1,5.0,The Beatles' rooftop concert,Quality
+2,5.0,The Beatles' rooftop concert,Quality
+3,5.0,The Beatles' rooftop concert,Quality
+4,5.0,The Beatles' rooftop concert,Quality
+5,5.0,The Beatles' rooftop concert,Quality
+6,5.0,The Beatles' rooftop concert,Quality
+7,5.0,The Beatles' rooftop concert,Quality
+8,5.0,The Beatles' rooftop concert,Quality
+9,5.0,The Beatles' rooftop concert,Quality
+0,5.0,The Beatles' rooftop concert,Brand Reputation
+1,5.0,The Beatles' rooftop concert,Brand Reputation
+2,5.0,The Beatles' rooftop concert,Brand Reputation
+3,5.0,The Beatles' rooftop concert,Brand Reputation
+4,5.0,The Beatles' rooftop concert,Brand Reputation
+5,5.0,The Beatles' rooftop concert,Brand Reputation
+6,5.0,The Beatles' rooftop concert,Brand Reputation
+7,5.0,The Beatles' rooftop concert,Brand Reputation
+8,5.0,The Beatles' rooftop concert,Brand Reputation
+9,5.0,The Beatles' rooftop concert,Brand Reputation
+0,5.0,The Beatles' rooftop concert,Features & Functionality
+1,5.0,The Beatles' rooftop concert,Features & Functionality
+2,5.0,The Beatles' rooftop concert,Features & Functionality
+3,5.0,The Beatles' rooftop concert,Features & Functionality
+4,5.0,The Beatles' rooftop concert,Features & Functionality
+5,5.0,The Beatles' rooftop concert,Features & Functionality
+6,5.0,The Beatles' rooftop concert,Features & Functionality
+7,5.0,The Beatles' rooftop concert,Features & Functionality
+8,5.0,The Beatles' rooftop concert,Features & Functionality
+9,5.0,The Beatles' rooftop concert,Features & Functionality
+0,5.0,The Beatles' rooftop concert,Ethical Considerations
+1,5.0,The Beatles' rooftop concert,Ethical Considerations
+2,5.0,The Beatles' rooftop concert,Ethical Considerations
+3,5.0,The Beatles' rooftop concert,Ethical Considerations
+4,5.0,The Beatles' rooftop concert,Ethical Considerations
+5,5.0,The Beatles' rooftop concert,Ethical Considerations
+6,5.0,The Beatles' rooftop concert,Ethical Considerations
+7,5.0,The Beatles' rooftop concert,Ethical Considerations
+8,5.0,The Beatles' rooftop concert,Ethical Considerations
+9,5.0,The Beatles' rooftop concert,Ethical Considerations
+0,5.0,The Beatles' rooftop concert,Discussion-Focused
+1,5.0,The Beatles' rooftop concert,Discussion-Focused
+2,5.0,The Beatles' rooftop concert,Discussion-Focused
+3,5.0,The Beatles' rooftop concert,Discussion-Focused
+4,5.0,The Beatles' rooftop concert,Discussion-Focused
+5,5.0,The Beatles' rooftop concert,Discussion-Focused
+6,5.0,The Beatles' rooftop concert,Discussion-Focused
+7,5.0,The Beatles' rooftop concert,Discussion-Focused
+8,5.0,The Beatles' rooftop concert,Discussion-Focused
+9,5.0,The Beatles' rooftop concert,Discussion-Focused
+0,5.0,The Beatles' rooftop concert,History-Focused
+1,5.0,The Beatles' rooftop concert,History-Focused
+2,5.0,The Beatles' rooftop concert,History-Focused
+3,5.0,The Beatles' rooftop concert,History-Focused
+4,5.0,The Beatles' rooftop concert,History-Focused
+5,5.0,The Beatles' rooftop concert,History-Focused
+6,5.0,The Beatles' rooftop concert,History-Focused
+7,5.0,The Beatles' rooftop concert,History-Focused
+8,5.0,The Beatles' rooftop concert,History-Focused
+9,5.0,The Beatles' rooftop concert,History-Focused
+0,5.0,The Beatles' rooftop concert,Event-Focused
+1,5.0,The Beatles' rooftop concert,Event-Focused
+2,5.0,The Beatles' rooftop concert,Event-Focused
+3,5.0,The Beatles' rooftop concert,Event-Focused
+4,5.0,The Beatles' rooftop concert,Event-Focused
+5,5.0,The Beatles' rooftop concert,Event-Focused
+6,5.0,The Beatles' rooftop concert,Event-Focused
+7,5.0,The Beatles' rooftop concert,Event-Focused
+8,5.0,The Beatles' rooftop concert,Event-Focused
+9,5.0,The Beatles' rooftop concert,Event-Focused
+0,5.0,The Beatles' rooftop concert,Person-Focused
+1,5.0,The Beatles' rooftop concert,Person-Focused
+2,5.0,The Beatles' rooftop concert,Person-Focused
+3,5.0,The Beatles' rooftop concert,Person-Focused
+4,5.0,The Beatles' rooftop concert,Person-Focused
+5,5.0,The Beatles' rooftop concert,Person-Focused
+6,5.0,The Beatles' rooftop concert,Person-Focused
+7,5.0,The Beatles' rooftop concert,Person-Focused
+8,5.0,The Beatles' rooftop concert,Person-Focused
+9,5.0,The Beatles' rooftop concert,Person-Focused
+0,5.0,The Beatles' rooftop concert,Location-Focused
+1,5.0,The Beatles' rooftop concert,Location-Focused
+2,5.0,The Beatles' rooftop concert,Location-Focused
+3,5.0,The Beatles' rooftop concert,Location-Focused
+4,5.0,The Beatles' rooftop concert,Location-Focused
+5,5.0,The Beatles' rooftop concert,Location-Focused
+6,5.0,The Beatles' rooftop concert,Location-Focused
+7,5.0,The Beatles' rooftop concert,Location-Focused
+8,5.0,The Beatles' rooftop concert,Location-Focused
+9,5.0,The Beatles' rooftop concert,Location-Focused
+0,5.0,Carl Jung,Price
+1,5.0,Carl Jung,Price
+2,5.0,Carl Jung,Price
+3,5.0,Carl Jung,Price
+4,5.0,Carl Jung,Price
+5,5.0,Carl Jung,Price
+6,5.0,Carl Jung,Price
+7,5.0,Carl Jung,Price
+8,5.0,Carl Jung,Price
+9,5.0,Carl Jung,Price
+0,5.0,Carl Jung,Quality
+1,5.0,Carl Jung,Quality
+2,5.0,Carl Jung,Quality
+3,5.0,Carl Jung,Quality
+4,5.0,Carl Jung,Quality
+5,5.0,Carl Jung,Quality
+6,5.0,Carl Jung,Quality
+7,5.0,Carl Jung,Quality
+8,5.0,Carl Jung,Quality
+9,5.0,Carl Jung,Quality
+0,5.0,Carl Jung,Brand Reputation
+1,5.0,Carl Jung,Brand Reputation
+2,5.0,Carl Jung,Brand Reputation
+3,5.0,Carl Jung,Brand Reputation
+4,5.0,Carl Jung,Brand Reputation
+5,5.0,Carl Jung,Brand Reputation
+6,5.0,Carl Jung,Brand Reputation
+7,5.0,Carl Jung,Brand Reputation
+8,5.0,Carl Jung,Brand Reputation
+9,5.0,Carl Jung,Brand Reputation
+0,5.0,Carl Jung,Features & Functionality
+1,5.0,Carl Jung,Features & Functionality
+2,5.0,Carl Jung,Features & Functionality
+3,5.0,Carl Jung,Features & Functionality
+4,5.0,Carl Jung,Features & Functionality
+5,5.0,Carl Jung,Features & Functionality
+6,5.0,Carl Jung,Features & Functionality
+7,5.0,Carl Jung,Features & Functionality
+8,5.0,Carl Jung,Features & Functionality
+9,5.0,Carl Jung,Features & Functionality
+0,5.0,Carl Jung,Ethical Considerations
+1,5.0,Carl Jung,Ethical Considerations
+2,5.0,Carl Jung,Ethical Considerations
+3,5.0,Carl Jung,Ethical Considerations
+4,5.0,Carl Jung,Ethical Considerations
+5,5.0,Carl Jung,Ethical Considerations
+6,5.0,Carl Jung,Ethical Considerations
+7,5.0,Carl Jung,Ethical Considerations
+8,5.0,Carl Jung,Ethical Considerations
+9,5.0,Carl Jung,Ethical Considerations
+0,5.0,Carl Jung,Discussion-Focused
+1,5.0,Carl Jung,Discussion-Focused
+2,5.0,Carl Jung,Discussion-Focused
+3,5.0,Carl Jung,Discussion-Focused
+4,5.0,Carl Jung,Discussion-Focused
+5,5.0,Carl Jung,Discussion-Focused
+6,5.0,Carl Jung,Discussion-Focused
+7,5.0,Carl Jung,Discussion-Focused
+8,5.0,Carl Jung,Discussion-Focused
+9,5.0,Carl Jung,Discussion-Focused
+0,5.0,Carl Jung,History-Focused
+1,5.0,Carl Jung,History-Focused
+2,5.0,Carl Jung,History-Focused
+3,5.0,Carl Jung,History-Focused
+4,5.0,Carl Jung,History-Focused
+5,5.0,Carl Jung,History-Focused
+6,5.0,Carl Jung,History-Focused
+7,5.0,Carl Jung,History-Focused
+8,5.0,Carl Jung,History-Focused
+9,5.0,Carl Jung,History-Focused
+0,5.0,Carl Jung,Event-Focused
+1,5.0,Carl Jung,Event-Focused
+2,5.0,Carl Jung,Event-Focused
+3,5.0,Carl Jung,Event-Focused
+4,5.0,Carl Jung,Event-Focused
+5,5.0,Carl Jung,Event-Focused
+6,5.0,Carl Jung,Event-Focused
+7,5.0,Carl Jung,Event-Focused
+8,5.0,Carl Jung,Event-Focused
+9,5.0,Carl Jung,Event-Focused
+0,5.0,Carl Jung,Person-Focused
+1,5.0,Carl Jung,Person-Focused
+2,5.0,Carl Jung,Person-Focused
+3,5.0,Carl Jung,Person-Focused
+4,5.0,Carl Jung,Person-Focused
+5,5.0,Carl Jung,Person-Focused
+6,5.0,Carl Jung,Person-Focused
+7,5.0,Carl Jung,Person-Focused
+8,5.0,Carl Jung,Person-Focused
+9,5.0,Carl Jung,Person-Focused
+0,5.0,Carl Jung,Location-Focused
+1,5.0,Carl Jung,Location-Focused
+2,5.0,Carl Jung,Location-Focused
+3,5.0,Carl Jung,Location-Focused
+4,5.0,Carl Jung,Location-Focused
+5,5.0,Carl Jung,Location-Focused
+6,5.0,Carl Jung,Location-Focused
+7,5.0,Carl Jung,Location-Focused
+8,5.0,Carl Jung,Location-Focused
+9,5.0,Carl Jung,Location-Focused
+0,5.0,History of film,Price
+1,5.0,History of film,Price
+2,5.0,History of film,Price
+3,5.0,History of film,Price
+4,5.0,History of film,Price
+5,5.0,History of film,Price
+6,5.0,History of film,Price
+7,5.0,History of film,Price
+8,5.0,History of film,Price
+9,5.0,History of film,Price
+0,5.0,History of film,Quality
+1,5.0,History of film,Quality
+2,5.0,History of film,Quality
+3,5.0,History of film,Quality
+4,5.0,History of film,Quality
+5,5.0,History of film,Quality
+6,5.0,History of film,Quality
+7,5.0,History of film,Quality
+8,5.0,History of film,Quality
+9,5.0,History of film,Quality
+0,5.0,History of film,Brand Reputation
+1,5.0,History of film,Brand Reputation
+2,5.0,History of film,Brand Reputation
+3,5.0,History of film,Brand Reputation
+4,5.0,History of film,Brand Reputation
+5,5.0,History of film,Brand Reputation
+6,5.0,History of film,Brand Reputation
+7,5.0,History of film,Brand Reputation
+8,5.0,History of film,Brand Reputation
+9,5.0,History of film,Brand Reputation
+0,5.0,History of film,Features & Functionality
+1,5.0,History of film,Features & Functionality
+2,5.0,History of film,Features & Functionality
+3,5.0,History of film,Features & Functionality
+4,5.0,History of film,Features & Functionality
+5,5.0,History of film,Features & Functionality
+6,5.0,History of film,Features & Functionality
+7,5.0,History of film,Features & Functionality
+8,5.0,History of film,Features & Functionality
+9,5.0,History of film,Features & Functionality
+0,5.0,History of film,Ethical Considerations
+1,5.0,History of film,Ethical Considerations
+2,5.0,History of film,Ethical Considerations
+3,5.0,History of film,Ethical Considerations
+4,5.0,History of film,Ethical Considerations
+5,5.0,History of film,Ethical Considerations
+6,5.0,History of film,Ethical Considerations
+7,5.0,History of film,Ethical Considerations
+8,5.0,History of film,Ethical Considerations
+9,5.0,History of film,Ethical Considerations
+0,5.0,History of film,Discussion-Focused
+1,5.0,History of film,Discussion-Focused
+2,5.0,History of film,Discussion-Focused
+3,5.0,History of film,Discussion-Focused
+4,5.0,History of film,Discussion-Focused
+5,5.0,History of film,Discussion-Focused
+6,5.0,History of film,Discussion-Focused
+7,5.0,History of film,Discussion-Focused
+8,5.0,History of film,Discussion-Focused
+9,5.0,History of film,Discussion-Focused
+0,5.0,History of film,History-Focused
+1,5.0,History of film,History-Focused
+2,5.0,History of film,History-Focused
+3,5.0,History of film,History-Focused
+4,5.0,History of film,History-Focused
+5,5.0,History of film,History-Focused
+6,5.0,History of film,History-Focused
+7,5.0,History of film,History-Focused
+8,5.0,History of film,History-Focused
+9,5.0,History of film,History-Focused
+0,5.0,History of film,Event-Focused
+1,5.0,History of film,Event-Focused
+2,5.0,History of film,Event-Focused
+3,5.0,History of film,Event-Focused
+4,5.0,History of film,Event-Focused
+5,5.0,History of film,Event-Focused
+6,5.0,History of film,Event-Focused
+7,5.0,History of film,Event-Focused
+8,5.0,History of film,Event-Focused
+9,5.0,History of film,Event-Focused
+0,5.0,History of film,Person-Focused
+1,5.0,History of film,Person-Focused
+2,5.0,History of film,Person-Focused
+3,5.0,History of film,Person-Focused
+4,5.0,History of film,Person-Focused
+5,5.0,History of film,Person-Focused
+6,5.0,History of film,Person-Focused
+7,5.0,History of film,Person-Focused
+8,5.0,History of film,Person-Focused
+9,5.0,History of film,Person-Focused
+0,5.0,History of film,Location-Focused
+1,5.0,History of film,Location-Focused
+2,5.0,History of film,Location-Focused
+3,5.0,History of film,Location-Focused
+4,5.0,History of film,Location-Focused
+5,5.0,History of film,Location-Focused
+6,5.0,History of film,Location-Focused
+7,5.0,History of film,Location-Focused
+8,5.0,History of film,Location-Focused
+9,5.0,History of film,Location-Focused
+0,5.0,Vinson Massif,Price
+1,5.0,Vinson Massif,Price
+2,5.0,Vinson Massif,Price
+3,5.0,Vinson Massif,Price
+4,5.0,Vinson Massif,Price
+5,5.0,Vinson Massif,Price
+6,5.0,Vinson Massif,Price
+7,5.0,Vinson Massif,Price
+8,5.0,Vinson Massif,Price
+9,5.0,Vinson Massif,Price
+0,5.0,Vinson Massif,Quality
+1,5.0,Vinson Massif,Quality
+2,5.0,Vinson Massif,Quality
+3,5.0,Vinson Massif,Quality
+4,5.0,Vinson Massif,Quality
+5,5.0,Vinson Massif,Quality
+6,5.0,Vinson Massif,Quality
+7,5.0,Vinson Massif,Quality
+8,5.0,Vinson Massif,Quality
+9,5.0,Vinson Massif,Quality
+0,5.0,Vinson Massif,Brand Reputation
+1,5.0,Vinson Massif,Brand Reputation
+2,5.0,Vinson Massif,Brand Reputation
+3,5.0,Vinson Massif,Brand Reputation
+4,5.0,Vinson Massif,Brand Reputation
+5,5.0,Vinson Massif,Brand Reputation
+6,5.0,Vinson Massif,Brand Reputation
+7,5.0,Vinson Massif,Brand Reputation
+8,5.0,Vinson Massif,Brand Reputation
+9,5.0,Vinson Massif,Brand Reputation
+0,5.0,Vinson Massif,Features & Functionality
+1,5.0,Vinson Massif,Features & Functionality
+2,5.0,Vinson Massif,Features & Functionality
+3,5.0,Vinson Massif,Features & Functionality
+4,5.0,Vinson Massif,Features & Functionality
+5,5.0,Vinson Massif,Features & Functionality
+6,5.0,Vinson Massif,Features & Functionality
+7,5.0,Vinson Massif,Features & Functionality
+8,5.0,Vinson Massif,Features & Functionality
+9,5.0,Vinson Massif,Features & Functionality
+0,5.0,Vinson Massif,Ethical Considerations
+1,5.0,Vinson Massif,Ethical Considerations
+2,5.0,Vinson Massif,Ethical Considerations
+3,5.0,Vinson Massif,Ethical Considerations
+4,5.0,Vinson Massif,Ethical Considerations
+5,5.0,Vinson Massif,Ethical Considerations
+6,5.0,Vinson Massif,Ethical Considerations
+7,5.0,Vinson Massif,Ethical Considerations
+8,5.0,Vinson Massif,Ethical Considerations
+9,5.0,Vinson Massif,Ethical Considerations
+0,5.0,Vinson Massif,Discussion-Focused
+1,5.0,Vinson Massif,Discussion-Focused
+2,5.0,Vinson Massif,Discussion-Focused
+3,5.0,Vinson Massif,Discussion-Focused
+4,5.0,Vinson Massif,Discussion-Focused
+5,5.0,Vinson Massif,Discussion-Focused
+6,5.0,Vinson Massif,Discussion-Focused
+7,5.0,Vinson Massif,Discussion-Focused
+8,5.0,Vinson Massif,Discussion-Focused
+9,5.0,Vinson Massif,Discussion-Focused
+0,5.0,Vinson Massif,History-Focused
+1,5.0,Vinson Massif,History-Focused
+2,5.0,Vinson Massif,History-Focused
+3,5.0,Vinson Massif,History-Focused
+4,5.0,Vinson Massif,History-Focused
+5,5.0,Vinson Massif,History-Focused
+6,5.0,Vinson Massif,History-Focused
+7,5.0,Vinson Massif,History-Focused
+8,5.0,Vinson Massif,History-Focused
+9,5.0,Vinson Massif,History-Focused
+0,5.0,Vinson Massif,Event-Focused
+1,5.0,Vinson Massif,Event-Focused
+2,5.0,Vinson Massif,Event-Focused
+3,5.0,Vinson Massif,Event-Focused
+4,5.0,Vinson Massif,Event-Focused
+5,5.0,Vinson Massif,Event-Focused
+6,5.0,Vinson Massif,Event-Focused
+7,5.0,Vinson Massif,Event-Focused
+8,5.0,Vinson Massif,Event-Focused
+9,5.0,Vinson Massif,Event-Focused
+0,5.0,Vinson Massif,Person-Focused
+1,5.0,Vinson Massif,Person-Focused
+2,5.0,Vinson Massif,Person-Focused
+3,5.0,Vinson Massif,Person-Focused
+4,5.0,Vinson Massif,Person-Focused
+5,5.0,Vinson Massif,Person-Focused
+6,5.0,Vinson Massif,Person-Focused
+7,5.0,Vinson Massif,Person-Focused
+8,5.0,Vinson Massif,Person-Focused
+9,5.0,Vinson Massif,Person-Focused
+0,5.0,Vinson Massif,Location-Focused
+1,5.0,Vinson Massif,Location-Focused
+2,5.0,Vinson Massif,Location-Focused
+3,5.0,Vinson Massif,Location-Focused
+4,5.0,Vinson Massif,Location-Focused
+5,5.0,Vinson Massif,Location-Focused
+6,5.0,Vinson Massif,Location-Focused
+7,5.0,Vinson Massif,Location-Focused
+8,5.0,Vinson Massif,Location-Focused
+9,5.0,Vinson Massif,Location-Focused
+0,5.0,Socotra,Price
+1,5.0,Socotra,Price
+2,5.0,Socotra,Price
+3,5.0,Socotra,Price
+4,5.0,Socotra,Price
+5,5.0,Socotra,Price
+6,5.0,Socotra,Price
+7,5.0,Socotra,Price
+8,5.0,Socotra,Price
+9,5.0,Socotra,Price
+0,5.0,Socotra,Quality
+1,5.0,Socotra,Quality
+2,5.0,Socotra,Quality
+3,5.0,Socotra,Quality
+4,5.0,Socotra,Quality
+5,5.0,Socotra,Quality
+6,5.0,Socotra,Quality
+7,5.0,Socotra,Quality
+8,5.0,Socotra,Quality
+9,5.0,Socotra,Quality
+0,5.0,Socotra,Brand Reputation
+1,5.0,Socotra,Brand Reputation
+2,5.0,Socotra,Brand Reputation
+3,5.0,Socotra,Brand Reputation
+4,5.0,Socotra,Brand Reputation
+5,5.0,Socotra,Brand Reputation
+6,5.0,Socotra,Brand Reputation
+7,5.0,Socotra,Brand Reputation
+8,5.0,Socotra,Brand Reputation
+9,5.0,Socotra,Brand Reputation
+0,5.0,Socotra,Features & Functionality
+1,5.0,Socotra,Features & Functionality
+2,5.0,Socotra,Features & Functionality
+3,5.0,Socotra,Features & Functionality
+4,5.0,Socotra,Features & Functionality
+5,5.0,Socotra,Features & Functionality
+6,5.0,Socotra,Features & Functionality
+7,5.0,Socotra,Features & Functionality
+8,5.0,Socotra,Features & Functionality
+9,5.0,Socotra,Features & Functionality
+0,5.0,Socotra,Ethical Considerations
+1,5.0,Socotra,Ethical Considerations
+2,5.0,Socotra,Ethical Considerations
+3,5.0,Socotra,Ethical Considerations
+4,5.0,Socotra,Ethical Considerations
+5,5.0,Socotra,Ethical Considerations
+6,5.0,Socotra,Ethical Considerations
+7,5.0,Socotra,Ethical Considerations
+8,5.0,Socotra,Ethical Considerations
+9,5.0,Socotra,Ethical Considerations
+0,5.0,Socotra,Discussion-Focused
+1,5.0,Socotra,Discussion-Focused
+2,5.0,Socotra,Discussion-Focused
+3,5.0,Socotra,Discussion-Focused
+4,5.0,Socotra,Discussion-Focused
+5,5.0,Socotra,Discussion-Focused
+6,5.0,Socotra,Discussion-Focused
+7,5.0,Socotra,Discussion-Focused
+8,5.0,Socotra,Discussion-Focused
+9,5.0,Socotra,Discussion-Focused
+0,5.0,Socotra,History-Focused
+1,5.0,Socotra,History-Focused
+2,5.0,Socotra,History-Focused
+3,5.0,Socotra,History-Focused
+4,5.0,Socotra,History-Focused
+5,5.0,Socotra,History-Focused
+6,5.0,Socotra,History-Focused
+7,5.0,Socotra,History-Focused
+8,5.0,Socotra,History-Focused
+9,5.0,Socotra,History-Focused
+0,5.0,Socotra,Event-Focused
+1,5.0,Socotra,Event-Focused
+2,5.0,Socotra,Event-Focused
+3,5.0,Socotra,Event-Focused
+4,5.0,Socotra,Event-Focused
+5,5.0,Socotra,Event-Focused
+6,5.0,Socotra,Event-Focused
+7,5.0,Socotra,Event-Focused
+8,5.0,Socotra,Event-Focused
+9,5.0,Socotra,Event-Focused
+0,5.0,Socotra,Person-Focused
+1,5.0,Socotra,Person-Focused
+2,5.0,Socotra,Person-Focused
+3,5.0,Socotra,Person-Focused
+4,5.0,Socotra,Person-Focused
+5,5.0,Socotra,Person-Focused
+6,5.0,Socotra,Person-Focused
+7,5.0,Socotra,Person-Focused
+8,5.0,Socotra,Person-Focused
+9,5.0,Socotra,Person-Focused
+0,5.0,Socotra,Location-Focused
+1,5.0,Socotra,Location-Focused
+2,5.0,Socotra,Location-Focused
+3,5.0,Socotra,Location-Focused
+4,5.0,Socotra,Location-Focused
+5,5.0,Socotra,Location-Focused
+6,5.0,Socotra,Location-Focused
+7,5.0,Socotra,Location-Focused
+8,5.0,Socotra,Location-Focused
+9,5.0,Socotra,Location-Focused
+0,5.0,Petra,Price
+1,5.0,Petra,Price
+2,5.0,Petra,Price
+3,5.0,Petra,Price
+4,5.0,Petra,Price
+5,5.0,Petra,Price
+6,5.0,Petra,Price
+7,5.0,Petra,Price
+8,5.0,Petra,Price
+9,5.0,Petra,Price
+0,5.0,Petra,Quality
+1,5.0,Petra,Quality
+2,5.0,Petra,Quality
+3,5.0,Petra,Quality
+4,5.0,Petra,Quality
+5,5.0,Petra,Quality
+6,5.0,Petra,Quality
+7,5.0,Petra,Quality
+8,5.0,Petra,Quality
+9,5.0,Petra,Quality
+0,5.0,Petra,Brand Reputation
+1,5.0,Petra,Brand Reputation
+2,5.0,Petra,Brand Reputation
+3,5.0,Petra,Brand Reputation
+4,5.0,Petra,Brand Reputation
+5,5.0,Petra,Brand Reputation
+6,5.0,Petra,Brand Reputation
+7,5.0,Petra,Brand Reputation
+8,5.0,Petra,Brand Reputation
+9,5.0,Petra,Brand Reputation
+0,5.0,Petra,Features & Functionality
+1,5.0,Petra,Features & Functionality
+2,5.0,Petra,Features & Functionality
+3,5.0,Petra,Features & Functionality
+4,5.0,Petra,Features & Functionality
+5,5.0,Petra,Features & Functionality
+6,5.0,Petra,Features & Functionality
+7,5.0,Petra,Features & Functionality
+8,5.0,Petra,Features & Functionality
+9,5.0,Petra,Features & Functionality
+0,5.0,Petra,Ethical Considerations
+1,5.0,Petra,Ethical Considerations
+2,5.0,Petra,Ethical Considerations
+3,5.0,Petra,Ethical Considerations
+4,5.0,Petra,Ethical Considerations
+5,5.0,Petra,Ethical Considerations
+6,5.0,Petra,Ethical Considerations
+7,5.0,Petra,Ethical Considerations
+8,5.0,Petra,Ethical Considerations
+9,5.0,Petra,Ethical Considerations
+0,5.0,Petra,Discussion-Focused
+1,5.0,Petra,Discussion-Focused
+2,5.0,Petra,Discussion-Focused
+3,5.0,Petra,Discussion-Focused
+4,5.0,Petra,Discussion-Focused
+5,5.0,Petra,Discussion-Focused
+6,5.0,Petra,Discussion-Focused
+7,5.0,Petra,Discussion-Focused
+8,5.0,Petra,Discussion-Focused
+9,5.0,Petra,Discussion-Focused
+0,5.0,Petra,History-Focused
+1,5.0,Petra,History-Focused
+2,5.0,Petra,History-Focused
+3,5.0,Petra,History-Focused
+4,5.0,Petra,History-Focused
+5,5.0,Petra,History-Focused
+6,5.0,Petra,History-Focused
+7,5.0,Petra,History-Focused
+8,5.0,Petra,History-Focused
+9,5.0,Petra,History-Focused
+0,5.0,Petra,Event-Focused
+1,5.0,Petra,Event-Focused
+2,5.0,Petra,Event-Focused
+3,5.0,Petra,Event-Focused
+4,5.0,Petra,Event-Focused
+5,5.0,Petra,Event-Focused
+6,5.0,Petra,Event-Focused
+7,5.0,Petra,Event-Focused
+8,5.0,Petra,Event-Focused
+9,5.0,Petra,Event-Focused
+0,5.0,Petra,Person-Focused
+1,5.0,Petra,Person-Focused
+2,5.0,Petra,Person-Focused
+3,5.0,Petra,Person-Focused
+4,5.0,Petra,Person-Focused
+5,5.0,Petra,Person-Focused
+6,5.0,Petra,Person-Focused
+7,5.0,Petra,Person-Focused
+8,5.0,Petra,Person-Focused
+9,5.0,Petra,Person-Focused
+0,5.0,Petra,Location-Focused
+1,5.0,Petra,Location-Focused
+2,5.0,Petra,Location-Focused
+3,5.0,Petra,Location-Focused
+4,5.0,Petra,Location-Focused
+5,5.0,Petra,Location-Focused
+6,5.0,Petra,Location-Focused
+7,5.0,Petra,Location-Focused
+8,5.0,Petra,Location-Focused
+9,5.0,Petra,Location-Focused
+0,5.0,Ketogenic diet,Price
+1,5.0,Ketogenic diet,Price
+2,5.0,Ketogenic diet,Price
+3,5.0,Ketogenic diet,Price
+4,5.0,Ketogenic diet,Price
+5,5.0,Ketogenic diet,Price
+6,5.0,Ketogenic diet,Price
+7,5.0,Ketogenic diet,Price
+8,5.0,Ketogenic diet,Price
+9,5.0,Ketogenic diet,Price
+0,5.0,Ketogenic diet,Quality
+1,5.0,Ketogenic diet,Quality
+2,5.0,Ketogenic diet,Quality
+3,5.0,Ketogenic diet,Quality
+4,5.0,Ketogenic diet,Quality
+5,5.0,Ketogenic diet,Quality
+6,5.0,Ketogenic diet,Quality
+7,5.0,Ketogenic diet,Quality
+8,5.0,Ketogenic diet,Quality
+9,5.0,Ketogenic diet,Quality
+0,5.0,Ketogenic diet,Brand Reputation
+1,5.0,Ketogenic diet,Brand Reputation
+2,5.0,Ketogenic diet,Brand Reputation
+3,5.0,Ketogenic diet,Brand Reputation
+4,5.0,Ketogenic diet,Brand Reputation
+5,5.0,Ketogenic diet,Brand Reputation
+6,5.0,Ketogenic diet,Brand Reputation
+7,5.0,Ketogenic diet,Brand Reputation
+8,5.0,Ketogenic diet,Brand Reputation
+9,5.0,Ketogenic diet,Brand Reputation
+0,5.0,Ketogenic diet,Features & Functionality
+1,5.0,Ketogenic diet,Features & Functionality
+2,5.0,Ketogenic diet,Features & Functionality
+3,5.0,Ketogenic diet,Features & Functionality
+4,5.0,Ketogenic diet,Features & Functionality
+5,5.0,Ketogenic diet,Features & Functionality
+6,5.0,Ketogenic diet,Features & Functionality
+7,5.0,Ketogenic diet,Features & Functionality
+8,5.0,Ketogenic diet,Features & Functionality
+9,5.0,Ketogenic diet,Features & Functionality
+0,5.0,Ketogenic diet,Ethical Considerations
+1,5.0,Ketogenic diet,Ethical Considerations
+2,5.0,Ketogenic diet,Ethical Considerations
+3,5.0,Ketogenic diet,Ethical Considerations
+4,5.0,Ketogenic diet,Ethical Considerations
+5,5.0,Ketogenic diet,Ethical Considerations
+6,5.0,Ketogenic diet,Ethical Considerations
+7,5.0,Ketogenic diet,Ethical Considerations
+8,5.0,Ketogenic diet,Ethical Considerations
+9,5.0,Ketogenic diet,Ethical Considerations
+0,5.0,Ketogenic diet,Discussion-Focused
+1,5.0,Ketogenic diet,Discussion-Focused
+2,5.0,Ketogenic diet,Discussion-Focused
+3,5.0,Ketogenic diet,Discussion-Focused
+4,5.0,Ketogenic diet,Discussion-Focused
+5,5.0,Ketogenic diet,Discussion-Focused
+6,5.0,Ketogenic diet,Discussion-Focused
+7,5.0,Ketogenic diet,Discussion-Focused
+8,5.0,Ketogenic diet,Discussion-Focused
+9,5.0,Ketogenic diet,Discussion-Focused
+0,5.0,Ketogenic diet,History-Focused
+1,5.0,Ketogenic diet,History-Focused
+2,5.0,Ketogenic diet,History-Focused
+3,5.0,Ketogenic diet,History-Focused
+4,5.0,Ketogenic diet,History-Focused
+5,5.0,Ketogenic diet,History-Focused
+6,5.0,Ketogenic diet,History-Focused
+7,5.0,Ketogenic diet,History-Focused
+8,5.0,Ketogenic diet,History-Focused
+9,5.0,Ketogenic diet,History-Focused
+0,5.0,Ketogenic diet,Event-Focused
+1,5.0,Ketogenic diet,Event-Focused
+2,5.0,Ketogenic diet,Event-Focused
+3,5.0,Ketogenic diet,Event-Focused
+4,5.0,Ketogenic diet,Event-Focused
+5,5.0,Ketogenic diet,Event-Focused
+6,5.0,Ketogenic diet,Event-Focused
+7,5.0,Ketogenic diet,Event-Focused
+8,5.0,Ketogenic diet,Event-Focused
+9,5.0,Ketogenic diet,Event-Focused
+0,5.0,Ketogenic diet,Person-Focused
+1,5.0,Ketogenic diet,Person-Focused
+2,5.0,Ketogenic diet,Person-Focused
+3,5.0,Ketogenic diet,Person-Focused
+4,5.0,Ketogenic diet,Person-Focused
+5,5.0,Ketogenic diet,Person-Focused
+6,5.0,Ketogenic diet,Person-Focused
+7,5.0,Ketogenic diet,Person-Focused
+8,5.0,Ketogenic diet,Person-Focused
+9,5.0,Ketogenic diet,Person-Focused
+0,5.0,Ketogenic diet,Location-Focused
+1,5.0,Ketogenic diet,Location-Focused
+2,5.0,Ketogenic diet,Location-Focused
+3,5.0,Ketogenic diet,Location-Focused
+4,5.0,Ketogenic diet,Location-Focused
+5,5.0,Ketogenic diet,Location-Focused
+6,5.0,Ketogenic diet,Location-Focused
+7,5.0,Ketogenic diet,Location-Focused
+8,5.0,Ketogenic diet,Location-Focused
+9,5.0,Ketogenic diet,Location-Focused
+0,5.0,Health benefits of pomegranate,Price
+1,5.0,Health benefits of pomegranate,Price
+2,5.0,Health benefits of pomegranate,Price
+3,5.0,Health benefits of pomegranate,Price
+4,5.0,Health benefits of pomegranate,Price
+5,5.0,Health benefits of pomegranate,Price
+6,5.0,Health benefits of pomegranate,Price
+7,5.0,Health benefits of pomegranate,Price
+8,5.0,Health benefits of pomegranate,Price
+9,5.0,Health benefits of pomegranate,Price
+0,5.0,Health benefits of pomegranate,Quality
+1,5.0,Health benefits of pomegranate,Quality
+2,5.0,Health benefits of pomegranate,Quality
+3,5.0,Health benefits of pomegranate,Quality
+4,5.0,Health benefits of pomegranate,Quality
+5,5.0,Health benefits of pomegranate,Quality
+6,5.0,Health benefits of pomegranate,Quality
+7,5.0,Health benefits of pomegranate,Quality
+8,5.0,Health benefits of pomegranate,Quality
+9,5.0,Health benefits of pomegranate,Quality
+0,5.0,Health benefits of pomegranate,Brand Reputation
+1,5.0,Health benefits of pomegranate,Brand Reputation
+2,5.0,Health benefits of pomegranate,Brand Reputation
+3,5.0,Health benefits of pomegranate,Brand Reputation
+4,5.0,Health benefits of pomegranate,Brand Reputation
+5,5.0,Health benefits of pomegranate,Brand Reputation
+6,5.0,Health benefits of pomegranate,Brand Reputation
+7,5.0,Health benefits of pomegranate,Brand Reputation
+8,5.0,Health benefits of pomegranate,Brand Reputation
+9,5.0,Health benefits of pomegranate,Brand Reputation
+0,5.0,Health benefits of pomegranate,Features & Functionality
+1,5.0,Health benefits of pomegranate,Features & Functionality
+2,5.0,Health benefits of pomegranate,Features & Functionality
+3,5.0,Health benefits of pomegranate,Features & Functionality
+4,5.0,Health benefits of pomegranate,Features & Functionality
+5,5.0,Health benefits of pomegranate,Features & Functionality
+6,5.0,Health benefits of pomegranate,Features & Functionality
+7,5.0,Health benefits of pomegranate,Features & Functionality
+8,5.0,Health benefits of pomegranate,Features & Functionality
+9,5.0,Health benefits of pomegranate,Features & Functionality
+0,5.0,Health benefits of pomegranate,Ethical Considerations
+1,5.0,Health benefits of pomegranate,Ethical Considerations
+2,5.0,Health benefits of pomegranate,Ethical Considerations
+3,5.0,Health benefits of pomegranate,Ethical Considerations
+4,5.0,Health benefits of pomegranate,Ethical Considerations
+5,5.0,Health benefits of pomegranate,Ethical Considerations
+6,5.0,Health benefits of pomegranate,Ethical Considerations
+7,5.0,Health benefits of pomegranate,Ethical Considerations
+8,5.0,Health benefits of pomegranate,Ethical Considerations
+9,5.0,Health benefits of pomegranate,Ethical Considerations
+0,5.0,Health benefits of pomegranate,Discussion-Focused
+1,5.0,Health benefits of pomegranate,Discussion-Focused
+2,5.0,Health benefits of pomegranate,Discussion-Focused
+3,5.0,Health benefits of pomegranate,Discussion-Focused
+4,5.0,Health benefits of pomegranate,Discussion-Focused
+5,5.0,Health benefits of pomegranate,Discussion-Focused
+6,5.0,Health benefits of pomegranate,Discussion-Focused
+7,5.0,Health benefits of pomegranate,Discussion-Focused
+8,5.0,Health benefits of pomegranate,Discussion-Focused
+9,5.0,Health benefits of pomegranate,Discussion-Focused
+0,5.0,Health benefits of pomegranate,History-Focused

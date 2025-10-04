@@ -1,0 +1,35 @@
+
+
+
+iterations: 10
+
+
+new_questions_per_iter: 10
+
+n: 20  # item pool size
+k: 10   # number of new questions to generate
+
+
+ctr_temperature: 0.7
+
+
+domains:
+  - ecommerce
+  - wikipedia
+
+
+data_dir: data/
+prompts_dir: prompts/
+results_dir: results/
+
+
+llm:
+  provider: openai
+  model: gpt-4
+  temperature: 0.7
+  max_tokens: 512
+
+
+logging:
+  log_dir: results/logs/
+  log_ctr_file: results/ctr_results.csv

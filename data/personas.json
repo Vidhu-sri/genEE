@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Price",
+    "domain": "ecommerce",
+    "prompt": "The cost of the product is one of the primary considerations. It includes not only the initial price but also long-term costs such as maintenance, operation, or subscription fees."
+  },
+  {
+    "name": "Quality",
+    "domain": "ecommerce",
+    "prompt": "Customers look at the materials, construction, durability, and overall finish of the product. High quality often correlates with longer lifespan and better performance."
+  },
+  {
+    "name": "Brand Reputation",
+    "domain": "ecommerce",
+    "prompt": "Well-known brands often carry a perceived assurance of quality, trust, and status. Customers may prefer products from brands with a strong reputation or positive previous experiences."
+  },
+  {
+    "name": "Features & Functionality",
+    "domain": "ecommerce",
+    "prompt": "The capabilities of the product, including its features, usability, and whether it meets the customer’s needs and expectations, are crucial."
+  },
+  {
+    "name": "Ethical Considerations",
+    "domain": "ecommerce",
+    "prompt": "Increasingly, customers think about the ethical implications of their purchases, such as sustainability, environmental impact, labor practices, and animal welfare."
+  },
+  {
+    "name": "Discussion-Focused",
+    "domain": "wikipedia",
+    "prompt": "This person is more interested in about various arguments on this topic and will be more interested in asking questions that are open-ended and thought-provoking which can lead to further discussions."
+  },
+  {
+    "name": "History-Focused",
+    "domain": "wikipedia",
+    "prompt": "This person is more interested in learning about the history of the topic and will be more interested in asking questions that are centered around the history of the topic."
+  },
+  {
+    "name": "Event-Focused",
+    "domain": "wikipedia",
+    "prompt": "This person is more interested in learning about the events related to the topic and will be more interested in asking questions that are centered around the events related to the topic."
+  },
+  {
+    "name": "Person-Focused",
+    "domain": "wikipedia",
+    "prompt": "This person is more interested in learning about the people related to the topic and will be more interested in asking questions that are centered around the people related to the topic."
+  },
+  {
+    "name": "Location-Focused",
+    "domain": "wikipedia",
+    "prompt": "This person is more interested in learning about the locations related to the topic and will be more interested in asking questions that are centered around the locations related to the topic."
+  }
+]

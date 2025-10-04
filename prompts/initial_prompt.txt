@@ -1,0 +1,4 @@
+Write <{{N}}> general questions that a person might ask to gain information about ‘{{TOPIC}}’. 
+The questions should be as brief as possible and no more than 15 words. 
+Avoid using words like "best", "where". 
+Make sure that you refer to the category in the questions and the questions are general and grammatical.

@@ -1,0 +1,3 @@
+Given a Wikipedia article, write {{N}} short questions a person who is viewing this article might want to ask to quickly learn about some of the information in the article. The questions should be answerable by the information in the article, and the goal of the questions is that the person will not need to read the entire article to find the answer. The questions should be no more than 15 words.
+
+Title: {{TOPIC}}

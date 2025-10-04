@@ -1,0 +1,9 @@
+openai
+pandas
+matplotlib
+seaborn
+python-dotenv
+yaml
+tqdm
+huggingface-hub
+torch

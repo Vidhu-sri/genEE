@@ -1,0 +1,14 @@
+Write {{N}} general questions that a shopper might ask to learn about '{{CATEGORY}}'.
+
+Constraints:
+- Each question ≤ 15 words and grammatical.
+- Avoid using the words "best" and "where".
+- Each question should explicitly mention the category (e.g., "spray bottles").
+- Vary the facets you cover (price, quality, features, brand, ethics).
+- Do not repeat or closely paraphrase existing questions (if you have access to them).
+
+Output:
+New Question: <question>
+New Question: <question>
+...
+(repeat exactly {{N}} lines; no extra text)

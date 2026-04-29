@@ -1,35 +1,39 @@
+# pool & iteration
+pool_size: 20
+keep_k: 10
+iterations: 15
+
+# generation sizes per iteration
+explore_n: 5
+exploit_n: 5
+n: 20   # init questions
+
+#ctr simulator
+sim_K: 3
+sim_S: 5000
+sim_T: 1.5
+sim_RS: 11
+seed: 42
+
+#llms
+qs_model: gpt-4-turbo
+qs_temperature: 0.0          # scorer 
+gen_model: gpt-3.5-turbo
+gen_temperature: 0.8         # explore/exploit
 
 
-
-iterations: 10
-
-
-new_questions_per_iter: 10
-
-n: 20  # item pool size
-k: 10   # number of new questions to generate
-
-
-ctr_temperature: 0.7
-
-
-domains:
-  - ecommerce
-  - wikipedia
-
-
-data_dir: data/
-prompts_dir: prompts/
-results_dir: results/
-
-
-llm:
-  provider: openai
-  model: gpt-4
-  temperature: 0.7
-  max_tokens: 512
-
+batch_size: 20               
+rate_limit_rps: 5            
 
 logging:
   log_dir: results/logs/
   log_ctr_file: results/ctr_results.csv
+
+data_dir: 'C:\Users\Lenovo\Desktop\research\genEE\data'
+prompts_dir: 'C:\Users\Lenovo\Desktop\research\genEE\prompts'
+results_dir: 'C:\Users\Lenovo\Desktop\research\genEE\results'
+
+
+evaluator_backend: film
+film_checkpoint: evaluator/checkpoints/best.pt
+evaluator_device: cpu

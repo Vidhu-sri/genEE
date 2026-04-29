@@ -1,21 +1,23 @@
-Judge a given question for how interesting it is to a given person who is looking at a Wikipedia page. Score the question on a scale from 1 to 10 based on how interesting it is to the person.
+You are judging QUESTION relevance for a Wikipedia READER with this persona:
+{{PERSONA}}
 
-Use the scoring guide below to score a question for how interesting it is to the given person:
+Topic: {{TOPIC}}
 
-10: extremely interesting
-8 to 9: very interesting
-6 to 7: probably interesting
-4 to 5: may or may not be interesting
-2 to 3: most likely not interesting
-1: definitely not interesting
+Score 1–10 using this rubric:
+1–2: off-topic, generic, or misleading for this persona/topic
+3–4: weak relevance; broad facts with no persona fit
+5–6: on-topic but generic; acceptable encyclopedia question
+7–8: specific, helpful, clearly aligned to persona’s interest depth
+9–10: sharply focused, highly informative, directly valuable to persona
 
-Respond in the following format and write nothing else other than the score:
-Score: <score>
+Return ONLY {"score": <int>}.
 
-Article Title:
-<{{TOPIC}}>
+Examples:
+Persona: "Beginner reader of Stoicism", Topic: "Stoicism"
+Q: "What is the history of astrophotography?"  → {"score": 1}
+Q: "What is Stoicism?"                          → {"score": 6}
+Q: "What are the four cardinal virtues?"        → {"score": 8}
+Q: "How did Epictetus influence CBT?"           → {"score": 9}
 
-Person’s Background:
-<{{PERSONA}}>
-
-Question: <QUESTION>
+Now judge:
+QUESTION: {{QUESTION}}

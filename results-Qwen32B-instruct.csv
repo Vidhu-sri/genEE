@@ -1,0 +1,152 @@
+iteration,avg_ctr,topic,domain
+0,0.0027,Spray Bottles,ecommerce
+1,0.0030400000000000006,Spray Bottles,ecommerce
+2,0.00293,Spray Bottles,ecommerce
+3,0.003400000000000001,Spray Bottles,ecommerce
+4,0.0033900000000000015,Spray Bottles,ecommerce
+5,0.0033599999999999997,Spray Bottles,ecommerce
+6,0.0034200000000000003,Spray Bottles,ecommerce
+7,0.00355,Spray Bottles,ecommerce
+8,0.0035900000000000007,Spray Bottles,ecommerce
+9,0.003599999999999999,Spray Bottles,ecommerce
+10,0.00363,Spray Bottles,ecommerce
+11,0.0036799999999999992,Spray Bottles,ecommerce
+12,0.003570000000000001,Spray Bottles,ecommerce
+13,0.0036999999999999993,Spray Bottles,ecommerce
+14,0.00366,Spray Bottles,ecommerce
+0,0.004630000000000001,Cookware Sets,ecommerce
+1,0.005209999999999999,Cookware Sets,ecommerce
+2,0.00577,Cookware Sets,ecommerce
+3,0.00556,Cookware Sets,ecommerce
+4,0.00561,Cookware Sets,ecommerce
+5,0.0058000000000000005,Cookware Sets,ecommerce
+6,0.005720000000000001,Cookware Sets,ecommerce
+7,0.00588,Cookware Sets,ecommerce
+8,0.005959999999999999,Cookware Sets,ecommerce
+9,0.005859999999999999,Cookware Sets,ecommerce
+10,0.006010000000000001,Cookware Sets,ecommerce
+11,0.005840000000000001,Cookware Sets,ecommerce
+12,0.005859999999999999,Cookware Sets,ecommerce
+13,0.00593,Cookware Sets,ecommerce
+14,0.00593,Cookware Sets,ecommerce
+0,0.00129,TV Antennas,ecommerce
+1,0.0015199999999999999,TV Antennas,ecommerce
+2,0.00146,TV Antennas,ecommerce
+3,0.0014400000000000003,TV Antennas,ecommerce
+4,0.0015999999999999996,TV Antennas,ecommerce
+5,0.00153,TV Antennas,ecommerce
+6,0.0016100000000000003,TV Antennas,ecommerce
+7,0.0016799999999999999,TV Antennas,ecommerce
+8,0.00172,TV Antennas,ecommerce
+9,0.0016300000000000006,TV Antennas,ecommerce
+10,0.0017600000000000007,TV Antennas,ecommerce
+11,0.0017199999999999997,TV Antennas,ecommerce
+12,0.0017300000000000002,TV Antennas,ecommerce
+13,0.0017100000000000004,TV Antennas,ecommerce
+14,0.00166,TV Antennas,ecommerce
+0,0.00071,DVI,ecommerce
+1,0.00074,DVI,ecommerce
+2,0.0007399999999999999,DVI,ecommerce
+3,0.0008,DVI,ecommerce
+4,0.00083,DVI,ecommerce
+5,0.0009399999999999999,DVI,ecommerce
+6,0.0008900000000000002,DVI,ecommerce
+7,0.0008700000000000003,DVI,ecommerce
+8,0.0008999999999999998,DVI,ecommerce
+9,0.0008799999999999999,DVI,ecommerce
+10,0.0008699999999999999,DVI,ecommerce
+11,0.0009199999999999998,DVI,ecommerce
+12,0.0008799999999999999,DVI,ecommerce
+13,0.0008999999999999998,DVI,ecommerce
+14,0.0008899999999999998,DVI,ecommerce
+0,0.0019799999999999996,Measuring Tools & Scales,ecommerce
+1,0.00213,Measuring Tools & Scales,ecommerce
+2,0.00207,Measuring Tools & Scales,ecommerce
+3,0.00233,Measuring Tools & Scales,ecommerce
+4,0.0025500000000000006,Measuring Tools & Scales,ecommerce
+5,0.0025399999999999997,Measuring Tools & Scales,ecommerce
+6,0.0028600000000000006,Measuring Tools & Scales,ecommerce
+7,0.0029699999999999996,Measuring Tools & Scales,ecommerce
+8,0.0029000000000000007,Measuring Tools & Scales,ecommerce
+9,0.0029999999999999996,Measuring Tools & Scales,ecommerce
+10,0.00268,Measuring Tools & Scales,ecommerce
+11,0.0030700000000000002,Measuring Tools & Scales,ecommerce
+12,0.00305,Measuring Tools & Scales,ecommerce
+13,0.00329,Measuring Tools & Scales,ecommerce
+14,0.0031399999999999996,Measuring Tools & Scales,ecommerce
+0,0.005590000000000001,Stoicism,wikipedia
+1,0.007050000000000001,Stoicism,wikipedia
+2,0.0073599999999999985,Stoicism,wikipedia
+3,0.007910000000000002,Stoicism,wikipedia
+4,0.00797,Stoicism,wikipedia
+5,0.00841,Stoicism,wikipedia
+6,0.007870000000000002,Stoicism,wikipedia
+7,0.007939999999999997,Stoicism,wikipedia
+8,0.0089,Stoicism,wikipedia
+9,0.00915,Stoicism,wikipedia
+10,0.009210000000000001,Stoicism,wikipedia
+11,0.009030000000000002,Stoicism,wikipedia
+12,0.008929999999999997,Stoicism,wikipedia
+13,0.008400000000000001,Stoicism,wikipedia
+14,0.009049999999999999,Stoicism,wikipedia
+0,0.006119999999999999,Friedrich Nietzsche,wikipedia
+1,0.007180000000000001,Friedrich Nietzsche,wikipedia
+2,0.00797,Friedrich Nietzsche,wikipedia
+3,0.00813,Friedrich Nietzsche,wikipedia
+4,0.00847,Friedrich Nietzsche,wikipedia
+5,0.008310000000000001,Friedrich Nietzsche,wikipedia
+6,0.00808,Friedrich Nietzsche,wikipedia
+7,0.00834,Friedrich Nietzsche,wikipedia
+8,0.00889,Friedrich Nietzsche,wikipedia
+9,0.008799999999999999,Friedrich Nietzsche,wikipedia
+10,0.008740000000000001,Friedrich Nietzsche,wikipedia
+11,0.00896,Friedrich Nietzsche,wikipedia
+12,0.008950000000000001,Friedrich Nietzsche,wikipedia
+13,0.00895,Friedrich Nietzsche,wikipedia
+14,0.009,Friedrich Nietzsche,wikipedia
+0,0.00481,Artificial Superintelligence,wikipedia
+1,0.00603,Artificial Superintelligence,wikipedia
+2,0.0064,Artificial Superintelligence,wikipedia
+3,0.006709999999999999,Artificial Superintelligence,wikipedia
+4,0.00648,Artificial Superintelligence,wikipedia
+5,0.006430000000000001,Artificial Superintelligence,wikipedia
+6,0.0066099999999999996,Artificial Superintelligence,wikipedia
+7,0.006229999999999999,Artificial Superintelligence,wikipedia
+8,0.006699999999999999,Artificial Superintelligence,wikipedia
+9,0.00698,Artificial Superintelligence,wikipedia
+10,0.00677,Artificial Superintelligence,wikipedia
+11,0.006840000000000001,Artificial Superintelligence,wikipedia
+12,0.00677,Artificial Superintelligence,wikipedia
+13,0.006749999999999999,Artificial Superintelligence,wikipedia
+14,0.00679,Artificial Superintelligence,wikipedia
+0,0.007299999999999999,The Beatles' rooftop concert,wikipedia
+1,0.00829,The Beatles' rooftop concert,wikipedia
+2,0.00842,The Beatles' rooftop concert,wikipedia
+3,0.00856,The Beatles' rooftop concert,wikipedia
+4,0.00875,The Beatles' rooftop concert,wikipedia
+5,0.008979999999999998,The Beatles' rooftop concert,wikipedia
+6,0.009499999999999998,The Beatles' rooftop concert,wikipedia
+7,0.00942,The Beatles' rooftop concert,wikipedia
+8,0.009249999999999998,The Beatles' rooftop concert,wikipedia
+9,0.009850000000000001,The Beatles' rooftop concert,wikipedia
+10,0.009349999999999997,The Beatles' rooftop concert,wikipedia
+11,0.00953,The Beatles' rooftop concert,wikipedia
+12,0.009700000000000002,The Beatles' rooftop concert,wikipedia
+13,0.00939,The Beatles' rooftop concert,wikipedia
+14,0.009519999999999997,The Beatles' rooftop concert,wikipedia
+0,0.006059999999999999,Carl Jung,wikipedia
+1,0.00814,Carl Jung,wikipedia
+2,0.00866,Carl Jung,wikipedia
+3,0.00874,Carl Jung,wikipedia
+4,0.008950000000000001,Carl Jung,wikipedia
+5,0.00869,Carl Jung,wikipedia
+6,0.008900000000000002,Carl Jung,wikipedia
+7,0.008889999999999999,Carl Jung,wikipedia
+8,0.008900000000000002,Carl Jung,wikipedia
+9,0.008929999999999999,Carl Jung,wikipedia
+10,0.008889999999999997,Carl Jung,wikipedia
+11,0.0091,Carl Jung,wikipedia
+12,0.008909999999999998,Carl Jung,wikipedia
+13,0.00912,Carl Jung,wikipedia
+14,0.009040000000000001,Carl Jung,wikipedia
+

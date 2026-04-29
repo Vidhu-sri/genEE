@@ -1,0 +1,62 @@
+iteration,avg_ctr,topic,domain
+0,0.00651,Stoicism,wikipedia
+1,0.007269999999999999,Stoicism,wikipedia
+2,0.00839,Stoicism,wikipedia
+3,0.009130000000000003,Stoicism,wikipedia
+4,0.009130000000000001,Stoicism,wikipedia
+5,0.009779999999999999,Stoicism,wikipedia
+6,0.00934,Stoicism,wikipedia
+7,0.009460000000000003,Stoicism,wikipedia
+8,0.00928,Stoicism,wikipedia
+9,0.00989,Stoicism,wikipedia
+10,0.010539999999999999,Stoicism,wikipedia
+11,0.010239999999999999,Stoicism,wikipedia
+12,0.010330000000000002,Stoicism,wikipedia
+13,0.010610000000000001,Stoicism,wikipedia
+14,0.010260000000000002,Stoicism,wikipedia
+0,0.00472,Friedrich Nietzsche,wikipedia
+1,0.0064399999999999995,Friedrich Nietzsche,wikipedia
+2,0.00825,Friedrich Nietzsche,wikipedia
+3,0.00853,Friedrich Nietzsche,wikipedia
+4,0.009179999999999999,Friedrich Nietzsche,wikipedia
+5,0.00935,Friedrich Nietzsche,wikipedia
+6,0.00967,Friedrich Nietzsche,wikipedia
+7,0.009509999999999998,Friedrich Nietzsche,wikipedia
+8,0.009630000000000001,Friedrich Nietzsche,wikipedia
+9,0.00964,Friedrich Nietzsche,wikipedia
+10,0.009389999999999999,Friedrich Nietzsche,wikipedia
+11,0.00962,Friedrich Nietzsche,wikipedia
+12,0.009980000000000001,Friedrich Nietzsche,wikipedia
+13,0.009650000000000004,Friedrich Nietzsche,wikipedia
+14,0.00937,Friedrich Nietzsche,wikipedia
+0,0.004960000000000001,Artificial Superintelligence,wikipedia
+1,0.00566,Artificial Superintelligence,wikipedia
+2,0.005790000000000001,Artificial Superintelligence,wikipedia
+3,0.00642,Artificial Superintelligence,wikipedia
+4,0.006849999999999999,Artificial Superintelligence,wikipedia
+5,0.006699999999999999,Artificial Superintelligence,wikipedia
+6,0.00661,Artificial Superintelligence,wikipedia
+7,0.00673,Artificial Superintelligence,wikipedia
+8,0.00677,Artificial Superintelligence,wikipedia
+9,0.006749999999999999,Artificial Superintelligence,wikipedia
+10,0.006900000000000001,Artificial Superintelligence,wikipedia
+11,0.007259999999999997,Artificial Superintelligence,wikipedia
+12,0.00708,Artificial Superintelligence,wikipedia
+13,0.007269999999999999,Artificial Superintelligence,wikipedia
+14,0.0070999999999999995,Artificial Superintelligence,wikipedia
+0,0.005380000000000001,The Beatles' rooftop concert,wikipedia
+1,0.00729,The Beatles' rooftop concert,wikipedia
+2,0.007139999999999998,The Beatles' rooftop concert,wikipedia
+3,0.007240000000000001,The Beatles' rooftop concert,wikipedia
+4,0.008029999999999999,The Beatles' rooftop concert,wikipedia
+5,0.00784,The Beatles' rooftop concert,wikipedia
+6,0.007639999999999999,The Beatles' rooftop concert,wikipedia
+7,0.007760000000000001,The Beatles' rooftop concert,wikipedia
+8,0.007809999999999999,The Beatles' rooftop concert,wikipedia
+9,0.00819,The Beatles' rooftop concert,wikipedia
+10,0.00845,The Beatles' rooftop concert,wikipedia
+11,0.008750000000000003,The Beatles' rooftop concert,wikipedia
+12,0.008369999999999999,The Beatles' rooftop concert,wikipedia
+13,0.00853,The Beatles' rooftop concert,wikipedia
+14,0.008400000000000001,The Beatles' rooftop concert,wikipedia
+0,0.0048000000000000004,Carl Jung,wikipedia

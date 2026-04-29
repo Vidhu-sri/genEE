@@ -1,0 +1,16 @@
+Context:
+Article Title: "{{TITLE}}"
+
+Task:
+Write {{N}} short, specific questions (≤ 15 words each) that a reader of "{{TITLE}}" might ask.
+
+Rules:
+- Each question must refer to the article subject (use words from the title or a close phrase).
+- Avoid "best" and "where" and avoid generic prompts like "What are the key points".
+- Questions should be answerable by article content.
+
+Output (exact format; nothing else):
+Question 1: <text>
+Question 2: <text>
+...
+Question {{N}}: <text>

@@ -1,4 +1,5 @@
-Judge a given question for its relevance to a given customer’s shopping interests. Score the question on a scale from 1 to 10 based on its relevance to the customer’s shopping interests.
+Judge a given question for its relevance to a given customer’s shopping interests. 
+Score the question on a scale from 1 to 10 based on its relevance to the customer’s shopping interests.
 
 Use the scoring guide below to score a question for a given customer’s shopping interests:
 

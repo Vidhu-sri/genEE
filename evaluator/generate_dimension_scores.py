@@ -23,6 +23,7 @@ Usage:
 import json, os, time, argparse
 from pathlib import Path
 from dotenv import load_dotenv
+from tqdm import tqdm
 
 load_dotenv()
 
@@ -47,17 +48,44 @@ WIKI_DIM_DESCRIPTIONS = [
 # Add your ecommerce topics here to auto-detect domain
 ECOMMERCE_TOPICS = set()  # Will be populated from personas.json if available
 
-PROMPT = """You are evaluating questions suggested for the topic "{topic}" in the {domain} domain.
+PROMPT = PROMPT = """You are evaluating questions suggested for the topic "{topic}" in the {domain} domain.
 
 For each question below, rate its relevance to EACH of the following preference dimensions on a scale of 1-10:
+
 {dim_descriptions}
 
-Rate how well the question serves a user who cares about that specific dimension.
-- 1 = completely irrelevant to that dimension
-- 5 = somewhat relevant
-- 10 = perfectly targets that dimension
+Important scoring instructions:
+- Score each dimension independently.
+- A question may be relevant to multiple dimensions.
+- Do NOT treat this as single-label classification.
+- Do NOT force the scores to sum to anything.
+- Avoid using only 1 and 10 unless the relevance is truly extreme.
+- Prefer calibrated, graded scores.
 
-Output ONLY a JSON array. Each element: {{"idx": <int>, "scores": [<5 ints>]}}.
+
+
+Calibration guide:
+- 1 = completely irrelevant
+- 2 = almost irrelevant
+- 3 = weakly related
+- 4 = mildly related
+- 5 = somewhat relevant
+- 6 = moderately relevant
+- 7 = clearly relevant
+- 8 = strongly relevant
+- 9 = very strongly relevant
+- 10 = directly and specifically targets that dimension
+
+Examples of scoring behavior:
+- A "when did it happen" question may be high for History and moderately high for Event if it concerns a specific incident.
+- A "who founded/invented/discovered it" question may be high for Person and moderately relevant to History.
+- A "where is it located" question may be high for Location and mildly/moderately relevant to History if historical context matters.
+- A "what is it / how does it work / why is it important" question is usually high for Discussion, but may also be moderately relevant to History, Event, Person, or Location depending on the topic.
+
+Output ONLY a valid JSON array.
+Each element must be:
+{{"idx": <int>, "scores": [<5 integers from 1 to 10>]}}
+
 No markdown, no commentary, no extra text.
 
 Questions:
@@ -148,23 +176,58 @@ def main():
     print(f"Cache: {sum(len(v) for v in all_scores.values())} already scored")
 
     api_calls = 0
-    for topic, questions in ip0.items():
-        domain = detect_domain(topic, args.data_dir)
-        cached = all_scores.get(topic, {})
-        uncached = [q for q in questions if q not in cached]
-        if not uncached: continue
 
-        print(f"  {topic} ({domain}): {len(uncached)} to score")
-        for start in range(0, len(uncached), args.batch_size):
-            batch = uncached[start:start + args.batch_size]
-            results = score_batch(client, args.model, topic, domain, batch)
-            if topic not in all_scores: all_scores[topic] = {}
-            for li, q in enumerate(batch):
-                all_scores[topic][q] = results.get(li, [5, 5, 5, 5, 5])
-            api_calls += 1
-            output_path.parent.mkdir(parents=True, exist_ok=True)
-            output_path.write_text(json.dumps(all_scores, indent=2))
-            if start + args.batch_size < len(uncached): time.sleep(0.3)
+    total_questions = sum(len(v) for v in ip0.values())
+    already_scored = sum(len(v) for v in all_scores.values())
+    remaining_questions = 0
+
+    for topic, questions in ip0.items():
+        cached = all_scores.get(topic, {})
+        remaining_questions += sum(1 for q in questions if q not in cached)
+
+    print(f"Total questions:     {total_questions}")
+    print(f"Already scored:      {already_scored}")
+    print(f"Remaining to score:  {remaining_questions}")
+
+    topic_items = list(ip0.items())
+
+    with tqdm(total=remaining_questions, desc="Scoring questions", unit="q") as pbar:
+        for topic, questions in tqdm(topic_items, desc="Topics", unit="topic"):
+            domain = detect_domain(topic, args.data_dir)
+            cached = all_scores.get(topic, {})
+            uncached = [q for q in questions if q not in cached]
+
+            if not uncached:
+                continue
+
+            tqdm.write(f"{topic} ({domain}): {len(uncached)} to score")
+
+            for start in range(0, len(uncached), args.batch_size):
+                batch = uncached[start:start + args.batch_size]
+
+                batch_desc = f"{topic} [{start + 1}-{start + len(batch)}/{len(uncached)}]"
+                tqdm.write(f"  calling GPT: {batch_desc}")
+
+                results = score_batch(client, args.model, topic, domain, batch)
+
+                if topic not in all_scores:
+                    all_scores[topic] = {}
+
+                for li, q in enumerate(batch):
+                    all_scores[topic][q] = results.get(li, [5, 5, 5, 5, 5])
+
+                api_calls += 1
+                output_path.parent.mkdir(parents=True, exist_ok=True)
+                output_path.write_text(json.dumps(all_scores, indent=2))
+
+                pbar.update(len(batch))
+                pbar.set_postfix({
+                    "topics_done": len(all_scores),
+                    "api_calls": api_calls,
+                })
+
+                if start + args.batch_size < len(uncached):
+                    time.sleep(0.3)
 
     print(f"\nDone. {sum(len(v) for v in all_scores.values())} questions scored. API calls: {api_calls}")
     print(f"Saved to: {args.output}")

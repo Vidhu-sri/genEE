@@ -1,0 +1,6534 @@
+{
+  "Stoicism": {
+    "1. What is Stoicism?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. Who founded Stoicism?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "3. When was Stoicism founded?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "4. Where did Stoicism originate?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "5. What are the main teachings of Stoicism?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. Who are the most famous Stoic philosophers?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "7. What is the goal of Stoic philosophy?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. What is the Stoic view on emotions?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. What does \"living according to nature\" mean in Stoicism?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. What is the Stoic concept of virtue?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. How does Stoicism define happiness?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. What are the four cardinal virtues in Stoicism?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. How did Stoicism influence Roman thinkers?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. What is the Stoic attitude towards fate?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. How does Stoicism suggest handling adversity?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. What is the role of reason in Stoicism?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. How did Stoicism influence Christianity?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. What writings are important in Stoic philosophy?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. What is Epictetus known for in Stoicism?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "20. How is Stoicism practiced today?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ]
+  },
+  "Friedrich Nietzsche": {
+    "1. When was Friedrich Nietzsche born?": [
+      5,
+      5,
+      3,
+      10,
+      1
+    ],
+    "2. Where was Nietzsche born?": [
+      5,
+      10,
+      3,
+      10,
+      1
+    ],
+    "3. What is Nietzsche best known for?": [
+      10,
+      1,
+      1,
+      10,
+      1
+    ],
+    "4. Which of Nietzsche\u2019s works is considered his masterpiece?": [
+      10,
+      1,
+      1,
+      10,
+      1
+    ],
+    "5. What philosophical concept is Nietzsche famous for introducing?": [
+      10,
+      1,
+      1,
+      10,
+      1
+    ],
+    "6. What did Nietzsche mean by \u201cGod is dead\u201d?": [
+      10,
+      1,
+      1,
+      10,
+      1
+    ],
+    "7. What is the \u201c\u00dcbermensch\u201d in Nietzsche\u2019s philosophy?": [
+      10,
+      1,
+      1,
+      10,
+      1
+    ],
+    "8. Which university did Nietzsche attend?": [
+      5,
+      10,
+      1,
+      10,
+      1
+    ],
+    "9. What was Nietzsche\u2019s profession before becoming a full-time writer?": [
+      5,
+      10,
+      1,
+      10,
+      1
+    ],
+    "10. When did Nietzsche suffer his mental breakdown?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "11. Who influenced Nietzsche\u2019s thinking?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "12. Which composers did Nietzsche admire?": [
+      10,
+      1,
+      1,
+      10,
+      1
+    ],
+    "13. What illness affected Nietzsche throughout his life?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "14. Who was Lou Salom\u00e9 in Nietzsche\u2019s life?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "15. When did Nietzsche die?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "16. Where is Nietzsche buried?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "17. How did Nietzsche\u2019s philosophy influence existentialism?": [
+      10,
+      1,
+      1,
+      10,
+      1
+    ],
+    "18. What is Nietzsche\u2019s view on morality?": [
+      10,
+      1,
+      1,
+      10,
+      1
+    ],
+    "19. What role did Nietzsche\u2019s sister play after his death?": [
+      10,
+      1,
+      1,
+      10,
+      1
+    ],
+    "20. Which of Nietzsche\u2019s books was published posthumously?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ]
+  },
+  "Artificial Superintelligence": {
+    "1. What is artificial superintelligence (ASI)?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. How does ASI differ from artificial general intelligence (AGI)?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "3. Who first coined the term \"artificial superintelligence\"?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "4. What are some potential benefits of ASI?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. What are the main risks associated with ASI?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. How could ASI impact the job market?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. What is the singularity in relation to ASI?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. Which researchers are prominent in the field of ASI?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "9. What ethical concerns are raised by ASI development?": [
+      10,
+      1,
+      1,
+      10,
+      1
+    ],
+    "10. How far are we from achieving ASI?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. What is existential risk in the context of ASI?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. What are common scenarios for the emergence of ASI?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. How might ASI affect global security?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. What are some proposed methods for controlling ASI?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. What are paperclip maximizers in ASI discussions?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. How is ASI portrayed in popular culture?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. What organizations are working on ASI safety?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. What is the intelligence explosion hypothesis?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. How might ASI solve complex scientific problems?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. What are the main arguments against the feasibility of ASI?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "The Beatles' rooftop concert": {
+    "1. When did The Beatles' rooftop concert take place?": [
+      5,
+      10,
+      5,
+      1,
+      1
+    ],
+    "2. Where was the rooftop concert held?": [
+      5,
+      10,
+      5,
+      1,
+      10
+    ],
+    "3. Which building did The Beatles perform on top of?": [
+      5,
+      10,
+      5,
+      1,
+      10
+    ],
+    "4. What was the main reason for holding the rooftop concert?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "5. How long did the rooftop concert last?": [
+      5,
+      5,
+      5,
+      1,
+      1
+    ],
+    "6. What songs did The Beatles perform during the concert?": [
+      5,
+      5,
+      5,
+      1,
+      1
+    ],
+    "7. Who were the members of The Beatles during the rooftop concert?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "8. Was the rooftop concert planned or spontaneous?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "9. Which album features songs from the rooftop concert?": [
+      5,
+      5,
+      5,
+      1,
+      1
+    ],
+    "10. Who directed the filming of the rooftop concert?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. How did local police respond to the rooftop concert?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. Were there any guest musicians during the performance?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. How did the public react to the rooftop concert?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. Was the rooftop concert The Beatles\u2019 last live performance?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. Who invited Billy Preston to join the concert?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. How many people attended the rooftop concert in person?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. What equipment did The Beatles use for the concert?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. How did the rooftop concert influence later live performances?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. Has the rooftop concert been released officially on video or audio?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. What happened immediately after the rooftop concert ended?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Carl Jung": {
+    "1. When was Carl Jung born?": [
+      1,
+      10,
+      1,
+      5,
+      1
+    ],
+    "2. Where was Carl Jung born?": [
+      1,
+      10,
+      1,
+      5,
+      1
+    ],
+    "3. What is Carl Jung best known for?": [
+      10,
+      1,
+      1,
+      5,
+      1
+    ],
+    "4. Who were Jung's major influences?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "5. What is analytical psychology?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. What are archetypes according to Jung?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. What is the collective unconscious?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. How did Jung's views differ from Freud's?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. What is individuation in Jungian theory?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. What are some key works written by Jung?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. Did Jung have any notable students or followers?": [
+      5,
+      1,
+      1,
+      5,
+      1
+    ],
+    "12. What is Jung's concept of introversion and extraversion?": [
+      1,
+      1,
+      1,
+      5,
+      1
+    ],
+    "13. How did Jung influence modern psychology?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. When did Carl Jung die?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "15. Where did Carl Jung die?": [
+      1,
+      10,
+      1,
+      5,
+      1
+    ],
+    "16. What awards or honors did Jung receive?": [
+      1,
+      1,
+      1,
+      5,
+      1
+    ],
+    "17. Did Jung have a family?": [
+      1,
+      1,
+      1,
+      5,
+      1
+    ],
+    "18. What is the significance of Jung's Red Book?": [
+      1,
+      1,
+      1,
+      5,
+      1
+    ],
+    "19. How is Jung's legacy viewed today?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. What are some criticisms of Jung's theories?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "History of film": {
+    "1. When did the history of film begin?": [
+      10,
+      10,
+      5,
+      5,
+      1
+    ],
+    "2. Who are considered pioneers of early filmmaking?": [
+      5,
+      10,
+      1,
+      10,
+      1
+    ],
+    "3. What was the first motion picture ever made?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "4. How did silent films differ from sound films?": [
+      5,
+      5,
+      1,
+      1,
+      1
+    ],
+    "5. What impact did the introduction of color have on film?": [
+      5,
+      5,
+      1,
+      1,
+      1
+    ],
+    "6. When was the first feature-length film released?": [
+      10,
+      10,
+      1,
+      1,
+      1
+    ],
+    "7. What role did Hollywood play in film history?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "8. How did World War II affect the film industry?": [
+      5,
+      10,
+      10,
+      1,
+      1
+    ],
+    "9. What is the significance of the Golden Age of Hollywood?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "10. When did television begin to influence the film industry?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "11. How did special effects evolve in film history?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "12. What were major film movements in the 20th century?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "13. How did the French New Wave impact filmmaking?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "14. What technological advancements shaped modern cinema?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "15. When did independent films become popular?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "16. How did digital technology change filmmaking?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "17. What is the significance of film festivals in film history?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "18. Which countries have had a major influence on world cinema?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "19. How has the role of women evolved in film history?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "20. What are some landmark films mentioned in the article?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ]
+  },
+  "Vinson Massif": {
+    "1. Where is Vinson Massif located?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "2. What is the elevation of Vinson Massif?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "3. When was Vinson Massif first climbed?": [
+      1,
+      10,
+      10,
+      1,
+      1
+    ],
+    "4. Who led the first successful ascent of Vinson Massif?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "5. Which mountain range contains Vinson Massif?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "6. What is the prominence of Vinson Massif?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. How far is Vinson Massif from the South Pole?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. What country claims the territory containing Vinson Massif?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "9. What is the easiest route to the summit?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. What is the average temperature on Vinson Massif?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. Who was Vinson Massif named after?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. What is the primary geological composition of Vinson Massif?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "13. How long does a typical expedition to Vinson Massif take?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. Are there any permanent research stations on Vinson Massif?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. What are the main hazards when climbing Vinson Massif?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. How was Vinson Massif discovered?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "17. Is special permission required to climb Vinson Massif?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. What is the best time of year to climb Vinson Massif?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. How tall is Vinson Massif compared to other Antarctic mountains?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. What wildlife is found near Vinson Massif?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Socotra": {
+    "1. Where is Socotra located?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "2. What country does Socotra belong to?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "3. How large is Socotra Island?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "4. What is Socotra known for?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "5. What unique plants are found on Socotra?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "6. How many people live on Socotra?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "7. What language do Socotra\u2019s inhabitants speak?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "8. What is the capital of Socotra?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "9. What is the climate like on Socotra?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "10. When was Socotra designated a UNESCO World Heritage Site?": [
+      1,
+      10,
+      1,
+      1,
+      10
+    ],
+    "11. What animals are unique to Socotra?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "12. What are the main economic activities on Socotra?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "13. What is the Dragon\u2019s Blood tree?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "14. How can people travel to Socotra?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "15. What is the history of Socotra\u2019s settlement?": [
+      1,
+      10,
+      1,
+      1,
+      10
+    ],
+    "16. Which religions are practiced on Socotra?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "17. What threats does Socotra\u2019s environment face?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "18. Are there any endemic bird species on Socotra?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "19. What is Socotra\u2019s relationship with Yemen?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "20. What are popular tourist attractions on Socotra?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ]
+  },
+  "Petra": {
+    "1. Where is Petra located?": [
+      5,
+      10,
+      1,
+      1,
+      10
+    ],
+    "2. Who built Petra?": [
+      1,
+      10,
+      1,
+      1,
+      5
+    ],
+    "3. When was Petra established?": [
+      1,
+      10,
+      1,
+      1,
+      5
+    ],
+    "4. What does the name \"Petra\" mean?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. What is Petra famous for?": [
+      10,
+      1,
+      1,
+      1,
+      5
+    ],
+    "6. What is the Siq in Petra?": [
+      1,
+      1,
+      1,
+      1,
+      5
+    ],
+    "7. What is the Treasury in Petra?": [
+      1,
+      1,
+      1,
+      1,
+      5
+    ],
+    "8. How was Petra rediscovered?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "9. Who rediscovered Petra for the Western world?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "10. What material are Petra's buildings carved from?": [
+      1,
+      1,
+      1,
+      1,
+      5
+    ],
+    "11. When was Petra designated a UNESCO World Heritage Site?": [
+      1,
+      1,
+      1,
+      1,
+      5
+    ],
+    "12. What civilization was Petra the capital of?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "13. What caused Petra\u2019s decline?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "14. What is the Monastery in Petra?": [
+      1,
+      1,
+      1,
+      1,
+      5
+    ],
+    "15. What kind of climate does Petra have?": [
+      1,
+      1,
+      1,
+      1,
+      5
+    ],
+    "16. How many tourists visit Petra annually?": [
+      1,
+      1,
+      1,
+      1,
+      5
+    ],
+    "17. What movies have been filmed in Petra?": [
+      1,
+      1,
+      1,
+      1,
+      5
+    ],
+    "18. What religions were practiced in Petra?": [
+      1,
+      1,
+      1,
+      1,
+      5
+    ],
+    "19. How was water supplied to Petra?": [
+      1,
+      1,
+      1,
+      1,
+      5
+    ],
+    "20. What are the main dangers to Petra\u2019s preservation?": [
+      1,
+      1,
+      1,
+      1,
+      5
+    ]
+  },
+  "Ketogenic diet": {
+    "1. What is the ketogenic diet?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. How does the ketogenic diet work?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "3. What are the main principles of the ketogenic diet?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "4. What foods are allowed on a ketogenic diet?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. Which foods should be avoided on a ketogenic diet?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. What is ketosis?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. How does the ketogenic diet affect weight loss?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. What are the common side effects of the ketogenic diet?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. Who developed the ketogenic diet?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "10. When was the ketogenic diet first introduced?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "11. For what medical conditions is the ketogenic diet used?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. Is the ketogenic diet safe for children?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. How much fat, protein, and carbs does the diet include?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. Can athletes follow a ketogenic diet?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. Are there risks associated with long-term ketogenic dieting?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. How is the ketogenic diet different from other low-carb diets?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. What is the history behind the ketogenic diet?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "18. How effective is the ketogenic diet for epilepsy?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. Can vegetarians follow a ketogenic diet?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. What should you consult a doctor before starting the ketogenic diet?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Health benefits of pomegranate": {
+    "1. What nutrients are found in pomegranates?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. Are pomegranates a good source of antioxidants?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "3. How can pomegranates affect heart health?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "4. Do pomegranates help reduce blood pressure?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. Can pomegranates improve cholesterol levels?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. What impact do pomegranates have on inflammation?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. Are there any benefits for cancer prevention?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. How might pomegranates affect memory or brain health?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. Do pomegranates have antibacterial or antiviral properties?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. Are pomegranates beneficial for digestive health?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. What role do pomegranates play in diabetes management?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. Can pomegranates help with weight management?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. Is pomegranate juice as healthy as whole fruit?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. How much pomegranate should you consume for health benefits?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. Are there any known side effects of eating pomegranate?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. Can pomegranates interact with medications?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. What vitamins are abundant in pomegranates?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. How do pomegranates support skin health?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. Are there any studies supporting pomegranate health claims?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. Is it safe for pregnant women to eat pomegranates?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Neuroplasticity": {
+    "1. What is neuroplasticity?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. Who first discovered neuroplasticity?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "3. What are the main types of neuroplasticity?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "4. How does neuroplasticity affect learning?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. Can neuroplasticity occur in adults?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. What role does neuroplasticity play in recovery from brain injury?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. Which factors can enhance neuroplasticity?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. How does neuroplasticity change with age?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. What are examples of neuroplasticity in everyday life?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. How is neuroplasticity related to memory formation?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. What is synaptic plasticity?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. How does neuroplasticity contribute to rehabilitation after a stroke?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. What is the critical period in neuroplasticity?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. Can neuroplasticity be harmful?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. What are some disorders associated with abnormal neuroplasticity?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. How do physical activities influence neuroplasticity?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. What is the role of neuroplasticity in sensory substitution?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. How do medications affect neuroplasticity?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. What brain regions are most involved in neuroplasticity?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. Are there ways to increase neuroplasticity through lifestyle changes?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Emancipation Proclamation": {
+    "1. What is the Emancipation Proclamation?": [
+      10,
+      5,
+      1,
+      1,
+      1
+    ],
+    "2. Who issued the Emancipation Proclamation?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "3. When was the Emancipation Proclamation issued?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "4. Which president signed the Emancipation Proclamation?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "5. What date did the Emancipation Proclamation take effect?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "6. Which states were affected by the Emancipation Proclamation?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "7. Did the Emancipation Proclamation free all slaves?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. What was the main purpose of the Emancipation Proclamation?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. How did the Emancipation Proclamation impact the Civil War?": [
+      1,
+      1,
+      10,
+      1,
+      1
+    ],
+    "10. Was the Emancipation Proclamation a law or an executive order?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. How did the Emancipation Proclamation affect the Union Army?": [
+      1,
+      1,
+      10,
+      1,
+      1
+    ],
+    "12. Did the Emancipation Proclamation apply to border states?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. How did enslaved people respond to the Emancipation Proclamation?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. What was the reaction in the Confederate states?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. Did the Emancipation Proclamation end slavery in the United States?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. What role did the Emancipation Proclamation play in U.S. history?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. How did the Emancipation Proclamation influence the Thirteenth Amendment?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. Where was the Emancipation Proclamation announced?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "19. What limitations did the Emancipation Proclamation have?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. Who were some notable critics of the Emancipation Proclamation?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Fall of the Berlin Wall": {
+    "1. When did the Berlin Wall fall?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "2. What caused the fall of the Berlin Wall?": [
+      5,
+      5,
+      5,
+      1,
+      1
+    ],
+    "3. Who was the leader of East Germany when the Wall fell?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "4. How long did the Berlin Wall stand?": [
+      1,
+      5,
+      1,
+      1,
+      1
+    ],
+    "5. What immediate event triggered the opening of the Wall?": [
+      1,
+      1,
+      10,
+      1,
+      1
+    ],
+    "6. Where was the first border crossing opened?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "7. How did East Germans react to the Wall's opening?": [
+      1,
+      1,
+      10,
+      1,
+      1
+    ],
+    "8. What was the significance of G\u00fcnter Schabowski's press conference?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. Which countries influenced the fall of the Wall?": [
+      1,
+      1,
+      1,
+      1,
+      5
+    ],
+    "10. What role did protests play in the Wall's collapse?": [
+      1,
+      1,
+      1,
+      1,
+      5
+    ],
+    "11. How did the fall affect German reunification?": [
+      1,
+      1,
+      1,
+      1,
+      5
+    ],
+    "12. What was the reaction in West Berlin to the Wall\u2019s opening?": [
+      1,
+      1,
+      1,
+      1,
+      5
+    ],
+    "13. How did the media report the event?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. Were there any casualties during the Wall\u2019s opening?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. How did the fall impact the Cold War?": [
+      1,
+      1,
+      1,
+      1,
+      5
+    ],
+    "16. What happened to the physical Wall after its fall?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. How did other Eastern Bloc countries respond?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. What were the \"death strips\"?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. Who coined the phrase \"Tear down this wall\"?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "20. Are there memorials for the Berlin Wall today?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ]
+  },
+  "Beekeeping": {
+    "1. What is beekeeping?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. What are the main purposes of beekeeping?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "3. What species of bees are commonly kept by beekeepers?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "4. How long has beekeeping been practiced by humans?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "5. What is a beehive?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. What products do beekeepers harvest from bees?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. What is the role of a beekeeper?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. What equipment is needed for beekeeping?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. What is the Langstroth hive?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. How do beekeepers protect themselves from bee stings?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. What are the main challenges faced by beekeepers?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. How do beekeepers manage bee health?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. What is colony collapse disorder?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. How do beekeepers harvest honey?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. What is the life cycle of a honey bee?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. How do bees communicate within the hive?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. What are the benefits of beekeeping for agriculture?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. How do beekeepers start a new colony?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. What laws or regulations affect beekeeping?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. How can someone begin beekeeping as a hobby?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Speedcubing": {
+    "1. What is speedcubing?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. When did speedcubing become popular?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "3. Who holds the current world record for the 3x3 cube?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "4. What is the World Cube Association (WCA)?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. What are the main events in speedcubing competitions?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. What is the most common method for solving the 3x3 cube?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. How is a speedcubing competition structured?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. What is a \"scramble\" in speedcubing?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. What are some popular speedcube brands?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. What is the average solve time for top speedcubers?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. What is fingertricking in speedcubing?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. What is the difference between 2x2 and 3x3 cubes?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. What is \"CFOP\" in speedcubing?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. How do speedcubers practice?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. What is the history of the Rubik's Cube?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "16. What are some other cube puzzles besides 3x3?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "17. Who can participate in speedcubing competitions?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. What is \"one-handed\" solving?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. Are there speedcubing records for blindfolded solving?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. How do you qualify for the World Cube Association World Championship?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Flash mob": {
+    "1. What is a flash mob?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. When did the first flash mob take place?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "3. Who organized the first flash mob?": [
+      1,
+      1,
+      10,
+      1,
+      1
+    ],
+    "4. Where was the first flash mob held?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "5. What activities do participants in a flash mob typically perform?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. How is a flash mob organized?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. What is the purpose of a flash mob?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. How do participants learn about flash mobs?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. Are flash mobs always spontaneous?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. What is the difference between a flash mob and a smart mob?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. Can flash mobs be used for political purposes?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. What are some famous examples of flash mobs?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. Have flash mobs ever caused controversy?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. Are there legal issues associated with organizing flash mobs?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. How do authorities usually respond to flash mobs?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. What is a \"flash rob\"?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. How has social media contributed to flash mobs?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. What are some common themes for flash mobs?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. How have flash mobs influenced popular culture?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. Do flash mobs still occur today?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ]
+  },
+  "Godel's incompleteness theorems": {
+    "1. What are G\u00f6del's incompleteness theorems?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. Who proved the incompleteness theorems?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "3. When were G\u00f6del's incompleteness theorems published?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "4. What is the first incompleteness theorem?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. What does the second incompleteness theorem state?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. Which area of mathematics do the theorems concern?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. What is a formal system in mathematics?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. What does \"incomplete\" mean in this context?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. How do the theorems relate to consistency in mathematics?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. What is an example of an undecidable statement?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. What are the limitations imposed by the theorems?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. How did G\u00f6del prove his theorems?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. What is the significance of G\u00f6del numbering?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. What impact did the theorems have on mathematics?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. Do the theorems apply to all mathematical systems?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. How are the theorems related to Hilbert\u2019s program?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. What is a recursively enumerable system?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. Can the theorems be avoided by changing axioms?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. Are there practical consequences of the theorems?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. How did the mathematical community react to the theorems?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Poincare conjecture": {
+    "1. What is the Poincar\u00e9 conjecture?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. Who proposed the Poincar\u00e9 conjecture?": [
+      5,
+      10,
+      1,
+      10,
+      1
+    ],
+    "3. In what year was the Poincar\u00e9 conjecture first stated?": [
+      1,
+      10,
+      10,
+      1,
+      1
+    ],
+    "4. What branch of mathematics does the Poincar\u00e9 conjecture belong to?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. What does the Poincar\u00e9 conjecture state about three-dimensional manifolds?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. What is a simply connected space?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. What is a 3-manifold?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. How does the Poincar\u00e9 conjecture relate to spheres?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. Who solved the Poincar\u00e9 conjecture?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "10. In what year was the conjecture proven?": [
+      1,
+      10,
+      10,
+      1,
+      1
+    ],
+    "11. What is Grigori Perelman\u2019s contribution to the conjecture?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "12. What mathematical techniques were used to solve it?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. What is Ricci flow?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. How did Ricci flow help in proving the conjecture?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. Was the solution to the conjecture universally accepted?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. What major prize was awarded for the solution?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. Did Perelman accept the Fields Medal?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. Why is the Poincar\u00e9 conjecture important in topology?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. What are the implications of the proof for mathematics?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. Are there higher-dimensional analogues of the conjecture?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Boolean algebra": {
+    "1. What is Boolean algebra?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. Who invented Boolean algebra?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "3. When was Boolean algebra developed?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "4. What are the primary operations in Boolean algebra?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. What is the significance of Boolean algebra in computer science?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. What are the basic laws of Boolean algebra?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. What is the associative law in Boolean algebra?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. What is the commutative law in Boolean algebra?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. What is the distributive law in Boolean algebra?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. What are Boolean variables?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. What is a truth table in Boolean algebra?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. How is Boolean algebra used in digital circuits?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. What is the complement of a Boolean variable?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. What is De Morgan\u2019s theorem?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. How does Boolean algebra simplify logical expressions?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. What are minterms and maxterms?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. How is Boolean algebra different from ordinary algebra?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. What is the identity element in Boolean algebra?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. What is a Boolean function?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. How are Karnaugh maps related to Boolean algebra?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Periodic table": {
+    "1. What is the periodic table?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. Who created the first periodic table?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "3. How are elements arranged on the periodic table?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "4. What are groups in the periodic table?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. What are periods in the periodic table?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. How many elements are on the periodic table?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. What information is shown for each element?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. What are metals on the periodic table?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. What are nonmetals on the periodic table?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. What is a noble gas?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. What are transition metals?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. What is the purpose of the periodic table?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. What is an atomic number?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. What trends can be seen across a period?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. What trends can be seen down a group?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. What are lanthanides and actinides?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. How are synthetic elements represented?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. Who updates the periodic table?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. What is the heaviest element currently known?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. What does periodicity mean in chemistry?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Great Oxygenation Event": {
+    "1. What is the Great Oxygenation Event?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "2. When did the Great Oxygenation Event occur?": [
+      5,
+      10,
+      5,
+      1,
+      1
+    ],
+    "3. What caused the Great Oxygenation Event?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "4. Which organisms were responsible for producing oxygen?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "5. How did the atmosphere change during the event?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "6. What evidence supports the occurrence of the Great Oxygenation Event?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "7. How did ocean chemistry change during the event?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "8. What is banded iron formation and how is it related?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "9. How did the event affect Earth\u2019s climate?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "10. What was the impact on anaerobic life forms?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "11. What role did cyanobacteria play in the event?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "12. How did the event influence the evolution of life?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "13. What are the main stages of the Great Oxygenation Event?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "14. How long did the oxygenation process take?": [
+      5,
+      5,
+      5,
+      1,
+      1
+    ],
+    "15. What are \u201coxygen sinks\u201d and why are they important?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "16. What is the \u201coxygen catastrophe\u201d?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "17. How did the event contribute to future multicellular life?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "18. What changes occurred in atmospheric methane?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "19. Are there modern analogs to the Great Oxygenation Event?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "20. What long-term geological effects did the event have?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ]
+  },
+  "Plate tectonics": {
+    "1. What is plate tectonics?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. Who first proposed the theory of plate tectonics?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "3. What are tectonic plates?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "4. How many major tectonic plates are there?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. What is the lithosphere?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. What is the asthenosphere?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. What causes tectonic plates to move?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. What are the three main types of plate boundaries?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. What happens at divergent boundaries?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. What is a convergent boundary?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. What occurs at transform boundaries?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. What is subduction?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. Which plate is the largest?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. How does plate tectonics cause earthquakes?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. How do volcanoes relate to plate tectonics?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. What evidence supports the theory of plate tectonics?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. How does plate tectonics influence mountain formation?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. What is continental drift?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. How has plate tectonics affected Earth\u2019s continents over time?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "20. Who were Alfred Wegener and Harry Hess in relation to plate tectonics?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ]
+  },
+  "Diogenes of Sinope": {
+    "1. Who was Diogenes of Sinope?": [
+      10,
+      5,
+      1,
+      10,
+      5
+    ],
+    "2. When and where was Diogenes born?": [
+      1,
+      10,
+      1,
+      5,
+      1
+    ],
+    "3. What philosophical school is Diogenes associated with?": [
+      10,
+      5,
+      1,
+      10,
+      1
+    ],
+    "4. What is Diogenes best known for?": [
+      10,
+      5,
+      1,
+      10,
+      1
+    ],
+    "5. What did Diogenes believe about social conventions?": [
+      10,
+      5,
+      1,
+      10,
+      1
+    ],
+    "6. How did Diogenes live his daily life?": [
+      10,
+      5,
+      1,
+      10,
+      1
+    ],
+    "7. What was Diogenes\u2019 relationship with Plato?": [
+      10,
+      5,
+      1,
+      10,
+      1
+    ],
+    "8. How did Diogenes interact with Alexander the Great?": [
+      10,
+      5,
+      1,
+      10,
+      1
+    ],
+    "9. What is the story of Diogenes and the lamp?": [
+      10,
+      5,
+      1,
+      10,
+      1
+    ],
+    "10. What was Diogenes\u2019 view on material possessions?": [
+      10,
+      5,
+      1,
+      10,
+      1
+    ],
+    "11. Did Diogenes write any philosophical works?": [
+      10,
+      5,
+      1,
+      10,
+      1
+    ],
+    "12. How did Diogenes criticize other philosophers?": [
+      10,
+      5,
+      1,
+      10,
+      1
+    ],
+    "13. What is Cynicism in philosophy?": [
+      10,
+      5,
+      1,
+      10,
+      1
+    ],
+    "14. How did Diogenes influence later thinkers?": [
+      10,
+      5,
+      1,
+      10,
+      1
+    ],
+    "15. What are some famous anecdotes about Diogenes?": [
+      10,
+      5,
+      1,
+      10,
+      1
+    ],
+    "16. How did Diogenes die?": [
+      1,
+      5,
+      1,
+      5,
+      1
+    ],
+    "17. Did Diogenes have any students or followers?": [
+      1,
+      5,
+      1,
+      5,
+      1
+    ],
+    "18. What was Diogenes\u2019 attitude toward authority?": [
+      10,
+      5,
+      1,
+      10,
+      1
+    ],
+    "19. Where is Diogenes\u2019 final resting place?": [
+      1,
+      5,
+      1,
+      5,
+      1
+    ],
+    "20. How is Diogenes remembered today?": [
+      1,
+      5,
+      1,
+      5,
+      1
+    ]
+  },
+  "Malala Yousafzai": {
+    "1. Who is Malala Yousafzai?": [
+      10,
+      1,
+      1,
+      10,
+      1
+    ],
+    "2. When was Malala Yousafzai born?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "3. Where was Malala Yousafzai born?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "4. What is Malala Yousafzai known for?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "5. Why did the Taliban target Malala Yousafzai?": [
+      1,
+      1,
+      1,
+      5,
+      1
+    ],
+    "6. When was Malala Yousafzai shot?": [
+      1,
+      1,
+      10,
+      1,
+      1
+    ],
+    "7. How did Malala Yousafzai survive the assassination attempt?": [
+      1,
+      1,
+      10,
+      1,
+      1
+    ],
+    "8. What awards has Malala Yousafzai received?": [
+      1,
+      1,
+      1,
+      5,
+      1
+    ],
+    "9. Which Nobel Prize did Malala Yousafzai win?": [
+      1,
+      1,
+      1,
+      5,
+      1
+    ],
+    "10. How old was Malala when she won the Nobel Prize?": [
+      1,
+      1,
+      1,
+      5,
+      1
+    ],
+    "11. What is the Malala Fund?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. Where did Malala Yousafzai study after moving to the UK?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. What did Malala Yousafzai study at university?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. Who are Malala Yousafzai\u2019s parents?": [
+      1,
+      1,
+      1,
+      5,
+      1
+    ],
+    "15. What books has Malala Yousafzai written?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. What is Malala\u2019s stance on girls\u2019 education?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "17. How has Malala Yousafzai advocated for education?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "18. In which countries has Malala Yousafzai campaigned?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "19. Has Malala Yousafzai received any honorary citizenships?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. What are Malala Yousafzai\u2019s main achievements?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ]
+  },
+  "Tabata training": {
+    "1. What is Tabata training?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. Who developed Tabata training?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "3. When was Tabata training created?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "4. What is the basic structure of a Tabata workout?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. How long does a standard Tabata session last?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. What exercises can be included in Tabata training?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. What are the intervals of work and rest in Tabata?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. What are the main benefits of Tabata training?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. Is Tabata training suitable for beginners?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. How does Tabata differ from regular HIIT?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. Who was Izumi Tabata?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "12. What was the original purpose of Tabata training?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. What scientific study introduced Tabata training?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. Can Tabata be done with bodyweight exercises?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. What equipment is required for Tabata training?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. How many rounds are in a typical Tabata workout?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. What are the risks or precautions for Tabata training?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. How does Tabata improve cardiovascular fitness?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. Can Tabata help with weight loss?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. Are there variations of the traditional Tabata protocol?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Chernobyl disaster": {
+    "1. When did the Chernobyl disaster occur?": [
+      1,
+      5,
+      10,
+      1,
+      1
+    ],
+    "2. Where is the Chernobyl Nuclear Power Plant located?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "3. What caused the Chernobyl disaster?": [
+      10,
+      1,
+      10,
+      1,
+      1
+    ],
+    "4. Which reactor at Chernobyl exploded?": [
+      1,
+      1,
+      10,
+      1,
+      1
+    ],
+    "5. How many immediate deaths were reported after the explosion?": [
+      1,
+      1,
+      10,
+      1,
+      1
+    ],
+    "6. What type of reactor was used at Chernobyl?": [
+      1,
+      1,
+      10,
+      1,
+      1
+    ],
+    "7. How far did the radioactive contamination spread?": [
+      1,
+      1,
+      10,
+      1,
+      1
+    ],
+    "8. Which countries were most affected by the fallout?": [
+      1,
+      1,
+      10,
+      1,
+      1
+    ],
+    "9. How many people were evacuated from the area?": [
+      1,
+      1,
+      10,
+      1,
+      1
+    ],
+    "10. What was the Exclusion Zone?": [
+      1,
+      1,
+      10,
+      1,
+      1
+    ],
+    "11. Who were the first responders to the disaster?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. What were the long-term health effects of the Chernobyl disaster?": [
+      1,
+      1,
+      10,
+      1,
+      1
+    ],
+    "13. How did the Soviet government initially respond to the disaster?": [
+      10,
+      1,
+      10,
+      1,
+      1
+    ],
+    "14. What is the \u201csarcophagus\u201d at Chernobyl?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. When was the New Safe Confinement structure completed?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. How has the local wildlife been affected since the disaster?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. Are people currently living in the Chernobyl Exclusion Zone?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. What happened to the town of Pripyat after the disaster?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. How did the disaster impact nuclear policy worldwide?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. What lessons were learned from the Chernobyl disaster?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Chimamanda Ngozi Adichie": {
+    "1. When was Chimamanda Ngozi Adichie born?": [
+      5,
+      10,
+      1,
+      10,
+      1
+    ],
+    "2. Where is Chimamanda Ngozi Adichie from?": [
+      5,
+      10,
+      1,
+      10,
+      10
+    ],
+    "3. What is Chimamanda Ngozi Adichie best known for?": [
+      10,
+      1,
+      1,
+      10,
+      1
+    ],
+    "4. What are some of Chimamanda Ngozi Adichie\u2019s notable novels?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "5. Which novel did she publish first?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "6. What awards has Chimamanda Ngozi Adichie won?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "7. What is her most famous TED Talk?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "8. What themes are common in her writing?": [
+      10,
+      1,
+      1,
+      10,
+      1
+    ],
+    "9. Where did Chimamanda Ngozi Adichie study?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "10. What is her connection to feminism?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "11. Which novel earned her the Orange Prize for Fiction?": [
+      10,
+      1,
+      1,
+      10,
+      1
+    ],
+    "12. What is Half of a Yellow Sun about?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "13. When was Americanah published?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "14. Has Chimamanda Ngozi Adichie written non-fiction?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "15. What is We Should All Be Feminists?": [
+      10,
+      1,
+      1,
+      10,
+      1
+    ],
+    "16. What other genres has she written in besides novels?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "17. What is her nationality?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "18. How has Adichie influenced popular culture?": [
+      10,
+      1,
+      1,
+      10,
+      1
+    ],
+    "19. What family background does she have?": [
+      10,
+      1,
+      1,
+      10,
+      1
+    ],
+    "20. Has her work been adapted into films or plays?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ]
+  },
+  "Banksy": {
+    "1. Who is Banksy?": [
+      10,
+      1,
+      1,
+      10,
+      1
+    ],
+    "2. Where is Banksy originally from?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "3. What type of art is Banksy best known for?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "4. When did Banksy first become active as an artist?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "5. What is Banksy's real name?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "6. What themes are common in Banksy's artwork?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. Which city is most associated with Banksy's street art?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "8. Has Banksy ever revealed his identity?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "9. What are some famous works by Banksy?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. How does Banksy create his art?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. What is \"Dismaland\"?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. Has Banksy\u2019s work appeared outside the UK?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "13. Has Banksy held any official exhibitions?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. What is Banksy\u2019s stance on copyright?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. What is the significance of \"Girl with Balloon\"?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. Has any of Banksy's art been destroyed or removed?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. What is Pest Control in relation to Banksy?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. How does Banksy address political issues in his work?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. Has Banksy won any awards?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. Are there documentaries or films about Banksy?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Kabuki": {
+    "1. What is Kabuki?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. When did Kabuki originate in Japan?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "3. Who founded Kabuki theatre?": [
+      1,
+      5,
+      1,
+      1,
+      1
+    ],
+    "4. What does the word \"Kabuki\" mean?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. Which elements distinguish Kabuki from other Japanese theatre forms?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. What are the main roles in Kabuki performances?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. Are Kabuki actors male or female?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. What are the characteristic features of Kabuki costumes?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. How is makeup used in Kabuki performances?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. What are some typical themes in Kabuki plays?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. How long does a Kabuki performance usually last?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. What is the significance of the hanamichi in Kabuki?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. How does music accompany a Kabuki performance?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. What is the function of stage traps and revolving stages in Kabuki?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. How is dance incorporated into Kabuki?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. What is a mie pose in Kabuki theatre?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. How are Kabuki scripts traditionally passed down?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. Are Kabuki scripts based on historical or fictional events?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. Has Kabuki been recognized by UNESCO?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. Where can audiences watch Kabuki performances today?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ]
+  },
+  "Surrealist Automata": {
+    "1. What is a surrealist automaton?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. Who were the main artists involved with surrealist automata?": [
+      5,
+      5,
+      1,
+      5,
+      1
+    ],
+    "3. When did surrealist automata emerge as an art form?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "4. What inspired the creation of surrealist automata?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. Which materials are commonly used to make surrealist automata?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. How do surrealist automata differ from traditional automata?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. Are surrealist automata meant to be functional or purely decorative?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. What are some famous examples of surrealist automata?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. Did Salvador Dal\u00ed create any surrealist automata?": [
+      5,
+      1,
+      1,
+      5,
+      1
+    ],
+    "10. How did surrealist automata influence other art movements?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. Are there museums that display surrealist automata?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "12. What themes are commonly explored in surrealist automata?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. How do surrealist automata reflect surrealist philosophy?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. Did Andr\u00e9 Breton write about automata in surrealism?": [
+      5,
+      1,
+      1,
+      5,
+      1
+    ],
+    "15. How did surrealist automata challenge conventional notions of art?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. Were surrealist automata ever used in films or performances?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. How are surrealist automata constructed or assembled?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. What role does chance play in the creation of surrealist automata?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. Are contemporary artists still making surrealist automata?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. How can someone learn to make their own surrealist automata?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Great Barrier Reef": {
+    "1. Where is the Great Barrier Reef located?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "2. How long is the Great Barrier Reef?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "3. What type of ecosystem is the Great Barrier Reef?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "4. How many species of coral are found in the reef?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "5. When was the Great Barrier Reef designated a World Heritage Site?": [
+      5,
+      10,
+      1,
+      1,
+      10
+    ],
+    "6. How many islands make up the Great Barrier Reef?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "7. What are the main threats to the reef's survival?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "8. Which Australian state is the reef closest to?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "9. How many species of fish live in the Great Barrier Reef?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "10. What is coral bleaching?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "11. Which organization manages the Great Barrier Reef?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "12. Can the Great Barrier Reef be seen from space?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "13. What activities are popular for tourists at the reef?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "14. What is the main cause of coral bleaching?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "15. Are there any endangered species in the reef?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "16. When was the Great Barrier Reef Marine Park established?": [
+      5,
+      10,
+      1,
+      1,
+      10
+    ],
+    "17. What is the significance of the reef for Indigenous Australians?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "18. How does climate change affect the Great Barrier Reef?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "19. Are there any restrictions on fishing in the reef?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "20. What are some famous animals found in the Great Barrier Reef?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ]
+  },
+  "Lake Baikal": {
+    "1. Where is Lake Baikal located?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "2. How deep is Lake Baikal?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "3. What is the surface area of Lake Baikal?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "4. How old is Lake Baikal estimated to be?": [
+      5,
+      10,
+      1,
+      1,
+      10
+    ],
+    "5. What is the average water temperature of Lake Baikal?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "6. How much of the world\u2019s fresh surface water does Lake Baikal hold?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "7. Which river is the main inflow to Lake Baikal?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "8. What is the main outflow river from Lake Baikal?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "9. What unique species are found in Lake Baikal?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "10. Is Lake Baikal a UNESCO World Heritage Site?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "11. What is the maximum length of Lake Baikal?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "12. What is the maximum width of Lake Baikal?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "13. What types of fish are native to Lake Baikal?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "14. What is the Baikal seal?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "15. What threats does Lake Baikal face today?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "16. How many islands are in Lake Baikal?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "17. What is the largest island on Lake Baikal?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "18. What activities can tourists do at Lake Baikal?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "19. When does Lake Baikal usually freeze over?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ],
+    "20. Which mountain ranges surround Lake Baikal?": [
+      5,
+      1,
+      1,
+      1,
+      10
+    ]
+  },
+  "Avenue of the Baobabs": {
+    "1. Where is the Avenue of the Baobabs located?": [
+      10,
+      5,
+      1,
+      1,
+      10
+    ],
+    "2. What type of trees line the Avenue of the Baobabs?": [
+      5,
+      1,
+      1,
+      1,
+      5
+    ],
+    "3. How old are the baobab trees along the avenue?": [
+      5,
+      5,
+      1,
+      1,
+      5
+    ],
+    "4. Which region of Madagascar is the avenue found in?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "5. What is the local Malagasy name for the Avenue of the Baobabs?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "6. How long is the Avenue of the Baobabs?": [
+      5,
+      1,
+      1,
+      1,
+      5
+    ],
+    "7. Why is the Avenue of the Baobabs famous?": [
+      5,
+      1,
+      1,
+      1,
+      5
+    ],
+    "8. What species of baobab tree is found here?": [
+      5,
+      1,
+      1,
+      1,
+      5
+    ],
+    "9. Is the Avenue of the Baobabs a protected area?": [
+      5,
+      1,
+      1,
+      1,
+      5
+    ],
+    "10. How do tourists typically access the Avenue of the Baobabs?": [
+      5,
+      1,
+      1,
+      1,
+      5
+    ],
+    "11. What is the nearest major city to the avenue?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "12. Are there any conservation efforts for the baobabs?": [
+      5,
+      1,
+      1,
+      1,
+      5
+    ],
+    "13. When was the Avenue of the Baobabs granted temporary protected status?": [
+      5,
+      5,
+      1,
+      1,
+      5
+    ],
+    "14. What threats do the baobab trees face?": [
+      5,
+      1,
+      1,
+      1,
+      5
+    ],
+    "15. What makes the Avenue of the Baobabs unique compared to other locations?": [
+      5,
+      1,
+      1,
+      1,
+      5
+    ],
+    "16. How many baobab trees are estimated to line the avenue?": [
+      5,
+      1,
+      1,
+      1,
+      5
+    ],
+    "17. What role do the baobab trees play in local culture?": [
+      5,
+      1,
+      1,
+      1,
+      5
+    ],
+    "18. Has the avenue been featured in any films or media?": [
+      5,
+      1,
+      1,
+      1,
+      5
+    ],
+    "19. What is the best time of year to visit the avenue?": [
+      5,
+      1,
+      1,
+      1,
+      5
+    ],
+    "20. Are there any entrance fees to visit the Avenue of the Baobabs?": [
+      5,
+      1,
+      1,
+      1,
+      5
+    ]
+  },
+  "Mindfulness-based stress reduction": {
+    "1. What is mindfulness-based stress reduction (MBSR)?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. Who developed mindfulness-based stress reduction?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "3. When was MBSR first introduced?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "4. What are the main goals of MBSR?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. What techniques are used in MBSR?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. How long does a typical MBSR program last?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. Where was the first MBSR clinic established?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "8. What conditions can MBSR help treat?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. Is MBSR based on any specific religious tradition?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. What are the core components of an MBSR course?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. Who can participate in MBSR programs?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. Are there any scientific studies supporting MBSR's effectiveness?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. What is the role of meditation in MBSR?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. How is mindfulness defined in the context of MBSR?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. What is the typical structure of an MBSR session?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. Can MBSR be practiced at home?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. What are some reported benefits of MBSR?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. Are there any risks or side effects associated with MBSR?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. How is progress measured in MBSR?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. Is MBSR covered by health insurance?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Blue zones": {
+    "1. What are blue zones?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. Who coined the term \"blue zones\"?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "3. Where are the original blue zones located?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "4. What common traits do blue zone populations share?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. Which country is home to the region of Okinawa, a blue zone?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "6. What lifestyle habits are typical in blue zones?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. How does diet influence longevity in blue zones?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. What is the role of physical activity in blue zones?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. How important is family in blue zone communities?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. What type of social networks exist in blue zones?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. Are blue zones associated with lower rates of chronic diseases?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. How does the environment contribute to longevity in blue zones?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. What is the significance of Ikaria, Greece as a blue zone?": [
+      10,
+      1,
+      1,
+      1,
+      10
+    ],
+    "14. How does faith or spirituality impact blue zone residents?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. What is the average life expectancy in blue zones?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. How does the concept of \"purpose\" feature in blue zones?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. What traditional foods are common in blue zones?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. Has the concept of blue zones been scientifically validated?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. Which blue zone is located in the United States?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "20. Can blue zone principles be applied in other regions?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ]
+  },
+  "Sinking of the RMS Titanic": {
+    "1. When did the RMS Titanic sink?": [
+      5,
+      10,
+      10,
+      1,
+      1
+    ],
+    "2. Where did the Titanic sink?": [
+      5,
+      10,
+      10,
+      1,
+      10
+    ],
+    "3. How many people were on board the Titanic?": [
+      5,
+      5,
+      5,
+      1,
+      1
+    ],
+    "4. What caused the Titanic to sink?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "5. Who was the captain of the Titanic?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "6. How many lifeboats did the Titanic have?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. How many people survived the sinking?": [
+      5,
+      5,
+      5,
+      1,
+      1
+    ],
+    "8. What was the Titanic\u2019s intended destination?": [
+      5,
+      5,
+      5,
+      1,
+      1
+    ],
+    "9. Where did the Titanic depart from?": [
+      5,
+      5,
+      5,
+      1,
+      10
+    ],
+    "10. What type of ship was the Titanic?": [
+      5,
+      5,
+      5,
+      1,
+      1
+    ],
+    "11. Who owned the Titanic?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "12. What was the Titanic\u2019s maiden voyage?": [
+      5,
+      5,
+      5,
+      1,
+      1
+    ],
+    "13. How many crew members were on the Titanic?": [
+      5,
+      5,
+      5,
+      1,
+      1
+    ],
+    "14. What time did the Titanic hit the iceberg?": [
+      5,
+      5,
+      5,
+      1,
+      1
+    ],
+    "15. How long did it take for the Titanic to sink?": [
+      5,
+      5,
+      10,
+      1,
+      1
+    ],
+    "16. Were there any famous passengers on the Titanic?": [
+      5,
+      5,
+      5,
+      1,
+      1
+    ],
+    "17. What safety measures were in place on the Titanic?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. Who rescued the Titanic survivors?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. How deep is the Titanic wreck site?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. When was the wreck of the Titanic discovered?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "The Black Death": {
+    "1. What was the Black Death?": [
+      10,
+      5,
+      5,
+      1,
+      1
+    ],
+    "2. When did the Black Death occur?": [
+      1,
+      10,
+      5,
+      1,
+      1
+    ],
+    "3. Where did the Black Death originate?": [
+      1,
+      5,
+      5,
+      1,
+      1
+    ],
+    "4. How many people died from the Black Death?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. How was the Black Death transmitted?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. What caused the Black Death?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. Which areas were most affected by the Black Death?": [
+      1,
+      1,
+      10,
+      1,
+      1
+    ],
+    "8. How did the Black Death spread across Europe?": [
+      10,
+      1,
+      10,
+      1,
+      1
+    ],
+    "9. What symptoms did victims of the Black Death experience?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. How did people try to treat the Black Death?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. What impact did the Black Death have on Europe\u2019s population?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. Did the Black Death affect only Europe?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. How did the Black Death influence the economy?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. Were there social changes due to the Black Death?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. What role did fleas and rats play in the Black Death?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. How long did the Black Death last?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. Were there later outbreaks of the Black Death?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. How did the Black Death affect religion?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. What preventive measures did people attempt?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. How is the Black Death remembered today?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Rosetta Stone discovery": {
+    "1. When was the Rosetta Stone discovered?": [
+      5,
+      8,
+      1,
+      1,
+      1
+    ],
+    "2. Where was the Rosetta Stone found?": [
+      5,
+      8,
+      1,
+      1,
+      10
+    ],
+    "3. Who discovered the Rosetta Stone?": [
+      5,
+      1,
+      1,
+      10,
+      1
+    ],
+    "4. What material is the Rosetta Stone made of?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. What languages are inscribed on the Rosetta Stone?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. Why is the Rosetta Stone significant?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. Which civilization created the Rosetta Stone?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "8. What does the text on the Rosetta Stone represent?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. In which year was the Rosetta Stone transported to Britain?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. Who first translated the Rosetta Stone\u2019s inscriptions?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "11. Where is the Rosetta Stone currently located?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "12. How many scripts are present on the Rosetta Stone?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "13. What was the original purpose of the Rosetta Stone?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. How did the Rosetta Stone help in deciphering Egyptian hieroglyphs?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. What condition was the Rosetta Stone in when discovered?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. Was the discovery of the Rosetta Stone accidental?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. What is the size of the Rosetta Stone?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. Which army discovered the Rosetta Stone?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. Who was ruling Egypt when the Rosetta Stone was created?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "20. What does the decree on the Rosetta Stone commemorate?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Parkour": {
+    "1. What is parkour?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. Where did parkour originate?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "3. Who founded parkour?": [
+      1,
+      5,
+      1,
+      1,
+      1
+    ],
+    "4. What does the word \"parkour\" mean?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. What are the basic movements in parkour?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. What is the difference between parkour and freerunning?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. What is the main goal of parkour?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. Which countries is parkour popular in?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "9. Are there any safety concerns with parkour?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. Do you need special equipment for parkour?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. Is parkour considered a sport or an art?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. How do people train for parkour?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. What is the history of parkour\u2019s development?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "14. Are there famous parkour practitioners?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "15. Has parkour appeared in movies or media?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "16. Are there parkour competitions?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. What are some common injuries in parkour?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. Can parkour be practiced indoors?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. What is the philosophy behind parkour?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. Are there organizations or communities for parkour?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Citizen science": {
+    "1. What is citizen science?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. When did the term \"citizen science\" originate?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "3. Who can participate in citizen science projects?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "4. What are some examples of citizen science projects?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. How does citizen science benefit scientific research?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. What fields commonly use citizen science?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. What are the goals of citizen science?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. How do participants contribute data in citizen science?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. What technology is used in citizen science?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. Are there any notable historical citizen science projects?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "11. How is data quality ensured in citizen science?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. What organizations promote citizen science?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. Can citizen science influence policy decisions?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. How do schools use citizen science?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. What are the challenges facing citizen science?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. How can someone join a citizen science project?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. What is crowdsourcing in citizen science?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. Are there ethical concerns in citizen science?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. What impact has citizen science had on biodiversity research?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. How is citizen science funded?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Sand sculpture": {
+    "1. What is a sand sculpture?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. What materials are used to make sand sculptures?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "3. Where are sand sculptures commonly built?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "4. Who are some famous sand sculptors?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "5. What tools are used to create sand sculptures?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. How long do sand sculptures typically last?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. When did sand sculpting become popular?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "8. What are the most popular sand sculpture festivals?": [
+      1,
+      1,
+      1,
+      1,
+      10
+    ],
+    "9. Are there competitions for sand sculpting?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. What techniques are used in sand sculpting?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. How is sand prepared for sculpting?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. Can colored sand be used in sculptures?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. Are sand sculptures made indoors or outdoors?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. What themes are common in sand sculptures?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. Is special sand required for sculpting?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. How do artists prevent sculptures from collapsing?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. How do weather conditions affect sand sculptures?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. Can sand sculptures be preserved?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. Are there world records for sand sculptures?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. How large can sand sculptures get?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "The Banach Tarski paradox": {
+    "1. What is the Banach\u2013Tarski paradox?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. Who discovered the Banach\u2013Tarski paradox?": [
+      5,
+      10,
+      1,
+      1,
+      1
+    ],
+    "3. When was the Banach\u2013Tarski paradox first published?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "4. What is the main result of the Banach\u2013Tarski paradox?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. Which field of mathematics does the paradox belong to?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. Does the Banach\u2013Tarski paradox apply to physical objects?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. What mathematical concept is essential for the paradox?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. What is the axiom of choice?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. Can the paradox be performed in two dimensions?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. How many pieces does the paradox involve dividing a sphere into?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. What is meant by \"paradox\" in this context?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. Does the paradox violate the conservation of mass?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. What is a non-measurable set?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. Why is the paradox considered counterintuitive?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. Are the pieces in the paradox physically realizable?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. How does the paradox relate to set theory?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. Has the paradox been experimentally observed?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. What is the Hausdorff paradox?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. What criticisms has the Banach\u2013Tarski paradox received?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. What are some implications of the Banach\u2013Tarski paradox for mathematics?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Ramanujan's lost notebook": {
+    "1. What is Ramanujan's lost notebook?": [
+      10,
+      5,
+      1,
+      1,
+      1
+    ],
+    "2. Who discovered Ramanujan's lost notebook?": [
+      5,
+      5,
+      1,
+      1,
+      1
+    ],
+    "3. When was the lost notebook found?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "4. Where was the notebook discovered?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. What does the lost notebook contain?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. How many pages are in the lost notebook?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. Why is it called a \"lost\" notebook?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. What mathematical topics are covered in the notebook?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. How did the lost notebook reach England?": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. Who was G. N. Watson in relation to the notebook?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "11. What role did B. M. Wilson play regarding the notebook?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "12. How did George Andrews contribute to the notebook's discovery?": [
+      1,
+      1,
+      1,
+      10,
+      1
+    ],
+    "13. How did the notebook influence modern mathematics?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. Are the results in the notebook published elsewhere?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. What are mock theta functions in the context of the notebook?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. How has the lost notebook impacted Ramanujan\u2019s legacy?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. Who currently owns the original lost notebook?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. Is the lost notebook available for public viewing?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. What was the mathematical community\u2019s reaction to the discovery?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. How has the lost notebook been analyzed or published since its discovery?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Fermat's Last Theorem": {
+    "1. Who first stated Fermat's Last Theorem?": [
+      5,
+      10,
+      1,
+      3,
+      1
+    ],
+    "2. What does Fermat's Last Theorem claim about whole number solutions?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "3. In what year did Andrew Wiles prove the theorem?": [
+      1,
+      1,
+      10,
+      1,
+      1
+    ],
+    "4. What is the general equation associated with Fermat's Last Theorem?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. For which values of n does the theorem apply?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. Where did Pierre de Fermat write his famous note about the theorem?": [
+      1,
+      1,
+      1,
+      3,
+      1
+    ],
+    "7. How long did the theorem remain unproven?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "8. Which mathematical field was crucial in Wiles's proof?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. What is the significance of the Taniyama\u2013Shimura\u2013Weil conjecture in the proof?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. Did Fermat provide a proof for his theorem?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. What is the smallest value of n for which the theorem applies?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. Who assisted Andrew Wiles in completing the proof?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. How was the mathematical community informed about the proof's success?": [
+      1,
+      1,
+      1,
+      3,
+      1
+    ],
+    "14. What error was found in Wiles's initial proof?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. In what year did Fermat write his note?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. What is the relationship between the theorem and Pythagoras' theorem?": [
+      1,
+      10,
+      1,
+      1,
+      1
+    ],
+    "17. Which two mathematicians' work did Wiles build upon?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. What is a common misconception about Fermat's Last Theorem?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. Has Fermat's Last Theorem been generalized to other equations?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. What is the impact of the theorem's proof on modern mathematics?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "Schrodinger's cat": {
+    "1. What is Schr\u00f6dinger's cat?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "2. Who proposed the Schr\u00f6dinger's cat thought experiment?": [
+      10,
+      10,
+      1,
+      10,
+      1
+    ],
+    "3. When was Schr\u00f6dinger's cat first introduced?": [
+      1,
+      10,
+      10,
+      1,
+      1
+    ],
+    "4. What is the purpose of the Schr\u00f6dinger's cat experiment?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "5. What is inside the box in the thought experiment?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "6. How does the cat's fate depend on quantum mechanics?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "7. What is the role of the radioactive atom in the experiment?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "8. What happens if the atom decays in the experiment?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "9. What is meant by \"superposition\" in this context?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "10. How is the observer important in Schr\u00f6dinger's cat experiment?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "11. What does the experiment say about the measurement problem?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "12. How does the Copenhagen interpretation relate to Schr\u00f6dinger's cat?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "13. Has Schr\u00f6dinger's cat been performed in real life?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "14. What philosophical questions does the experiment raise?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "15. How do many-worlds theorists interpret Schr\u00f6dinger's cat?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "16. What criticisms have been raised about the thought experiment?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "17. How has Schr\u00f6dinger's cat influenced popular culture?": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "18. What is the connection between Schr\u00f6dinger's cat and quantum entanglement?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "19. Are there any variations of the original thought experiment?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ],
+    "20. How did Schr\u00f6dinger himself view the implications of his cat experiment?": [
+      10,
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

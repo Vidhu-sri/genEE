@@ -1,0 +1,41 @@
+Topics: 100 total | 80 train | 20 val
+Val topics: ['The Banach Tarski paradox', 'Poincare conjecture', 'TV Antennas', 'Bookshelf Albums', 'Tabata training']...
+Train: 1600 questions × 20 = 32000 samples
+Val:   400 questions × 20 = 8000 samples
+Params: 22,871,425 total | 158,209 trainable (0.7%)
+  epoch   1/30 | train=0.00648 | val=0.00939 | lr=0.000997
+    ✓ saved (val=0.00939)
+  epoch   2/30 | train=0.00306 | val=0.00875 | lr=0.000989
+    ✓ saved (val=0.00875)
+  epoch   3/30 | train=0.00212 | val=0.00748 | lr=0.000976
+    ✓ saved (val=0.00748)
+  epoch   4/30 | train=0.00182 | val=0.00844 | lr=0.000957
+  epoch   5/30 | train=0.00156 | val=0.00951 | lr=0.000933
+  epoch   6/30 | train=0.00142 | val=0.00793 | lr=0.000905
+  epoch   7/30 | train=0.00135 | val=0.00808 | lr=0.000872
+  epoch   8/30 | train=0.00123 | val=0.00854 | lr=0.000835
+  epoch   9/30 | train=0.00119 | val=0.00893 | lr=0.000794
+  epoch  10/30 | train=0.00112 | val=0.00890 | lr=0.000750
+  epoch  11/30 | train=0.00107 | val=0.00866 | lr=0.000703
+  epoch  12/30 | train=0.00099 | val=0.00907 | lr=0.000655
+  epoch  13/30 | train=0.00096 | val=0.00929 | lr=0.000604
+  epoch  14/30 | train=0.00089 | val=0.00930 | lr=0.000552
+  epoch  15/30 | train=0.00083 | val=0.00886 | lr=0.000500
+  epoch  16/30 | train=0.00080 | val=0.00878 | lr=0.000448
+  epoch  17/30 | train=0.00077 | val=0.00877 | lr=0.000396
+  epoch  18/30 | train=0.00073 | val=0.00886 | lr=0.000345
+  epoch  19/30 | train=0.00068 | val=0.00892 | lr=0.000297
+  epoch  20/30 | train=0.00065 | val=0.00869 | lr=0.000250
+  epoch  21/30 | train=0.00060 | val=0.00919 | lr=0.000206
+  epoch  22/30 | train=0.00058 | val=0.00892 | lr=0.000165
+  epoch  23/30 | train=0.00055 | val=0.00888 | lr=0.000128
+  epoch  24/30 | train=0.00052 | val=0.00885 | lr=0.000095
+  epoch  25/30 | train=0.00049 | val=0.00892 | lr=0.000067
+  epoch  26/30 | train=0.00048 | val=0.00872 | lr=0.000043
+  epoch  27/30 | train=0.00048 | val=0.00874 | lr=0.000024
+  epoch  28/30 | train=0.00046 | val=0.00890 | lr=0.000011
+  epoch  29/30 | train=0.00044 | val=0.00891 | lr=0.000003
+  epoch  30/30 | train=0.00044 | val=0.00899 | lr=0.000000
+
+Done. Best val loss: 0.00748 → evaluator/checkpoints/best.pt
+Held-out val topics: ['The Banach Tarski paradox', 'Poincare conjecture', 'TV Antennas', 'Bookshelf Albums', 'Tabata training', 'Window Treatments', 'Garage Storage', 'Avenue of the Baobabs', 'Malala Yousafzai', 'Vacuums', 'Spray Bottles', 'Chimamanda Ngozi Adichie', 'Conditioners', 'Carl Jung', 'Wall Plates', 'Area Rugs', 'Great Oxygenation Event', 'Artificial Superintelligence', 'Hair Treatment Oils', 'Cookware Sets']

@@ -115,16 +115,33 @@ class FiLMEvaluator(nn.Module):
         else:
             raise ValueError(f"Unknown head_mode: {head_mode}")
 
-    @torch.no_grad()
-    def encode(self, texts: List[str], device) -> torch.Tensor:
-        """Encode texts with frozen MiniLM → [B, 384]."""
-        enc = self.tokenizer(
-            texts, padding=True, truncation=True, max_length=128, return_tensors="pt"
-        )
-        enc = {k: v.to(device) for k, v in enc.items()}
-        out = self.encoder(**enc)
-        mask = enc["attention_mask"].unsqueeze(-1).float()
-        return (out.last_hidden_state * mask).sum(1) / mask.sum(1).clamp(min=1e-6)
+    def encode(self, texts: List[str], device, no_grad: bool = None) -> torch.Tensor:
+        """
+        Encode texts with MiniLM -> [B, 384].
+
+        If encoder parameters are frozen, this automatically runs without gradients.
+        If encoder is unfrozen, gradients are allowed during training.
+        """
+        if no_grad is None:
+            no_grad = not any(p.requires_grad for p in self.encoder.parameters())
+
+        def _encode_inner():
+            enc = self.tokenizer(
+                texts,
+                padding=True,
+                truncation=True,
+                max_length=128,
+                return_tensors="pt",
+            )
+            enc = {k: v.to(device) for k, v in enc.items()}
+            out = self.encoder(**enc)
+            mask = enc["attention_mask"].unsqueeze(-1).float()
+            return (out.last_hidden_state * mask).sum(1) / mask.sum(1).clamp(min=1e-6)
+
+        if no_grad:
+            with torch.no_grad():
+                return _encode_inner()
+        return _encode_inner()
 
     @staticmethod
     def format_input(questions: List[str], topic: str, domain: str) -> List[str]:

@@ -30,8 +30,9 @@ def load_ecom_topics(data_dir="data"):
 def load_model(checkpoint, device="cpu"):
     ckpt = torch.load(checkpoint, map_location=device, weights_only=False)
     head_mode = ckpt.get("head_mode", "dimensions")  # fallback for old ckpts
+    freeze_encoder = ckpt.get("freeze_encoder", True)
 
-    model = FiLMEvaluator(freeze_encoder=True, head_mode=head_mode).to(device)
+    model = FiLMEvaluator(freeze_encoder=freeze_encoder, head_mode=head_mode).to(device)
 
     state = model.state_dict()
     for k, v in ckpt["model_state_dict"].items():

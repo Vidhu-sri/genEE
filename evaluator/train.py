@@ -124,6 +124,7 @@ def build_datasets(scores_path, data_dir="data", val_fraction=0.2, n_alphas=20):
 
 def train(args):
     device = torch.device(args.device)
+    freeze_encoder = not args.unfreeze_encoder
 
     train_ds, val_ds, val_topics = build_datasets(
         args.scores, args.data_dir, args.val_fraction, args.n_alphas
@@ -134,7 +135,7 @@ def train(args):
     val_dl = DataLoader(val_ds, batch_size=args.batch_size, shuffle=False,
                         collate_fn=collate, num_workers=0)
 
-    model = FiLMEvaluator(freeze_encoder=True, head_mode=args.head_mode).to(device)
+    model = FiLMEvaluator(freeze_encoder=freeze_encoder, head_mode=args.head_mode).to(device)
 
     trainable = [p for p in model.parameters() if p.requires_grad]
     n_trainable = sum(p.numel() for p in trainable)
@@ -151,7 +152,8 @@ def train(args):
     for epoch in range(args.epochs):
         # ── Train ──
         model.train()
-        model.encoder.eval()
+        if freeze_encoder:
+            model.encoder.eval()
         tl, nb = 0.0, 0
 
         for texts, alphas, dim_gt, target_gt in train_dl:
@@ -201,12 +203,16 @@ def train(args):
 
         if avg_vl < best_val:
             best_val = avg_vl
-            torch.save({
-                "model_state_dict": {
-                    k: v for k, v in model.state_dict().items()
+            model_state_dict = model.state_dict()
+            if freeze_encoder:
+                model_state_dict = {
+                    k: v for k, v in model_state_dict.items()
                     if not k.startswith("encoder.")
-                },
+                }
+            torch.save({
+                "model_state_dict": model_state_dict,
                 "head_mode": args.head_mode,
+                "freeze_encoder": freeze_encoder,
                 "epoch": epoch,
                 "val_loss": best_val,
                 "val_topics": list(val_topics),
@@ -230,6 +236,8 @@ def main():
     p.add_argument("--head-mode", default="scalar", choices=["scalar", "dimensions"],
                    help="scalar: r_ij = f(q,t,alpha) directly (Image 1 formulation, recommended). "
                         "dimensions: predict 5 dims, then alpha · dims (legacy, weaker).")
+    p.add_argument("--unfreeze-encoder", action="store_true",
+                   help="Fine-tune the MiniLM encoder instead of keeping it frozen.")
     p.add_argument("--device", default="cpu")
     args = p.parse_args()
     train(args)

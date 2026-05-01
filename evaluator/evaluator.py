@@ -138,8 +138,9 @@ def _make_film_evaluator(checkpoint, device="cpu"):
 
     ckpt = torch.load(checkpoint, map_location=dev, weights_only=False)
     head_mode = ckpt.get("head_mode", "dimensions")  # fallback for old ckpts
+    freeze_encoder = ckpt.get("freeze_encoder", True)
 
-    model = FiLMModel(freeze_encoder=True, head_mode=head_mode).to(dev)
+    model = FiLMModel(freeze_encoder=freeze_encoder, head_mode=head_mode).to(dev)
 
     state = model.state_dict()
     for k, v in ckpt["model_state_dict"].items():

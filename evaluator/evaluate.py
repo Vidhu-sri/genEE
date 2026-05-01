@@ -50,7 +50,7 @@ def load_model(checkpoint, device="cpu"):
 def film_scores(model, questions, alpha, topic, domain, device):
     """
     Score questions with FiLM. Returns (scores, dim_scores).
-    
+
     For dim_scores, we always use one-hot alphas so this works for
     both scalar-head and dimension-head models consistently.
     """
@@ -216,6 +216,7 @@ def main():
     p.add_argument("--device", default="cpu")
     args = p.parse_args()
     evaluate(args)
+
 
 if __name__ == "__main__":
     main()

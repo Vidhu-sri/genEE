@@ -1,0 +1,29 @@
+Loaded FiLM (head=dimensions, epoch 0, val_loss=0.00743)
+Held-out val topics: 20
+Evaluating on 20 held-out topics
+
+Example: Artificial Superintelligence (wikipedia)
+  Alpha: ['0.21', '0.06', '0.42', '0.09', '0.22']
+  Question                                                   FiLM   GPT-4
+  ────────────────────────────────────────────────────────────────────────
+  1. What is artificial superintelligence (ASI)?           0.2666  0.2736
+  2. How does ASI differ from artificial general intel...  0.2515  0.2526
+  3. Who first coined the term "artificial superintell...  0.2776  0.1981
+  4. What are some potential benefits of ASI?              0.2610  0.2467
+  5. What are the main risks associated with ASI?          0.2629  0.2467
+  6. How could ASI impact the job market?                  0.2371  0.2258
+  7. What is the singularity in relation to ASI?           0.2485  0.2258
+  8. Which researchers are prominent in the field of ASI?  0.2561  0.2048
+
+======================================================================
+FiLM vs GPT-4 — HELD-OUT topics (200 evaluations)
+======================================================================
+  Spearman ρ:          0.335 (±0.223)
+  Pearson r:           0.411 (±0.244)
+  Top-1 agreement:     54/200 (27.0%)
+  Top-3 overlap:       0.34 (33.5%)
+  Dim top-dim agree:   2900/4000 (72.5%)
+  MAE:                 0.0708 (±0.0395)
+  RMSE:                0.0854 (±0.0431)
+
+  Baselines:

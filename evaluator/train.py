@@ -122,6 +122,29 @@ def build_datasets(scores_path, data_dir="data", val_fraction=0.2, n_alphas=20):
 
 # ─── Training ───
 
+def pairwise_rank_loss(pred, target, margin=0.03, max_pairs=2048):
+    """
+    Pairwise hinge ranking loss.
+    Encourages pred_i > pred_j whenever target_i > target_j.
+    """
+    n = pred.shape[0]
+    if n < 2:
+        return pred.new_tensor(0.0)
+
+    idx_i = torch.randint(0, n, (max_pairs,), device=pred.device)
+    idx_j = torch.randint(0, n, (max_pairs,), device=pred.device)
+
+    target_diff = target[idx_i] - target[idx_j]
+    pred_diff = pred[idx_i] - pred[idx_j]
+
+    mask = target_diff.abs() > 1e-4
+    if mask.sum() == 0:
+        return pred.new_tensor(0.0)
+
+    sign = torch.sign(target_diff[mask])
+    return torch.relu(margin - sign * pred_diff[mask]).mean()
+
+
 def train(args):
     device = torch.device(args.device)
     freeze_encoder = not args.unfreeze_encoder
@@ -167,7 +190,9 @@ def train(args):
             # Dimension-level loss removed because it would push
             # predicted_dims toward GPT's dims regardless of alpha,
             # making FiLM bypass-able.
-            loss = F.mse_loss(pred_score, target_gt)
+            loss_mse = F.mse_loss(pred_score, target_gt)
+            loss_rank = pairwise_rank_loss(pred_score, target_gt, margin=args.rank_margin)
+            loss = loss_mse + args.rank_weight * loss_rank
 
             optimizer.zero_grad()
             loss.backward()
@@ -231,6 +256,8 @@ def main():
     p.add_argument("--epochs", type=int, default=30)
     p.add_argument("--batch-size", type=int, default=32)
     p.add_argument("--lr", type=float, default=1e-3)
+    p.add_argument("--rank-weight", type=float, default=0.0)
+    p.add_argument("--rank-margin", type=float, default=0.03)
     p.add_argument("--n-alphas", type=int, default=20)
     p.add_argument("--val-fraction", type=float, default=0.2)
     p.add_argument("--head-mode", default="scalar", choices=["scalar", "dimensions"],

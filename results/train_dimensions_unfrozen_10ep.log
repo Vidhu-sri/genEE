@@ -1,0 +1,21 @@
+Topics: 100 total | 80 train | 20 val
+Val topics: ['Hair Treatment Oils', 'Conditioners', 'Bookshelf Albums', 'Artificial Superintelligence', 'Chimamanda Ngozi Adichie']...
+Train: 1600 questions × 5 = 8000 samples
+Val:   400 questions × 5 = 2000 samples
+Params: 22,871,685 total | 22,871,685 trainable (100.0%)
+  epoch   1/10 | train=0.01191 | val=0.01162 | lr=0.000976
+    ✓ saved (val=0.01162)
+  epoch   2/10 | train=0.01086 | val=0.01168 | lr=0.000905
+  epoch   3/10 | train=0.01151 | val=0.01179 | lr=0.000794
+  epoch   4/10 | train=0.01102 | val=0.01275 | lr=0.000655
+  epoch   5/10 | train=0.01102 | val=0.01079 | lr=0.000500
+    ✓ saved (val=0.01079)
+  epoch   6/10 | train=0.01046 | val=0.01223 | lr=0.000345
+  epoch   7/10 | train=0.01048 | val=0.01141 | lr=0.000206
+  epoch   8/10 | train=0.01087 | val=0.01120 | lr=0.000095
+  epoch   9/10 | train=0.01053 | val=0.01070 | lr=0.000024
+    ✓ saved (val=0.01070)
+  epoch  10/10 | train=0.01066 | val=0.01155 | lr=0.000000
+
+Done. Best val loss: 0.01070 → evaluator/checkpoints/best_dimensions_unfrozen_10ep.pt
+Held-out val topics: ['Hair Treatment Oils', 'Conditioners', 'Bookshelf Albums', 'Artificial Superintelligence', 'Chimamanda Ngozi Adichie', 'Avenue of the Baobabs', 'Tabata training', 'TV Antennas', 'Vacuums', 'Window Treatments', 'Wall Plates', 'Spray Bottles', 'Garage Storage', 'Carl Jung', 'Poincare conjecture', 'Cookware Sets', 'Malala Yousafzai', 'The Banach Tarski paradox', 'Area Rugs', 'Great Oxygenation Event']

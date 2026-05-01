@@ -1,0 +1,59 @@
+Topics: 100 total | 80 train | 20 val
+Val topics: ['Chimamanda Ngozi Adichie', 'Carl Jung', 'Hair Treatment Oils', 'Vacuums', 'Great Oxygenation Event']...
+Train: 1600 questions × 20 = 32000 samples
+Val:   400 questions × 20 = 8000 samples
+Params: 22,871,685 total | 158,469 trainable (0.7%)
+  epoch   1/50 | train=0.00808 | val=0.00743 | lr=0.000999
+    ✓ saved (val=0.00743)
+  epoch   2/50 | train=0.00385 | val=0.00770 | lr=0.000996
+  epoch   3/50 | train=0.00292 | val=0.00761 | lr=0.000991
+  epoch   4/50 | train=0.00245 | val=0.00799 | lr=0.000984
+  epoch   5/50 | train=0.00209 | val=0.00844 | lr=0.000976
+  epoch   6/50 | train=0.00190 | val=0.00795 | lr=0.000965
+  epoch   7/50 | train=0.00178 | val=0.00749 | lr=0.000952
+  epoch   8/50 | train=0.00162 | val=0.00749 | lr=0.000938
+  epoch   9/50 | train=0.00154 | val=0.00779 | lr=0.000922
+  epoch  10/50 | train=0.00148 | val=0.00771 | lr=0.000905
+  epoch  11/50 | train=0.00143 | val=0.00813 | lr=0.000885
+  epoch  12/50 | train=0.00136 | val=0.00780 | lr=0.000864
+  epoch  13/50 | train=0.00133 | val=0.00810 | lr=0.000842
+  epoch  14/50 | train=0.00131 | val=0.00795 | lr=0.000819
+  epoch  15/50 | train=0.00127 | val=0.00778 | lr=0.000794
+  epoch  16/50 | train=0.00123 | val=0.00747 | lr=0.000768
+  epoch  17/50 | train=0.00121 | val=0.00799 | lr=0.000741
+  epoch  18/50 | train=0.00119 | val=0.00828 | lr=0.000713
+  epoch  19/50 | train=0.00112 | val=0.00792 | lr=0.000684
+  epoch  20/50 | train=0.00113 | val=0.00788 | lr=0.000655
+  epoch  21/50 | train=0.00111 | val=0.00798 | lr=0.000624
+  epoch  22/50 | train=0.00106 | val=0.00793 | lr=0.000594
+  epoch  23/50 | train=0.00104 | val=0.00813 | lr=0.000563
+  epoch  24/50 | train=0.00104 | val=0.00823 | lr=0.000531
+  epoch  25/50 | train=0.00101 | val=0.00813 | lr=0.000500
+  epoch  26/50 | train=0.00100 | val=0.00794 | lr=0.000469
+  epoch  27/50 | train=0.00095 | val=0.00789 | lr=0.000437
+  epoch  28/50 | train=0.00096 | val=0.00752 | lr=0.000406
+  epoch  29/50 | train=0.00095 | val=0.00805 | lr=0.000376
+  epoch  30/50 | train=0.00093 | val=0.00759 | lr=0.000345
+  epoch  31/50 | train=0.00090 | val=0.00765 | lr=0.000316
+  epoch  32/50 | train=0.00088 | val=0.00774 | lr=0.000287
+  epoch  33/50 | train=0.00087 | val=0.00777 | lr=0.000259
+  epoch  34/50 | train=0.00085 | val=0.00768 | lr=0.000232
+  epoch  35/50 | train=0.00085 | val=0.00778 | lr=0.000206
+  epoch  36/50 | train=0.00083 | val=0.00771 | lr=0.000181
+  epoch  37/50 | train=0.00081 | val=0.00785 | lr=0.000158
+  epoch  38/50 | train=0.00081 | val=0.00775 | lr=0.000136
+  epoch  39/50 | train=0.00080 | val=0.00798 | lr=0.000115
+  epoch  40/50 | train=0.00078 | val=0.00807 | lr=0.000095
+  epoch  41/50 | train=0.00077 | val=0.00770 | lr=0.000078
+  epoch  42/50 | train=0.00077 | val=0.00776 | lr=0.000062
+  epoch  43/50 | train=0.00076 | val=0.00782 | lr=0.000048
+  epoch  44/50 | train=0.00076 | val=0.00785 | lr=0.000035
+  epoch  45/50 | train=0.00075 | val=0.00787 | lr=0.000024
+  epoch  46/50 | train=0.00074 | val=0.00785 | lr=0.000016
+  epoch  47/50 | train=0.00074 | val=0.00799 | lr=0.000009
+  epoch  48/50 | train=0.00074 | val=0.00781 | lr=0.000004
+  epoch  49/50 | train=0.00074 | val=0.00791 | lr=0.000001
+  epoch  50/50 | train=0.00075 | val=0.00748 | lr=0.000000
+
+Done. Best val loss: 0.00743 → evaluator/checkpoints/best_dimensions_rank.pt
+Held-out val topics: ['Chimamanda Ngozi Adichie', 'Carl Jung', 'Hair Treatment Oils', 'Vacuums', 'Great Oxygenation Event', 'Cookware Sets', 'Bookshelf Albums', 'Artificial Superintelligence', 'Conditioners', 'Avenue of the Baobabs', 'Malala Yousafzai', 'Spray Bottles', 'Poincare conjecture', 'Garage Storage', 'Tabata training', 'The Banach Tarski paradox', 'TV Antennas', 'Wall Plates', 'Area Rugs', 'Window Treatments']

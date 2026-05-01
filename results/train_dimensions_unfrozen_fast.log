@@ -1,0 +1,16 @@
+Topics: 100 total | 80 train | 20 val
+Val topics: ['Vacuums', 'Wall Plates', 'Avenue of the Baobabs', 'Chimamanda Ngozi Adichie', 'TV Antennas']...
+Train: 1600 questions × 5 = 8000 samples
+Val:   400 questions × 5 = 2000 samples
+Params: 22,871,685 total | 22,871,685 trainable (100.0%)
+  epoch   1/5 | train=0.01180 | val=0.01193 | lr=0.000905
+    ✓ saved (val=0.01193)
+  epoch   2/5 | train=0.01108 | val=0.01107 | lr=0.000655
+    ✓ saved (val=0.01107)
+  epoch   3/5 | train=0.01084 | val=0.01026 | lr=0.000345
+    ✓ saved (val=0.01026)
+  epoch   4/5 | train=0.01092 | val=0.01113 | lr=0.000095
+  epoch   5/5 | train=0.01064 | val=0.01122 | lr=0.000000
+
+Done. Best val loss: 0.01026 → evaluator/checkpoints/best_dimensions_unfrozen_fast.pt
+Held-out val topics: ['Vacuums', 'Wall Plates', 'Avenue of the Baobabs', 'Chimamanda Ngozi Adichie', 'TV Antennas', 'Cookware Sets', 'Bookshelf Albums', 'Hair Treatment Oils', 'Conditioners', 'Malala Yousafzai', 'The Banach Tarski paradox', 'Window Treatments', 'Artificial Superintelligence', 'Carl Jung', 'Garage Storage', 'Tabata training', 'Great Oxygenation Event', 'Area Rugs', 'Spray Bottles', 'Poincare conjecture']

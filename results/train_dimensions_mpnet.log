@@ -1,0 +1,64 @@
+Topics: 100 total | 80 train | 20 val
+Val topics: ['Vacuums', 'Avenue of the Baobabs', 'Great Oxygenation Event', 'Bookshelf Albums', 'The Banach Tarski paradox']...
+Train: 1600 questions × 20 = 32000 samples
+Val:   400 questions × 20 = 8000 samples
+Params: 109,793,157 total | 306,693 trainable (0.3%)
+  epoch   1/50 | train=0.00527 | val=0.00610 | lr=0.000999
+    ✓ saved (val=0.00610)
+  epoch   2/50 | train=0.00225 | val=0.00573 | lr=0.000996
+    ✓ saved (val=0.00573)
+  epoch   3/50 | train=0.00164 | val=0.00560 | lr=0.000991
+    ✓ saved (val=0.00560)
+  epoch   4/50 | train=0.00134 | val=0.00542 | lr=0.000984
+    ✓ saved (val=0.00542)
+  epoch   5/50 | train=0.00115 | val=0.00564 | lr=0.000976
+  epoch   6/50 | train=0.00105 | val=0.00509 | lr=0.000965
+    ✓ saved (val=0.00509)
+  epoch   7/50 | train=0.00098 | val=0.00575 | lr=0.000952
+  epoch   8/50 | train=0.00092 | val=0.00530 | lr=0.000938
+  epoch   9/50 | train=0.00084 | val=0.00593 | lr=0.000922
+  epoch  10/50 | train=0.00083 | val=0.00561 | lr=0.000905
+  epoch  11/50 | train=0.00080 | val=0.00535 | lr=0.000885
+  epoch  12/50 | train=0.00074 | val=0.00545 | lr=0.000864
+  epoch  13/50 | train=0.00074 | val=0.00547 | lr=0.000842
+  epoch  14/50 | train=0.00073 | val=0.00570 | lr=0.000819
+  epoch  15/50 | train=0.00070 | val=0.00529 | lr=0.000794
+  epoch  16/50 | train=0.00068 | val=0.00526 | lr=0.000768
+  epoch  17/50 | train=0.00067 | val=0.00536 | lr=0.000741
+  epoch  18/50 | train=0.00062 | val=0.00551 | lr=0.000713
+  epoch  19/50 | train=0.00061 | val=0.00572 | lr=0.000684
+  epoch  20/50 | train=0.00059 | val=0.00561 | lr=0.000655
+  epoch  21/50 | train=0.00057 | val=0.00517 | lr=0.000624
+  epoch  22/50 | train=0.00055 | val=0.00514 | lr=0.000594
+  epoch  23/50 | train=0.00054 | val=0.00513 | lr=0.000563
+  epoch  24/50 | train=0.00054 | val=0.00579 | lr=0.000531
+  epoch  25/50 | train=0.00050 | val=0.00543 | lr=0.000500
+  epoch  26/50 | train=0.00051 | val=0.00559 | lr=0.000469
+  epoch  27/50 | train=0.00047 | val=0.00563 | lr=0.000437
+  epoch  28/50 | train=0.00047 | val=0.00536 | lr=0.000406
+  epoch  29/50 | train=0.00044 | val=0.00569 | lr=0.000376
+  epoch  30/50 | train=0.00042 | val=0.00566 | lr=0.000345
+  epoch  31/50 | train=0.00041 | val=0.00552 | lr=0.000316
+  epoch  32/50 | train=0.00039 | val=0.00532 | lr=0.000287
+  epoch  33/50 | train=0.00036 | val=0.00547 | lr=0.000259
+  epoch  34/50 | train=0.00037 | val=0.00560 | lr=0.000232
+  epoch  35/50 | train=0.00036 | val=0.00552 | lr=0.000206
+  epoch  36/50 | train=0.00034 | val=0.00554 | lr=0.000181
+  epoch  37/50 | train=0.00032 | val=0.00554 | lr=0.000158
+  epoch  38/50 | train=0.00033 | val=0.00500 | lr=0.000136
+    ✓ saved (val=0.00500)
+  epoch  39/50 | train=0.00031 | val=0.00534 | lr=0.000115
+  epoch  40/50 | train=0.00031 | val=0.00556 | lr=0.000095
+  epoch  41/50 | train=0.00029 | val=0.00555 | lr=0.000078
+  epoch  42/50 | train=0.00029 | val=0.00532 | lr=0.000062
+  epoch  43/50 | train=0.00027 | val=0.00554 | lr=0.000048
+  epoch  44/50 | train=0.00027 | val=0.00547 | lr=0.000035
+  epoch  45/50 | train=0.00027 | val=0.00527 | lr=0.000024
+  epoch  46/50 | train=0.00026 | val=0.00556 | lr=0.000016
+  epoch  47/50 | train=0.00026 | val=0.00545 | lr=0.000009
+  epoch  48/50 | train=0.00025 | val=0.00548 | lr=0.000004
+  epoch  49/50 | train=0.00025 | val=0.00519 | lr=0.000001
+  epoch  50/50 | train=0.00025 | val=0.00546 | lr=0.000000
+
+Done. Best val loss: 0.00500 → evaluator/checkpoints/best_dimensions_mpnet.pt
+Held-out val topics: ['Vacuums', 'Avenue of the Baobabs', 'Great Oxygenation Event', 'Bookshelf Albums', 'The Banach Tarski paradox', 'Carl Jung', 'Malala Yousafzai', 'Artificial Superintelligence', 'Cookware Sets', 'Wall Plates', 'Poincare conjecture', 'Tabata training', 'Conditioners', 'Chimamanda Ngozi Adichie', 'TV Antennas', 'Hair Treatment Oils', 'Spray Bottles', 'Garage Storage', 'Area Rugs', 'Window Treatments']

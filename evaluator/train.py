@@ -158,7 +158,11 @@ def train(args):
     val_dl = DataLoader(val_ds, batch_size=args.batch_size, shuffle=False,
                         collate_fn=collate, num_workers=0)
 
-    model = FiLMEvaluator(freeze_encoder=freeze_encoder, head_mode=args.head_mode).to(device)
+    model = FiLMEvaluator(
+        freeze_encoder=freeze_encoder,
+        model_name=args.model_name,
+        head_mode=args.head_mode,
+    ).to(device)
 
     trainable = [p for p in model.parameters() if p.requires_grad]
     n_trainable = sum(p.numel() for p in trainable)
@@ -245,6 +249,7 @@ def train(args):
                 "model_state_dict": model_state_dict,
                 "head_mode": args.head_mode,
                 "freeze_encoder": freeze_encoder,
+                "model_name": args.model_name,
                 "epoch": epoch,
                 "val_loss": best_val,
                 "val_topics": list(val_topics),
@@ -260,6 +265,7 @@ def main():
     p.add_argument("--scores", default="data/gpt4_dimension_scores.json")
     p.add_argument("--output", default="evaluator/checkpoints/best.pt")
     p.add_argument("--data-dir", default="data")
+    p.add_argument("--model-name", default="sentence-transformers/all-MiniLM-L6-v2")
     p.add_argument("--epochs", type=int, default=30)
     p.add_argument("--batch-size", type=int, default=32)
     p.add_argument("--lr", type=float, default=1e-3)

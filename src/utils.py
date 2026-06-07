@@ -18,7 +18,7 @@ results_path = Path(config["results_dir"])
 # ─── LLM (for generation only now) ───
 llm = LLM(
     qs_model=config.get("qs_model", "gpt-4-turbo"),
-    gen_model=config.get("gen_model", "gpt-3.5-turbo"),
+    gen_model=config.get("generator_model", config.get("gen_model", "gpt-3.5-turbo")),
     qs_temperature=config.get("qs_temperature", 0.0),
     gen_temperature=config.get("gen_temperature", 0.8),
     batch_size=config.get("batch_size", 20),
@@ -117,7 +117,7 @@ def init_ips(domain):
     prompt_file = "initial_prompt_wikipedia.txt" if domain == "wikipedia" else "initial_prompt.txt"
     template = (prompts_path / prompt_file).read_text()
     all_ips = {}
-    N0 = int(config.get("n", 20))
+    N0 = int(config.get("initial_ip_size", config.get("n", 20)))
     for topic in topics:
         prompt = render_template(template, {"TOPIC": topic, "N": str(N0)})
         questions = llm.generate_list(prompt, N0)
@@ -253,14 +253,14 @@ def simulate_ctr(ip, persona_scores, K=3, S=5000, RS=11.0, T=1.5, seed=None):
 
 def generate_explore_ip(ip, topic, domain):
     prompt_template = (prompts_path / f"explore_prompt_{domain}.txt").read_text()
-    N = int(config.get("explore_n", 5))
+    N = int(config.get("num_generate", config.get("explore_n", 5)))
     prompt = render_template(prompt_template, {"TITLE": topic, "CATEGORY": topic, "N": str(N)})
     return llm.generate_list(prompt, N)
 
 
 def generate_exploit_ip(ctrs_or_scores, topic, domain):
     prompt_template = (prompts_path / f"exploit_prompt_{domain}.txt").read_text()
-    N = int(config.get("exploit_n", 5))
+    N = int(config.get("num_generate", config.get("exploit_n", 5)))
     top_k = sorted(ctrs_or_scores.items(), key=lambda x: x[1], reverse=True)[:max(1, N)]
     questions_str = "\n".join(f"Question: {q}\nCTR: {round(p * 100, 1)}%" for q, p in top_k)
     prompt = render_template(prompt_template, {

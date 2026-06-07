@@ -49,6 +49,12 @@ def personas_for(d): return ECOM_P if d == "ecommerce" else WIKI_P
 # ─── Methods ───
 METHODS = ["no_drop", "random_ctr", "partial_ctr", "full_ctr", "explore_exploit"]
 
+def evaluator_label():
+    label = config.get("evaluator_backend", "minilm")
+    if label == "film":
+        return f"film_{Path(config.get('film_checkpoint', 'evaluator/checkpoints/best.pt')).stem}"
+    return label
+
 def _drop_worst(ip, ctrs, keep_k):
     n_drop = max(0, len(ip) - keep_k)
     if n_drop == 0: return [], list(ip)
@@ -262,8 +268,8 @@ def load_snap(rd, topic, it):
 
 # ─── Main loop (fully sync) ───
 def run_experiment(domain, method, user_level=False, resume=False, topics_subset=None):
-    gen_model = config.get("gen_model", "gpt-3.5-turbo")
-    eval_label = "minilm"  # always MiniLM now
+    gen_model = config.get("generator_model", config.get("gen_model", "gpt-3.5-turbo"))
+    eval_label = evaluator_label()
     ul_tag = "user" if user_level else "cohort"
 
     run_id = f"{domain}__{method}__{gen_model}__{eval_label}__{ul_tag}"
@@ -276,9 +282,12 @@ def run_experiment(domain, method, user_level=False, resume=False, topics_subset
         topics = [t for t in topics if t in topics_subset]
     personas = personas_for(domain)
 
+    pool_size = int(config.get("pool_size", config.get("initial_ip_size", 20)))
+    keep_k = int(config.get("keep_k", pool_size - int(config.get("num_drop", 0))))
     cfg = {
-        "pool_size": int(config.get("pool_size", 20)),
-        "keep_k": int(config.get("keep_k", 10)),
+        "pool_size": pool_size,
+        "keep_k": keep_k,
+        "initial_ip_size": int(config.get("initial_ip_size", pool_size)),
         "sim_K": int(config.get("sim_K", 3)),
         "sim_S": int(config.get("sim_S", 5000)),
         "sim_T": float(config.get("sim_T", 1.5)),
@@ -304,7 +313,7 @@ def run_experiment(domain, method, user_level=False, resume=False, topics_subset
         print(f"\n{'='*60}\n[{run_id}] {topic}\n{'='*60}")
 
         start = 0
-        ip = load_ip(topic)
+        ip = load_ip(topic)[:cfg["initial_ip_size"]]
         if resume:
             li = last_iter(rd, topic)
             if li >= 0:
@@ -374,14 +383,14 @@ def main():
         if args.topics: topics = [t for t in topics if t in args.topics]
         methods = METHODS if args.method == "all" else [args.method]
         iters = config.get("iterations", 15)
-        pool = config.get("pool_size", 20)
+        pool = config.get("pool_size", config.get("initial_ip_size", 20))
         ups = config.get("users_per_persona", 10) if args.user_level else 1
         n_gen = len(topics) * iters * len(methods)
         print(f"=== DRY RUN ===")
         print(f"Domain:      {args.domain}")
         print(f"Methods:     {methods}")
-        print(f"Generator:   {config.get('gen_model')}")
-        print(f"Evaluator:   MiniLM (local, no API)")
+        print(f"Generator:   {config.get('generator_model', config.get('gen_model'))}")
+        print(f"Evaluator:   {evaluator_label()} (local, no API)")
         print(f"User-level:  {args.user_level} ({ups} users/persona)" if args.user_level else f"User-level:  False (cohort)")
         print(f"Topics:      {len(topics)}")
         print(f"Personas:    {personas}")
@@ -394,7 +403,7 @@ def main():
     methods = METHODS if args.method == "all" else [args.method]
     for method in methods:
         print(f"\n{'#'*60}")
-        print(f"# {method} | {args.domain} | gen={config.get('gen_model')} | eval=minilm | {'user-level' if args.user_level else 'cohort'}")
+        print(f"# {method} | {args.domain} | gen={config.get('generator_model', config.get('gen_model'))} | eval={evaluator_label()} | {'user-level' if args.user_level else 'cohort'}")
         print(f"{'#'*60}")
         run_experiment(args.domain, method, args.user_level, args.resume, args.topics)
 

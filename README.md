@@ -1,4 +1,12 @@
-Generative Recommender Systems
+A generative recommender system for question generation. 
+
+lowest CTR questions are dropped, and replaced in part with CTR exploited questions and in part with 
+high temperature exploratory questions. 
+
+The exploration vs exploitation is handled by bandits, 
+user represented by user level embeddings, 
+
+custom evaluator with dirichlet distribution to simulate user vectors as of now. 
 
 
 Reference:

@@ -1,0 +1,37 @@
+{
+  "topic": "Carl Jung",
+  "method": "no_drop",
+  "ctr_trajectory": [
+    0.00888,
+    0.007233333333333334,
+    0.008466666666666667,
+    0.0074333333333333335,
+    0.006028571428571429,
+    0.006714285714285714,
+    0.0067428571428571425,
+    0.004575,
+    0.004725,
+    0.004577777777777777,
+    0.00404,
+    0.00422,
+    0.0036,
+    0.004739999999999999,
+    0.00402
+  ],
+  "initial_ctr": 0.00888,
+  "final_ctr": 0.00402,
+  "improvement": -0.004860000000000001,
+  "final_pool": [
+    "1. When was Carl Jung born?",
+    "2. Where was Carl Jung born?",
+    "3. What is Carl Jung best known for?",
+    "4. Who were Jung's major influences?",
+    "5. What is analytical psychology?",
+    "What are Carl Jung's main contributions to psychology?",
+    "How did Carl Jung's theories differ from those of Sigmund Freud?",
+    "What are the main concepts of Carl Jung's psychological theories?",
+    "What are Carl Jung's main theories on the collective unconscious?",
+    "What were Carl Jung's main contributions to psychology?",
+    "What are the main concepts developed by Carl Jung?"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "topic": "Friedrich Nietzsche",
+  "method": "bandit_epsilon",
+  "ctr_trajectory": [
+    0.01732,
+    0.0156,
+    0.01656,
+    0.016560000000000002,
+    0.016279999999999996,
+    0.014360000000000001,
+    0.016080000000000004,
+    0.016,
+    0.01432,
+    0.0188,
+    0.018639999999999997,
+    0.01544,
+    0.01724,
+    0.0166,
+    0.013279999999999997
+  ],
+  "initial_ctr": 0.01732,
+  "final_ctr": 0.013279999999999997,
+  "improvement": -0.004040000000000002,
+  "final_pool": [
+    "3. What is Nietzsche best known for?",
+    "5. What philosophical concept is Nietzsche famous for introducing?",
+    "What are the main concepts introduced by Friedrich Nietzsche in his philosophy?",
+    "How did Friedrich Nietzsche's philosophy influence modern existential thought?",
+    "What influence did Friedrich Nietzsche have on existentialism and modern philosophy?"
+  ]
+}

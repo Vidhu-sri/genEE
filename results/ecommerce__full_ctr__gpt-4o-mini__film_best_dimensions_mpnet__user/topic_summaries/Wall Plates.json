@@ -1,0 +1,31 @@
+{
+  "topic": "Wall Plates",
+  "method": "full_ctr",
+  "ctr_trajectory": [
+    0.00572,
+    0.00636,
+    0.006840000000000001,
+    0.00828,
+    0.006,
+    0.006840000000000001,
+    0.00712,
+    0.00716,
+    0.0064,
+    0.0062,
+    0.00612,
+    0.0067599999999999995,
+    0.0067599999999999995,
+    0.00652,
+    0.00708
+  ],
+  "initial_ctr": 0.00572,
+  "final_ctr": 0.00708,
+  "improvement": 0.00136,
+  "final_pool": [
+    "1. What materials are wall plates commonly made from?",
+    "2. How many types of wall plates are available?",
+    "What are the different styles of wall plates available for home use?",
+    "What are the different types of wall plate designs available?",
+    "How do I choose the right size wall plate for my outlet?"
+  ]
+}

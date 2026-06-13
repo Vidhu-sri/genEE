@@ -1,0 +1,43 @@
+{
+  "topic": "Wall Plates",
+  "method": "no_drop",
+  "ctr_trajectory": [
+    0.00572,
+    0.005666666666666667,
+    0.005085714285714285,
+    0.004824999999999999,
+    0.0031555555555555555,
+    0.00358,
+    0.0031272727272727272,
+    0.002766666666666667,
+    0.0025076923076923076,
+    0.002446153846153846,
+    0.002342857142857143,
+    0.0022,
+    0.00224,
+    0.0019874999999999997,
+    0.0019529411764705883
+  ],
+  "initial_ctr": 0.00572,
+  "final_ctr": 0.0019529411764705883,
+  "improvement": -0.003767058823529412,
+  "final_pool": [
+    "1. What materials are wall plates commonly made from?",
+    "2. How many types of wall plates are available?",
+    "3. What sizes do wall plates come in?",
+    "4. How are wall plates installed?",
+    "5. Are wall plates compatible with all switches?",
+    "What features should I consider when choosing wall plates?",
+    "What features should I consider when buying wall plates for my home?",
+    "What are the common materials used in wall plates for durability?",
+    "What are the different materials used in wall plates?",
+    "What are the key features to look for in wall plates?",
+    "What features should I consider when choosing wall plates for my home?",
+    "What are the key features to consider when choosing wall plates?",
+    "What are the key features to consider when buying wall plates?",
+    "What materials are commonly used for wall plates and how do they differ in quality?",
+    "What features should I look for in wall plates for durability?",
+    "What are the key features to consider when selecting wall plates?",
+    "What features should I consider when buying wall plates?"
+  ]
+}

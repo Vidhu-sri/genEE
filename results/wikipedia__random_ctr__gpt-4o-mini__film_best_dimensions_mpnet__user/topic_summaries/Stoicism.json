@@ -1,0 +1,31 @@
+{
+  "topic": "Stoicism",
+  "method": "random_ctr",
+  "ctr_trajectory": [
+    0.00872,
+    0.006559999999999999,
+    0.007680000000000001,
+    0.00712,
+    0.00796,
+    0.007039999999999999,
+    0.00736,
+    0.0066,
+    0.00732,
+    0.00668,
+    0.007519999999999999,
+    0.00732,
+    0.00824,
+    0.00796,
+    0.007520000000000001
+  ],
+  "initial_ctr": 0.00872,
+  "final_ctr": 0.007520000000000001,
+  "improvement": -0.0011999999999999997,
+  "final_pool": [
+    "4. Where did Stoicism originate?",
+    "How does Stoicism define the concept of virtue?",
+    "1. What is Stoicism?",
+    "3. When was Stoicism founded?",
+    "What are the central tenets of Stoicism?"
+  ]
+}

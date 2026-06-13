@@ -1,0 +1,31 @@
+{
+  "topic": "Wall Plates",
+  "method": "random_ctr",
+  "ctr_trajectory": [
+    0.005560000000000001,
+    0.00708,
+    0.00776,
+    0.007639999999999999,
+    0.007479999999999999,
+    0.006280000000000001,
+    0.00728,
+    0.00704,
+    0.0061600000000000005,
+    0.00744,
+    0.006719999999999999,
+    0.006840000000000001,
+    0.0086,
+    0.00756,
+    0.007039999999999999
+  ],
+  "initial_ctr": 0.005560000000000001,
+  "final_ctr": 0.007039999999999999,
+  "improvement": 0.0014799999999999987,
+  "final_pool": [
+    "What are the different materials used in wall plates and their benefits?",
+    "What features should I consider when choosing wall plates for my home?",
+    "What materials are commonly used in wall plates for durability?",
+    "What qualities should I look for in wall plates for durability?",
+    "What are the common features of high-quality wall plates?"
+  ]
+}

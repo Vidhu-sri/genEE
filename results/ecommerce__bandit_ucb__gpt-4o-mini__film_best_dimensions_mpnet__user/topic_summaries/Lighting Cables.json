@@ -1,0 +1,31 @@
+{
+  "topic": "Lighting Cables",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.00468,
+    0.0048000000000000004,
+    0.00708,
+    0.0058,
+    0.00532,
+    0.0058,
+    0.005640000000000001,
+    0.0061200000000000004,
+    0.0058000000000000005,
+    0.00608,
+    0.006719999999999999,
+    0.00652,
+    0.00688,
+    0.0067599999999999995,
+    0.005599999999999999
+  ],
+  "initial_ctr": 0.00468,
+  "final_ctr": 0.005599999999999999,
+  "improvement": 0.0009199999999999989,
+  "final_pool": [
+    "5. Can Lighting cables transfer data as well as charge?",
+    "What features should I consider when choosing lighting cables?",
+    "What features should I consider when choosing Lighting Cables?",
+    "Can Lightning cables support fast charging for compatible devices?",
+    "What are the differences between standard and fast charging Lightning cables?"
+  ]
+}

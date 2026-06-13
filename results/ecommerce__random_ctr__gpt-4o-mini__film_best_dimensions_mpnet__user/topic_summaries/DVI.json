@@ -1,0 +1,31 @@
+{
+  "topic": "DVI",
+  "method": "random_ctr",
+  "ctr_trajectory": [
+    0.00268,
+    0.0032,
+    0.0044800000000000005,
+    0.004200000000000001,
+    0.00388,
+    0.0034799999999999996,
+    0.00436,
+    0.0048000000000000004,
+    0.004399999999999999,
+    0.0032,
+    0.00404,
+    0.00544,
+    0.00456,
+    0.00424,
+    0.0038399999999999997
+  ],
+  "initial_ctr": 0.00268,
+  "final_ctr": 0.0038399999999999997,
+  "improvement": 0.0011599999999999996,
+  "final_pool": [
+    "4. How does DVI differ from HDMI?",
+    "What features should I consider when choosing DVI cables?",
+    "What are the key features of different DVI cables available?",
+    "What features should I look for in DVI cables?",
+    "What are the key features of DVI connectors for monitors?"
+  ]
+}

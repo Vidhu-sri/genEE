@@ -1,0 +1,10 @@
+{
+  "run_id": "ecommerce__full_ctr__gpt-4o-mini__film_best_dimensions_mpnet__user",
+  "completed_at": "2026-06-06T05:33:55.886794",
+  "cumulative_time": {
+    "eval": 2133.984503507614,
+    "gen": 171.31736636161804,
+    "sim": 6.429453134536743,
+    "total": 2311.7389044761658
+  }
+}

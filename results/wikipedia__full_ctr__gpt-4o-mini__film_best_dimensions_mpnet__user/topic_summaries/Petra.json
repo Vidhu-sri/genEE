@@ -1,0 +1,31 @@
+{
+  "topic": "Petra",
+  "method": "full_ctr",
+  "ctr_trajectory": [
+    0.009680000000000001,
+    0.00888,
+    0.010279999999999997,
+    0.0086,
+    0.007880000000000002,
+    0.008,
+    0.009399999999999999,
+    0.007640000000000001,
+    0.00908,
+    0.009,
+    0.008,
+    0.00928,
+    0.009559999999999999,
+    0.00952,
+    0.007679999999999999
+  ],
+  "initial_ctr": 0.009680000000000001,
+  "final_ctr": 0.007679999999999999,
+  "improvement": -0.0020000000000000018,
+  "final_pool": [
+    "1. Where is Petra located?",
+    "2. Who built Petra?",
+    "What architectural styles are evident in Petra's rock-cut structures?",
+    "What are the main architectural features of Petra?",
+    "What historical significance does Petra hold in ancient trade routes?"
+  ]
+}

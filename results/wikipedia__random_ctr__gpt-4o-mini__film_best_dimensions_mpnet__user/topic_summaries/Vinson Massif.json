@@ -1,0 +1,31 @@
+{
+  "topic": "Vinson Massif",
+  "method": "random_ctr",
+  "ctr_trajectory": [
+    0.00836,
+    0.00792,
+    0.01012,
+    0.01116,
+    0.00772,
+    0.00728,
+    0.008839999999999999,
+    0.00788,
+    0.0076,
+    0.00772,
+    0.009,
+    0.008119999999999999,
+    0.00888,
+    0.00976,
+    0.007520000000000001
+  ],
+  "initial_ctr": 0.00836,
+  "final_ctr": 0.007520000000000001,
+  "improvement": -0.0008399999999999987,
+  "final_pool": [
+    "What are the main climbing routes on Vinson Massif?",
+    "3. When was Vinson Massif first climbed?",
+    "What is the elevation of Vinson Massif?",
+    "What are the main features of Vinson Massif?",
+    "5. Which mountain range contains Vinson Massif?"
+  ]
+}

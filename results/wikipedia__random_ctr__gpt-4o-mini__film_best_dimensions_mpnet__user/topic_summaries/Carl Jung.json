@@ -1,0 +1,31 @@
+{
+  "topic": "Carl Jung",
+  "method": "random_ctr",
+  "ctr_trajectory": [
+    0.00896,
+    0.007840000000000001,
+    0.00728,
+    0.00824,
+    0.0094,
+    0.005959999999999999,
+    0.007239999999999999,
+    0.007319999999999998,
+    0.00716,
+    0.00756,
+    0.00716,
+    0.008,
+    0.008119999999999999,
+    0.007000000000000001,
+    0.007880000000000002
+  ],
+  "initial_ctr": 0.00896,
+  "final_ctr": 0.007880000000000002,
+  "improvement": -0.0010799999999999976,
+  "final_pool": [
+    "What are Carl Jung's main contributions to psychology?",
+    "What are the main concepts developed by Carl Jung in his psychological theories?",
+    "What are the main concepts introduced by Carl Jung?",
+    "What were Carl Jung's main contributions to psychology?",
+    "What are the main concepts developed by Carl Jung?"
+  ]
+}

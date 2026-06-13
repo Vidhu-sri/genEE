@@ -1,0 +1,37 @@
+{
+  "topic": "Petra",
+  "method": "no_drop",
+  "ctr_trajectory": [
+    0.009680000000000001,
+    0.007999999999999998,
+    0.0082,
+    0.005971428571428571,
+    0.005685714285714285,
+    0.006314285714285715,
+    0.004775,
+    0.004066666666666666,
+    0.0044666666666666665,
+    0.004088888888888889,
+    0.00334,
+    0.0038399999999999997,
+    0.00396,
+    0.004127272727272728,
+    0.003072727272727273
+  ],
+  "initial_ctr": 0.009680000000000001,
+  "final_ctr": 0.003072727272727273,
+  "improvement": -0.006607272727272728,
+  "final_pool": [
+    "1. Where is Petra located?",
+    "2. Who built Petra?",
+    "3. When was Petra established?",
+    "4. What does the name \"Petra\" mean?",
+    "5. What is Petra famous for?",
+    "What historical significance does Petra hold in ancient trade routes?",
+    "What are the historical significance and cultural heritage of Petra?",
+    "What historical significance does Petra hold in ancient civilizations?",
+    "What are the historical significance and architectural features of Petra?",
+    "What are the main historical features of Petra?",
+    "What historic significance does Petra hold in Jordan's cultural heritage?"
+  ]
+}

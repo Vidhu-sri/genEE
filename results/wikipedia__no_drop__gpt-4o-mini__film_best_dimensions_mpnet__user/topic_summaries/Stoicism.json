@@ -1,0 +1,35 @@
+{
+  "topic": "Stoicism",
+  "method": "no_drop",
+  "ctr_trajectory": [
+    0.00872,
+    0.007299999999999998,
+    0.0067428571428571425,
+    0.006285714285714285,
+    0.005771428571428572,
+    0.005225,
+    0.005625,
+    0.004866666666666667,
+    0.004644444444444444,
+    0.004311111111111111,
+    0.004555555555555556,
+    0.004222222222222222,
+    0.005288888888888889,
+    0.004599999999999999,
+    0.004555555555555556
+  ],
+  "initial_ctr": 0.00872,
+  "final_ctr": 0.004555555555555556,
+  "improvement": -0.004164444444444445,
+  "final_pool": [
+    "1. What is Stoicism?",
+    "2. Who founded Stoicism?",
+    "3. When was Stoicism founded?",
+    "4. Where did Stoicism originate?",
+    "5. What are the main teachings of Stoicism?",
+    "How does Stoicism define the concept of virtue?",
+    "How does Stoicism define virtue in daily life?",
+    "What are the main principles of Stoicism?",
+    "How does Stoicism define virtue and its importance in life?"
+  ]
+}

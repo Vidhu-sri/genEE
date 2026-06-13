@@ -1,0 +1,31 @@
+{
+  "topic": "TV Antennas",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.0030399999999999997,
+    0.00396,
+    0.004960000000000001,
+    0.005280000000000001,
+    0.0058000000000000005,
+    0.00532,
+    0.0054399999999999995,
+    0.00608,
+    0.00612,
+    0.006440000000000001,
+    0.00612,
+    0.006680000000000001,
+    0.00744,
+    0.00828,
+    0.005679999999999999
+  ],
+  "initial_ctr": 0.0030399999999999997,
+  "final_ctr": 0.005679999999999999,
+  "improvement": 0.0026399999999999996,
+  "final_pool": [
+    "What features should I consider when choosing TV antennas for my home?",
+    "What features should I consider when selecting TV antennas for my home?",
+    "What features should I consider when choosing a TV antenna?",
+    "What features should I consider when buying TV antennas for my home?",
+    "How do I determine the ideal range for my TV antenna?"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "topic": "Lighting Cables",
+  "method": "no_drop",
+  "ctr_trajectory": [
+    0.00468,
+    0.0043,
+    0.004285714285714287,
+    0.00315,
+    0.0030444444444444442,
+    0.003,
+    0.0033333333333333335,
+    0.00306,
+    0.00252,
+    0.0026,
+    0.002781818181818182,
+    0.002472727272727273,
+    0.0024545454545454545,
+    0.0030727272727272725,
+    0.0017999999999999997
+  ],
+  "initial_ctr": 0.00468,
+  "final_ctr": 0.0017999999999999997,
+  "improvement": -0.0028800000000000006,
+  "final_pool": [
+    "1. What are Lighting cables used for?",
+    "2. How do Lighting cables differ from other charging cables?",
+    "3. Which devices are compatible with Lighting cables?",
+    "4. Are all Lighting cables the same length?",
+    "5. Can Lighting cables transfer data as well as charge?",
+    "What features should I consider when choosing Lighting Cables for my devices?",
+    "What are the most important features to consider when buying lighting cables?",
+    "What are the key features to consider in lighting cables?",
+    "What are the key features to consider when buying lighting cables?",
+    "What features should I look for in quality lighting cables?",
+    "What features should I consider when choosing Lighting Cables?"
+  ]
+}

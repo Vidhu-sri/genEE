@@ -1,0 +1,31 @@
+{
+  "topic": "Area Rugs",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.006959999999999999,
+    0.007719999999999999,
+    0.00824,
+    0.00888,
+    0.008799999999999999,
+    0.00876,
+    0.0088,
+    0.009399999999999999,
+    0.0086,
+    0.008639999999999998,
+    0.008879999999999999,
+    0.009080000000000001,
+    0.009879999999999998,
+    0.009240000000000002,
+    0.0088
+  ],
+  "initial_ctr": 0.006959999999999999,
+  "final_ctr": 0.0088,
+  "improvement": 0.0018400000000000014,
+  "final_pool": [
+    "1. What materials are commonly used in area rugs?",
+    "What are the advantages of synthetic fibers in area rugs?",
+    "What are the benefits of wool versus synthetic area rugs?",
+    "What materials are commonly used in area rugs for durability?",
+    "What are the advantages of using natural fiber area rugs?"
+  ]
+}

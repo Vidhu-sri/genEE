@@ -1,0 +1,31 @@
+{
+  "topic": "History of film",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.01188,
+    0.01172,
+    0.0118,
+    0.011640000000000001,
+    0.01072,
+    0.01008,
+    0.0116,
+    0.01072,
+    0.012199999999999999,
+    0.01136,
+    0.01116,
+    0.01124,
+    0.01184,
+    0.011799999999999998,
+    0.01048
+  ],
+  "initial_ctr": 0.01188,
+  "final_ctr": 0.01048,
+  "improvement": -0.0014000000000000002,
+  "final_pool": [
+    "1. When did the history of film begin?",
+    "2. Who are considered pioneers of early filmmaking?",
+    "What major movements influenced the history of film?",
+    "How has the history of film evolved over the decades?",
+    "What technological advancements influenced the development of the history of film?"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "topic": "DVI",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.00252,
+    0.0032400000000000007,
+    0.00424,
+    0.0044800000000000005,
+    0.00392,
+    0.0036,
+    0.00448,
+    0.005560000000000001,
+    0.00444,
+    0.00396,
+    0.0047599999999999995,
+    0.00472,
+    0.005679999999999999,
+    0.0044399999999999995,
+    0.005599999999999999
+  ],
+  "initial_ctr": 0.00252,
+  "final_ctr": 0.005599999999999999,
+  "improvement": 0.003079999999999999,
+  "final_pool": [
+    "How does DVI compare to HDMI in terms of video quality?",
+    "How does DVI compare to HDMI for video quality and performance?",
+    "Is DVI compatible with modern display technologies like 4K and ultra-wide monitors?",
+    "What features should I consider when buying a DVI cable?",
+    "What features should I consider when buying DVI cables?"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "topic": "Socotra",
+  "method": "full_ctr",
+  "ctr_trajectory": [
+    0.0114,
+    0.013000000000000001,
+    0.0144,
+    0.014960000000000001,
+    0.01404,
+    0.01384,
+    0.014479999999999998,
+    0.0128,
+    0.01348,
+    0.015559999999999996,
+    0.01148,
+    0.01308,
+    0.012559999999999998,
+    0.01204,
+    0.01168
+  ],
+  "initial_ctr": 0.0114,
+  "final_ctr": 0.01168,
+  "improvement": 0.000279999999999999,
+  "final_pool": [
+    "1. Where is Socotra located?",
+    "What unique flora and fauna can be found on Socotra?",
+    "What unique flora and fauna are found on Socotra?",
+    "What unique plant species are found in Socotra?",
+    "What role does Socotra play in biodiversity conservation efforts?"
+  ]
+}

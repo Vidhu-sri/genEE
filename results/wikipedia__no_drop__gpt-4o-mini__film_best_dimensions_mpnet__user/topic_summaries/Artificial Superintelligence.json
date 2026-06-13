@@ -1,0 +1,42 @@
+{
+  "topic": "Artificial Superintelligence",
+  "method": "no_drop",
+  "ctr_trajectory": [
+    0.00708,
+    0.0058,
+    0.004971428571428572,
+    0.0040999999999999995,
+    0.0037555555555555554,
+    0.0031399999999999996,
+    0.003,
+    0.0024,
+    0.002369230769230769,
+    0.0024307692307692303,
+    0.0019000000000000004,
+    0.00176,
+    0.0015599999999999998,
+    0.00232,
+    0.002125
+  ],
+  "initial_ctr": 0.00708,
+  "final_ctr": 0.002125,
+  "improvement": -0.004955,
+  "final_pool": [
+    "1. What is artificial superintelligence (ASI)?",
+    "2. How does ASI differ from artificial general intelligence (AGI)?",
+    "3. Who first coined the term \"artificial superintelligence\"?",
+    "4. What are some potential benefits of ASI?",
+    "5. What are the main risks associated with ASI?",
+    "What defines the capabilities of artificial superintelligence?",
+    "How is artificial superintelligence defined in the article?",
+    "What defines artificial superintelligence compared to current AI systems?",
+    "How does artificial superintelligence differ from current AI systems?",
+    "What are the potential risks of developing artificial superintelligence?",
+    "What is the definition of artificial superintelligence in the article?",
+    "What are the potential risks associated with artificial superintelligence?",
+    "What distinguishes artificial superintelligence from current AI systems?",
+    "What differentiates artificial superintelligence from current AI systems?",
+    "What are the potential risks of artificial superintelligence?",
+    "What are the potential benefits of artificial superintelligence?"
+  ]
+}

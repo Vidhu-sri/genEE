@@ -1,0 +1,31 @@
+{
+  "topic": "Kitchen Sinks",
+  "method": "full_ctr",
+  "ctr_trajectory": [
+    0.0094,
+    0.0102,
+    0.011080000000000001,
+    0.011840000000000002,
+    0.009640000000000001,
+    0.0102,
+    0.011479999999999999,
+    0.01144,
+    0.0098,
+    0.010879999999999999,
+    0.010360000000000001,
+    0.010759999999999999,
+    0.01104,
+    0.0114,
+    0.0102
+  ],
+  "initial_ctr": 0.0094,
+  "final_ctr": 0.0102,
+  "improvement": 0.0008000000000000004,
+  "final_pool": [
+    "1. What materials are commonly used for kitchen sinks?",
+    "What are the benefits of different kitchen sink materials?",
+    "What are the benefits of choosing a stainless steel kitchen sink?",
+    "What are the advantages of stainless steel kitchen sinks?",
+    "What are the pros and cons of stainless steel kitchen sinks?"
+  ]
+}

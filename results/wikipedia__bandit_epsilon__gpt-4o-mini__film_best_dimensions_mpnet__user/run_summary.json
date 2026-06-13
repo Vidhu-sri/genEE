@@ -1,0 +1,10 @@
+{
+  "run_id": "wikipedia__bandit_epsilon__gpt-4o-mini__film_best_dimensions_mpnet__user",
+  "completed_at": "2026-06-09T06:56:28.522936",
+  "cumulative_time": {
+    "eval": 4871.932985782623,
+    "gen": 326.43395924568176,
+    "sim": 16.77032732963562,
+    "total": 5215.210944414139
+  }
+}

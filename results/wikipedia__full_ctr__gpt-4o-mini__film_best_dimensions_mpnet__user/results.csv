@@ -1,0 +1,151 @@
+iteration,topic,domain,method,generator_model,evaluator,user_level,avg_ctr,best_ctr,worst_ctr,median_ctr,std_ctr,pool_size,n_dropped,n_added_explore,n_added_exploit,eval_time_sec,gen_time_sec,sim_time_sec,total_time_sec
+0,Stoicism,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00872,0.0144,0.0052,0.0068,0.003643295211755424,5,1,0,1,12.535,2.346,0.036,14.918
+1,Stoicism,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01004,0.016,0.0036,0.0092,0.004316294707269188,5,1,0,1,11.698,0.851,0.042,12.591
+2,Stoicism,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01056,0.017,0.004,0.0082,0.005003039076401463,5,1,0,1,11.728,0.973,0.036,12.736
+3,Stoicism,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01036,0.0192,0.0056,0.0086,0.005148048173822774,5,1,0,1,13.03,1.051,0.041,14.122
+4,Stoicism,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00912,0.012,0.0064,0.0088,0.0022577865266672137,5,1,0,1,12.551,1.034,0.04,13.625
+5,Stoicism,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009319999999999998,0.0126,0.006,0.0092,0.002658119636133784,5,1,0,1,13.413,1.055,0.039,14.508
+6,Stoicism,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01024,0.0158,0.008,0.008,0.003076101428756861,5,1,0,1,12.149,0.997,0.041,13.187
+7,Stoicism,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009479999999999999,0.0166,0.0052,0.0058,0.004968057970676268,5,1,0,1,13.044,1.001,0.06,14.104
+8,Stoicism,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00936,0.016,0.006,0.0074,0.003669114334549961,5,1,0,1,14.336,0.889,0.037,15.262
+9,Stoicism,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00888,0.0166,0.0044,0.0068,0.004505285784498026,5,1,0,1,13.572,0.881,0.048,14.501
+10,Stoicism,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.010280000000000001,0.0156,0.0072,0.0086,0.0033599999999999997,5,1,0,1,14.028,0.915,0.04,14.983
+11,Stoicism,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00916,0.014,0.006,0.0064,0.003714619765198048,5,1,0,1,13.76,1.155,0.064,14.98
+12,Stoicism,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.010320000000000001,0.0178,0.0056,0.008,0.004433689208774111,5,1,0,1,13.705,1.077,0.041,14.824
+13,Stoicism,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00944,0.015,0.0058,0.0082,0.0036097645352571126,5,1,0,1,14.02,1.067,0.041,15.129
+14,Stoicism,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00904,0.0122,0.0062,0.0082,0.002587353860607397,5,1,0,1,13.692,0.827,0.045,14.564
+0,Friedrich Nietzsche,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01572,0.0194,0.013,0.0156,0.002141401410291868,5,1,0,1,12.632,0.829,0.039,13.499
+1,Friedrich Nietzsche,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0166,0.0178,0.015,0.0172,0.0010954451150103322,5,1,0,1,12.469,0.924,0.042,13.436
+2,Friedrich Nietzsche,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.017,0.0206,0.0146,0.017,0.002112818023399081,5,1,0,1,12.674,0.935,0.046,13.655
+3,Friedrich Nietzsche,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.015560000000000001,0.0176,0.0128,0.0158,0.0019200000000000005,5,1,0,1,13.219,1.135,0.047,14.401
+4,Friedrich Nietzsche,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01644,0.0208,0.014,0.0154,0.002512050954897213,5,1,0,1,13.195,1.757,0.035,14.987
+5,Friedrich Nietzsche,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01476,0.0182,0.0124,0.0146,0.001940721515313313,5,1,0,1,13.031,1.113,0.068,14.212
+6,Friedrich Nietzsche,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.015279999999999998,0.0178,0.0124,0.0152,0.002171082679217906,5,1,0,1,13.297,0.844,0.045,14.186
+7,Friedrich Nietzsche,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01664,0.0196,0.0136,0.017,0.0025593749236874222,5,1,0,1,13.29,1.112,0.048,14.45
+8,Friedrich Nietzsche,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01328,0.0158,0.0096,0.0146,0.002313784778236732,5,1,0,1,13.333,1.008,0.045,14.386
+9,Friedrich Nietzsche,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.015,0.0184,0.0112,0.015,0.0023698101189757797,5,1,0,1,15.795,0.901,0.048,16.744
+10,Friedrich Nietzsche,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01472,0.0174,0.011,0.0162,0.0024709512338368803,5,1,0,1,13.549,0.861,0.04,14.45
+11,Friedrich Nietzsche,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01664,0.0192,0.0108,0.018,0.0030447331574376094,5,1,0,1,13.067,0.748,0.041,13.856
+12,Friedrich Nietzsche,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01596,0.02,0.013,0.0152,0.002434419848752471,5,1,0,1,11.821,1.117,0.04,12.977
+13,Friedrich Nietzsche,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.017599999999999998,0.0212,0.014,0.0172,0.003054177467011372,5,1,0,1,12.391,1.203,0.041,13.634
+14,Friedrich Nietzsche,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.014279999999999998,0.0168,0.0114,0.015,0.001835647024893402,5,1,0,1,12.897,0.799,0.052,13.748
+0,Artificial Superintelligence,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00708,0.0108,0.0036,0.0062,0.002584879107424562,5,1,0,1,15.04,1.114,0.044,16.198
+1,Artificial Superintelligence,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00716,0.0122,0.0038,0.0052,0.0033212046007435317,5,1,0,1,15.072,0.905,0.047,16.024
+2,Artificial Superintelligence,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00844,0.0132,0.005,0.0066,0.0030604574821421716,5,1,0,1,15.892,0.85,0.041,16.784
+3,Artificial Superintelligence,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007279999999999999,0.0124,0.0048,0.0056,0.0028554509276119593,5,1,0,1,15.135,1.109,0.042,16.287
+4,Artificial Superintelligence,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007520000000000001,0.0114,0.0044,0.0066,0.0030373672810511407,5,1,0,1,14.647,0.754,0.036,15.437
+5,Artificial Superintelligence,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00712,0.012,0.0052,0.006,0.0025190474390134063,5,1,0,1,14.743,0.945,0.04,15.728
+6,Artificial Superintelligence,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00796,0.0176,0.0036,0.0062,0.004938663786896209,5,1,0,1,14.641,1.262,0.049,15.952
+7,Artificial Superintelligence,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007519999999999999,0.0124,0.0052,0.0062,0.002612584926849269,5,1,0,1,15.089,1.234,0.049,16.373
+8,Artificial Superintelligence,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00712,0.0108,0.0054,0.0062,0.001957958120083267,5,1,0,1,14.904,0.903,0.043,15.85
+9,Artificial Superintelligence,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.008679999999999998,0.011,0.0052,0.009,0.002243568585980825,5,1,0,1,14.765,0.917,0.042,15.725
+10,Artificial Superintelligence,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007880000000000002,0.0106,0.005,0.0078,0.0021075103795711184,5,1,0,1,16.228,1.726,0.038,17.991
+11,Artificial Superintelligence,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.008119999999999999,0.012,0.006,0.0076,0.002189429149344642,5,1,0,1,15.122,1.295,0.043,16.459
+12,Artificial Superintelligence,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007959999999999998,0.014,0.005,0.007,0.0031174348429437947,5,1,0,1,15.13,0.935,0.042,16.107
+13,Artificial Superintelligence,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009600000000000001,0.0126,0.0058,0.0108,0.002452753554680943,5,1,0,1,15.843,0.996,0.059,16.899
+14,Artificial Superintelligence,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00876,0.0114,0.0048,0.009,0.0023576259245266205,5,1,0,1,16.781,0.868,0.05,17.699
+0,The Beatles' rooftop concert,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01452,0.0236,0.0026,0.0168,0.007649941176244429,5,1,0,1,14.656,1.507,0.04,16.204
+1,The Beatles' rooftop concert,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.015040000000000003,0.0216,0.006,0.02,0.006846196024070593,5,1,0,1,14.159,0.853,0.039,15.051
+2,The Beatles' rooftop concert,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01608,0.0226,0.0076,0.0204,0.006638795071396616,5,1,0,1,13.849,0.851,0.044,14.744
+3,The Beatles' rooftop concert,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.014679999999999999,0.0218,0.0062,0.0186,0.006604967827325127,5,1,0,1,14.113,1.277,0.064,15.454
+4,The Beatles' rooftop concert,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.013800000000000002,0.0212,0.0044,0.0164,0.006925893444170218,5,1,0,1,14.337,0.936,0.042,15.315
+5,The Beatles' rooftop concert,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01476,0.0204,0.0058,0.0198,0.006608358343794623,5,1,0,1,14.038,0.906,0.043,14.987
+6,The Beatles' rooftop concert,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01628,0.0238,0.0076,0.0206,0.007160558637424877,5,1,0,1,14.034,1.893,0.039,15.966
+7,The Beatles' rooftop concert,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.015279999999999998,0.0238,0.0068,0.0174,0.006830051244317278,5,1,0,1,13.48,1.394,0.042,14.916
+8,The Beatles' rooftop concert,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.014000000000000002,0.0192,0.006,0.0178,0.005770268624596259,5,1,0,1,14.02,0.957,0.045,15.022
+9,The Beatles' rooftop concert,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.015,0.0224,0.0068,0.0192,0.00678115034488987,5,1,0,1,14.218,0.882,0.046,15.146
+10,The Beatles' rooftop concert,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.014359999999999998,0.0204,0.0068,0.0174,0.005550351340230635,5,1,0,1,14.515,1.13,0.037,15.681
+11,The Beatles' rooftop concert,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.015479999999999999,0.0214,0.0084,0.0178,0.005671825103086307,5,1,0,1,13.95,1.388,0.039,15.377
+12,The Beatles' rooftop concert,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01716,0.0236,0.0074,0.0218,0.006980429786195116,5,1,0,1,15.053,1.014,0.044,16.112
+13,The Beatles' rooftop concert,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.015080000000000005,0.0224,0.007,0.0182,0.0063404731684630605,5,1,0,1,14.273,1.125,0.042,15.441
+14,The Beatles' rooftop concert,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.015279999999999998,0.0224,0.0062,0.0194,0.006921965038917778,5,1,0,1,13.884,1.162,0.04,15.086
+0,Carl Jung,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00888,0.0134,0.0058,0.0082,0.0026520935126801244,5,1,0,1,11.824,1.173,0.048,13.044
+1,Carl Jung,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009720000000000001,0.0132,0.0078,0.0088,0.0019863534428696218,5,1,0,1,11.619,0.839,0.047,12.505
+2,Carl Jung,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.010960000000000001,0.0166,0.0074,0.0104,0.0032848744268236495,5,1,0,1,11.964,0.873,0.051,12.887
+3,Carl Jung,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.010759999999999999,0.0132,0.0084,0.0106,0.0017590906741836818,5,1,0,1,12.783,0.893,0.04,13.716
+4,Carl Jung,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009479999999999999,0.0124,0.0056,0.01,0.002232845717912458,5,1,0,1,12.193,1.17,0.043,13.405
+5,Carl Jung,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01052,0.014,0.0042,0.0114,0.0033144531977386555,5,1,0,1,12.618,0.893,0.051,13.562
+6,Carl Jung,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.010159999999999999,0.014,0.0068,0.009,0.002763765547219952,5,1,0,1,12.447,1.377,0.043,13.868
+7,Carl Jung,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00864,0.0144,0.0054,0.0068,0.003517726538547304,5,1,0,1,13.627,1.016,0.045,14.688
+8,Carl Jung,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00896,0.0128,0.0054,0.0082,0.0031174348429437943,5,1,0,1,14.067,0.929,0.038,15.035
+9,Carl Jung,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00956,0.0132,0.007,0.0086,0.0021959963570097286,5,1,0,1,14.004,1.118,0.042,15.163
+10,Carl Jung,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00928,0.0116,0.007,0.0096,0.0018956792977716452,5,1,0,1,12.79,1.06,0.037,13.887
+11,Carl Jung,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00964,0.013,0.0074,0.008,0.0023644026729810635,5,1,0,1,13.425,0.818,0.04,14.283
+12,Carl Jung,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009040000000000001,0.0128,0.0056,0.0076,0.0029048924248584493,5,1,0,1,13.489,1.034,0.043,14.567
+13,Carl Jung,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00996,0.0136,0.006,0.009,0.0028408449447303525,5,1,0,1,13.905,0.921,0.046,14.873
+14,Carl Jung,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00912,0.0114,0.0074,0.0082,0.0015778466338652816,5,1,0,1,12.983,0.888,0.042,13.914
+0,History of film,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01092,0.0178,0.0074,0.0092,0.003862848689762518,5,1,0,1,13.371,1.162,0.045,14.578
+1,History of film,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.011479999999999999,0.02,0.006,0.0106,0.004641723817721171,5,1,0,1,13.306,1.093,0.037,14.436
+2,History of film,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.013120000000000001,0.0196,0.0092,0.0112,0.003721505071876162,5,1,0,1,13.066,0.961,0.044,14.071
+3,History of film,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.011680000000000001,0.0222,0.0064,0.01,0.005660530010520216,5,1,0,1,13.689,2.346,0.04,16.075
+4,History of film,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.010719999999999999,0.0166,0.0074,0.01,0.003183959798741184,5,1,0,1,13.022,1.759,0.044,14.825
+5,History of film,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01144,0.0148,0.0066,0.0114,0.003018343916786157,5,1,0,1,13.016,0.838,0.046,13.9
+6,History of film,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01316,0.0156,0.0114,0.0128,0.0013821722034536793,5,1,0,1,12.99,0.93,0.044,13.964
+7,History of film,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01068,0.0184,0.0068,0.0088,0.004144586831036358,5,1,0,1,12.771,0.848,0.041,13.661
+8,History of film,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.010039999999999999,0.0158,0.0066,0.0074,0.0037425125250291416,5,1,0,1,12.577,1.201,0.055,13.832
+9,History of film,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01124,0.0142,0.0092,0.0104,0.0018736061485808593,5,1,0,1,12.827,0.96,0.041,13.828
+10,History of film,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01064,0.0156,0.0078,0.0088,0.0029431955422635444,5,1,0,1,12.822,1.235,0.046,14.103
+11,History of film,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.010080000000000002,0.0158,0.0058,0.009,0.003599111001344638,5,1,0,1,13.267,1.265,0.04,14.572
+12,History of film,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.013119999999999998,0.0208,0.0086,0.011,0.004264457761544836,5,1,0,1,12.455,0.9,0.049,13.404
+13,History of film,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01032,0.0132,0.0076,0.0102,0.00221485891198514,5,1,0,1,13.213,0.907,0.049,14.169
+14,History of film,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.011760000000000001,0.0158,0.0092,0.0108,0.002496076921891632,5,1,0,1,13.02,1.013,0.061,14.094
+0,Vinson Massif,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00912,0.015,0.006,0.0078,0.003110241148207,5,1,0,1,13.263,0.887,0.042,14.192
+1,Vinson Massif,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009319999999999998,0.013,0.0058,0.0096,0.002327573844156185,5,1,0,1,12.021,1.679,0.049,13.748
+2,Vinson Massif,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0104,0.0176,0.0066,0.009,0.003801052485825473,5,1,0,1,12.288,1.027,0.037,13.352
+3,Vinson Massif,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01032,0.016,0.0074,0.0094,0.0029464554977124634,5,1,0,1,13.115,1.025,0.042,14.182
+4,Vinson Massif,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009839999999999998,0.0116,0.0076,0.0096,0.0014444376068214228,5,1,0,1,13.493,0.908,0.04,14.441
+5,Vinson Massif,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00844,0.0118,0.0066,0.0082,0.001873606148580859,5,1,0,1,13.545,0.854,0.042,14.442
+6,Vinson Massif,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.010520000000000002,0.0146,0.0074,0.0108,0.0026248047546436667,5,1,0,1,13.641,1.271,0.038,14.95
+7,Vinson Massif,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00988,0.012,0.008,0.0104,0.0015471263684650972,5,1,0,1,13.194,0.919,0.046,14.159
+8,Vinson Massif,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00876,0.0128,0.006,0.008,0.002326886331559838,5,1,0,1,13.721,1.226,0.041,14.988
+9,Vinson Massif,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00944,0.0178,0.0062,0.0076,0.004269707249917727,5,1,0,1,14.736,1.246,0.047,16.028
+10,Vinson Massif,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00968,0.0144,0.0074,0.0092,0.0025693578964402757,5,1,0,1,13.426,0.902,0.046,14.375
+11,Vinson Massif,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009359999999999999,0.0154,0.0058,0.0092,0.0034604046006211473,5,1,0,1,13.292,1.184,0.037,14.513
+12,Vinson Massif,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009,0.0132,0.0062,0.0084,0.002409979253022731,5,1,0,1,13.244,1.201,0.043,14.488
+13,Vinson Massif,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.010119999999999999,0.0172,0.006,0.009,0.003762127057928799,5,1,0,1,13.627,0.789,0.034,14.451
+14,Vinson Massif,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00736,0.0112,0.0052,0.0066,0.0020684293558156635,5,1,0,1,13.45,1.189,0.048,14.687
+0,Socotra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0114,0.017,0.0076,0.011,0.003507705802943001,5,1,0,1,13.872,1.025,0.053,14.95
+1,Socotra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.013000000000000001,0.015,0.0116,0.0128,0.0012712198865656563,5,1,0,1,13.863,0.895,0.047,14.805
+2,Socotra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0144,0.017,0.0116,0.0144,0.0023289482604815425,5,1,0,1,13.138,1.089,0.05,14.277
+3,Socotra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.014960000000000001,0.0186,0.0118,0.0148,0.0022887551201471942,5,1,0,1,13.97,0.88,0.041,14.892
+4,Socotra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01404,0.0166,0.0126,0.0136,0.0013821722034536798,5,1,0,1,13.174,0.875,0.038,14.087
+5,Socotra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01384,0.0168,0.011,0.0136,0.0022676860452893388,5,1,0,1,13.33,0.929,0.042,14.301
+6,Socotra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.014479999999999998,0.0176,0.0118,0.013,0.002421900080515297,5,1,0,1,13.728,0.951,0.042,14.722
+7,Socotra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0128,0.0148,0.0094,0.014,0.002019900987672416,5,1,0,1,13.509,2.167,0.041,15.717
+8,Socotra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01348,0.0174,0.0092,0.0124,0.0032829255245893107,5,1,0,1,13.249,0.834,0.041,14.125
+9,Socotra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.015559999999999996,0.0174,0.0134,0.0156,0.0013108775686539145,5,1,0,1,13.05,1.042,0.043,14.135
+10,Socotra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01148,0.0134,0.0096,0.0118,0.0014675149062275317,5,1,0,1,13.649,1.719,0.049,15.418
+11,Socotra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01308,0.014,0.0118,0.0136,0.0008352245207128441,5,1,0,1,12.939,1.284,0.038,14.261
+12,Socotra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.012559999999999998,0.0146,0.01,0.0118,0.0017906423428479515,5,1,0,1,14.162,0.852,0.072,15.087
+13,Socotra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01204,0.0154,0.0102,0.011,0.001989572818471342,5,1,0,1,13.606,0.818,0.041,14.466
+14,Socotra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01168,0.0144,0.0094,0.0112,0.0016618062462272788,5,1,0,1,13.954,1.229,0.045,15.228
+0,Petra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009680000000000001,0.0152,0.0074,0.0076,0.0030478845122477983,5,1,0,1,11.443,1.223,0.049,12.716
+1,Petra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00888,0.0144,0.0048,0.0064,0.004142656152759966,5,1,0,1,12.228,1.185,0.046,13.459
+2,Petra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.010279999999999997,0.0188,0.0052,0.0086,0.0052544837995753685,5,1,0,1,12.557,1.071,0.048,13.676
+3,Petra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0086,0.0152,0.0042,0.0074,0.004162691437039263,5,1,0,1,12.182,0.819,0.041,13.042
+4,Petra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007880000000000002,0.0108,0.0022,0.0098,0.003328903723450109,5,1,0,1,12.748,1.029,0.044,13.82
+5,Petra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.008,0.0114,0.0038,0.0092,0.0032814630883189894,5,1,0,1,11.959,1.156,0.035,13.15
+6,Petra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009399999999999999,0.0138,0.0058,0.0084,0.0033202409551115414,5,1,0,1,12.777,1.29,0.037,14.104
+7,Petra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007640000000000001,0.0162,0.004,0.0058,0.004513801058974576,5,1,0,1,11.966,0.745,0.042,12.753
+8,Petra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00908,0.0144,0.0046,0.0078,0.003791780584369301,5,1,0,1,11.907,1.19,0.042,13.139
+9,Petra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009,0.0134,0.005,0.0078,0.0035507745633875437,5,1,0,1,12.437,1.11,0.074,13.621
+10,Petra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.008,0.0132,0.0036,0.0068,0.0035054243680330633,5,1,0,1,15.091,0.743,0.051,15.886
+11,Petra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00928,0.015,0.0048,0.0072,0.004119417434540957,5,1,0,1,15.255,1.048,0.062,16.365
+12,Petra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009559999999999999,0.0142,0.005,0.0082,0.003618618520927565,5,1,0,1,15.063,0.811,0.049,15.923
+13,Petra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00952,0.0146,0.0054,0.0072,0.004190656273186814,5,1,0,1,15.134,0.894,0.065,16.094
+14,Petra,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007679999999999999,0.011,0.0054,0.006,0.0023344378338263794,5,1,0,1,15.59,0.828,0.045,16.463
+0,Ketogenic diet,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0067599999999999995,0.0094,0.004,0.0072,0.0017636326148038881,5,1,0,1,17.807,0.907,0.073,18.787
+1,Ketogenic diet,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0068000000000000005,0.0082,0.0056,0.0068,0.001003992031840891,5,1,0,1,16.279,1.225,0.047,17.552
+2,Ketogenic diet,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.008119999999999999,0.011,0.0066,0.0074,0.0015263027222671129,5,1,0,1,14.622,1.091,0.05,15.763
+3,Ketogenic diet,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00556,0.007,0.0042,0.0052,0.001007174264961134,5,1,0,1,14.33,0.916,0.038,15.284
+4,Ketogenic diet,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00824,0.0118,0.0046,0.0082,0.002285257097133712,5,1,0,1,14.437,1.476,0.051,15.964
+5,Ketogenic diet,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00484,0.0072,0.0026,0.005,0.001471869559437928,5,1,0,1,14.419,1.021,0.039,15.48
+6,Ketogenic diet,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0054800000000000005,0.006,0.0052,0.0054,0.0002712931993250108,5,1,0,1,14.671,0.814,0.052,15.537
+7,Ketogenic diet,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0066,0.0072,0.006,0.0066,0.00045607017003965514,5,1,0,1,14.516,0.875,0.043,15.434
+8,Ketogenic diet,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007160000000000001,0.009,0.0056,0.0072,0.0011482160075525856,5,1,0,1,14.48,0.829,0.038,15.347
+9,Ketogenic diet,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007800000000000001,0.0098,0.006,0.0078,0.0013326664999166143,5,1,0,1,13.814,1.24,0.043,15.097
+10,Ketogenic diet,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0074399999999999996,0.0084,0.006,0.008,0.0009583318840568752,5,1,0,1,14.014,0.792,0.042,14.848
+11,Ketogenic diet,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.006720000000000001,0.0088,0.0046,0.0066,0.001383329317263247,5,1,0,1,13.909,0.834,0.043,14.786
+12,Ketogenic diet,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00668,0.0088,0.0046,0.0064,0.0013891004283348271,5,1,0,1,14.41,0.989,0.05,15.449
+13,Ketogenic diet,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0064399999999999995,0.0086,0.0034,0.0072,0.0017590906741836818,5,1,0,1,14.531,1.139,0.043,15.713
+14,Ketogenic diet,wikipedia,full_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.006599999999999999,0.0088,0.0048,0.007,0.001512613632095123,5,1,0,1,13.915,0.729,0.053,14.697

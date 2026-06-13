@@ -1,0 +1,10 @@
+{
+  "run_id": "ecommerce__no_drop__gpt-4o-mini__film_best_dimensions_mpnet__user",
+  "completed_at": "2026-06-06T01:48:16.803624",
+  "cumulative_time": {
+    "eval": 3899.705759048462,
+    "gen": 263.7163152694702,
+    "sim": 6.367212772369385,
+    "total": 4169.794408559799
+  }
+}

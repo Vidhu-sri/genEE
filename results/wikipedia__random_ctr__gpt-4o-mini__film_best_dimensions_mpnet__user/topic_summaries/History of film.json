@@ -1,0 +1,31 @@
+{
+  "topic": "History of film",
+  "method": "random_ctr",
+  "ctr_trajectory": [
+    0.01176,
+    0.01024,
+    0.01148,
+    0.008879999999999999,
+    0.009080000000000001,
+    0.009040000000000001,
+    0.010320000000000001,
+    0.0064399999999999995,
+    0.00832,
+    0.007520000000000001,
+    0.00756,
+    0.00772,
+    0.00804,
+    0.00788,
+    0.0078
+  ],
+  "initial_ctr": 0.01176,
+  "final_ctr": 0.0078,
+  "improvement": -0.00396,
+  "final_pool": [
+    "5. What impact did the introduction of color have on film?",
+    "What significant technological advancements changed the history of film?",
+    "What major technological advancements influenced the history of film?",
+    "What major innovations shaped the early history of film?",
+    "What significant technological advancements influenced the history of film?"
+  ]
+}

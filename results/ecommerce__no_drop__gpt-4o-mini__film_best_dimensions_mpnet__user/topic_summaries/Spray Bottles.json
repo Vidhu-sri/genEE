@@ -1,0 +1,41 @@
+{
+  "topic": "Spray Bottles",
+  "method": "no_drop",
+  "ctr_trajectory": [
+    0.00688,
+    0.006266666666666667,
+    0.005942857142857144,
+    0.005600000000000001,
+    0.003975,
+    0.0037333333333333337,
+    0.00334,
+    0.0034545454545454545,
+    0.0039454545454545445,
+    0.0033666666666666667,
+    0.00345,
+    0.0030833333333333333,
+    0.0030307692307692305,
+    0.002671428571428571,
+    0.00236
+  ],
+  "initial_ctr": 0.00688,
+  "final_ctr": 0.00236,
+  "improvement": -0.00452,
+  "final_pool": [
+    "1. What materials are spray bottles commonly made from?",
+    "2. How do spray bottles work?",
+    "3. What types of spray bottles are available?",
+    "4. Can spray bottles be reused?",
+    "5. Are spray bottles safe for food use?",
+    "What features should I look for in quality spray bottles?",
+    "What are the key features to consider when buying spray bottles?",
+    "What features should I consider when choosing spray bottles for cleaning?",
+    "What materials are commonly used in high-quality spray bottles?",
+    "What features should I consider when choosing spray bottles for cleaning products?",
+    "What are the most common materials used in spray bottles?",
+    "What features should I consider when choosing spray bottles for cleaning solutions?",
+    "What features should I look for in spray bottles for cleaning products?",
+    "What are the key features to consider when choosing spray bottles?",
+    "What eco-friendly options are available for spray bottles?"
+  ]
+}

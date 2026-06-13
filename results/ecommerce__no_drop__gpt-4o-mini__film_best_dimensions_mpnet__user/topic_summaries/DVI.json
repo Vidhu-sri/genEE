@@ -1,0 +1,41 @@
+{
+  "topic": "DVI",
+  "method": "no_drop",
+  "ctr_trajectory": [
+    0.0026000000000000003,
+    0.0033000000000000004,
+    0.003,
+    0.003025,
+    0.0021333333333333334,
+    0.0019199999999999998,
+    0.0017999999999999997,
+    0.0019,
+    0.0014615384615384616,
+    0.001969230769230769,
+    0.0016000000000000003,
+    0.0014923076923076923,
+    0.001507692307692308,
+    0.0016857142857142858,
+    0.0011600000000000002
+  ],
+  "initial_ctr": 0.0026000000000000003,
+  "final_ctr": 0.0011600000000000002,
+  "improvement": -0.00144,
+  "final_pool": [
+    "1. What does DVI stand for in technology?",
+    "2. What is the main function of a DVI port?",
+    "3. Which devices commonly use DVI connections?",
+    "4. How does DVI differ from HDMI?",
+    "5. What types of DVI connectors exist?",
+    "What are the key features of DVI products in electronics?",
+    "What are the main features of DVI cables compared to HDMI?",
+    "What are the key features of different DVI cables available?",
+    "What features should I consider when buying a DVI cable?",
+    "What are the key features of DVI in electronics?",
+    "What features should I consider when buying DVI cables?",
+    "What features should I look for in DVI cables for my setup?",
+    "What are the key features of DVI products in the electronics category?",
+    "What are the key features of DVI cables in the electronics category?",
+    "What are the main features of DVI cables in electronics?"
+  ]
+}

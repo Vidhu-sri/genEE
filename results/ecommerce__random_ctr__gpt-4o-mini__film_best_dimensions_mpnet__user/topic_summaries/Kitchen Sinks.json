@@ -1,0 +1,31 @@
+{
+  "topic": "Kitchen Sinks",
+  "method": "random_ctr",
+  "ctr_trajectory": [
+    0.009319999999999998,
+    0.010239999999999999,
+    0.01252,
+    0.012240000000000001,
+    0.01168,
+    0.012639999999999998,
+    0.012760000000000002,
+    0.012199999999999999,
+    0.01012,
+    0.01248,
+    0.010239999999999999,
+    0.011879999999999998,
+    0.01272,
+    0.010719999999999999,
+    0.011
+  ],
+  "initial_ctr": 0.009319999999999998,
+  "final_ctr": 0.011,
+  "improvement": 0.001680000000000001,
+  "final_pool": [
+    "What features should I consider when choosing kitchen sinks for my home?",
+    "5. What is an undermount kitchen sink?",
+    "What materials are commonly used in kitchen sinks for durability?",
+    "What features should I consider when choosing kitchen sinks?",
+    "What materials are commonly used in kitchen sinks, and how do they affect durability?"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "topic": "Cookware Sets",
+  "method": "no_drop",
+  "ctr_trajectory": [
+    0.005719999999999999,
+    0.0055000000000000005,
+    0.005314285714285714,
+    0.0043,
+    0.0041111111111111105,
+    0.00324,
+    0.0032909090909090913,
+    0.0030833333333333333,
+    0.00315,
+    0.0024153846153846152,
+    0.0026769230769230767,
+    0.002614285714285714,
+    0.0024,
+    0.002613333333333333,
+    0.002426666666666667
+  ],
+  "initial_ctr": 0.005719999999999999,
+  "final_ctr": 0.002426666666666667,
+  "improvement": -0.0032933333333333326,
+  "final_pool": [
+    "1. What materials are commonly used in cookware sets?",
+    "2. How many pieces are typically included in cookware sets?",
+    "3. Are cookware sets compatible with induction cooktops?",
+    "4. Do cookware sets usually include nonstick options?",
+    "5. What is the average price range for cookware sets?",
+    "What features should I consider when choosing cookware sets?",
+    "What are the key features to consider in cookware sets?",
+    "What are the essential features to look for in cookware sets?",
+    "What are the key features to consider when buying cookware sets?",
+    "What features should I look for in quality cookware sets?",
+    "What materials are commonly used in cookware sets for durability?",
+    "What features should I look for in cookware sets for durability?",
+    "What materials are commonly used in high-quality cookware sets?",
+    "What features should I consider when choosing cookware sets for my kitchen?",
+    "What features should I look for in cookware sets for even heat distribution?",
+    "What factors determine the quality of cookware sets available on the market?"
+  ]
+}

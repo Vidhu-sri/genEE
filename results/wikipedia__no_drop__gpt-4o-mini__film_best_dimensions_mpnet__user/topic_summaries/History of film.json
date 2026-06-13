@@ -1,0 +1,43 @@
+{
+  "topic": "History of film",
+  "method": "no_drop",
+  "ctr_trajectory": [
+    0.01092,
+    0.009166666666666667,
+    0.008171428571428573,
+    0.0065,
+    0.005044444444444444,
+    0.0054,
+    0.0052,
+    0.003833333333333333,
+    0.00405,
+    0.0036307692307692313,
+    0.003228571428571428,
+    0.0026933333333333336,
+    0.0028375,
+    0.002552941176470588,
+    0.0027647058823529413
+  ],
+  "initial_ctr": 0.01092,
+  "final_ctr": 0.0027647058823529413,
+  "improvement": -0.008155294117647057,
+  "final_pool": [
+    "1. When did the history of film begin?",
+    "2. Who are considered pioneers of early filmmaking?",
+    "3. What was the first motion picture ever made?",
+    "4. How did silent films differ from sound films?",
+    "5. What impact did the introduction of color have on film?",
+    "What major technological advancements influenced the history of film?",
+    "What technological advancements influenced the early history of film?",
+    "What significant technological advancements have influenced the history of film?",
+    "What were significant technological advancements in the history of film?",
+    "How has the history of film evolved since its inception?",
+    "What are the major milestones in the history of film?",
+    "What significant technological advancements influenced the history of film?",
+    "How did silent films influence the early history of film?",
+    "What significant innovations influenced the history of film?",
+    "How did technological advancements influence the history of film?",
+    "What are the significant technological advancements in the history of film?",
+    "How did early filmmaking techniques influence the history of film?"
+  ]
+}

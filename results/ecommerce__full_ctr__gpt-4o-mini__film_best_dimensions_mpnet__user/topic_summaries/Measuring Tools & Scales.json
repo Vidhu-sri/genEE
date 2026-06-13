@@ -1,0 +1,31 @@
+{
+  "topic": "Measuring Tools & Scales",
+  "method": "full_ctr",
+  "ctr_trajectory": [
+    0.005520000000000001,
+    0.00596,
+    0.006840000000000001,
+    0.0073999999999999995,
+    0.006279999999999999,
+    0.0057599999999999995,
+    0.0061600000000000005,
+    0.0058000000000000005,
+    0.005599999999999999,
+    0.00564,
+    0.00592,
+    0.00604,
+    0.0068000000000000005,
+    0.0062,
+    0.00648
+  ],
+  "initial_ctr": 0.005520000000000001,
+  "final_ctr": 0.00648,
+  "improvement": 0.000959999999999999,
+  "final_pool": [
+    "4. How is accuracy determined in measuring tools and scales?",
+    "How can I calibrate my measuring tools and scales for accurate readings?",
+    "How can I calibrate my measuring tools and scales for improved accuracy?",
+    "How often should measuring tools and scales be calibrated for accurate readings?",
+    "How often should I recalibrate my scales for consistent accuracy?"
+  ]
+}

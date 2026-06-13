@@ -21,6 +21,11 @@ num_generate: 1
 num_drop: 1
 users_per_persona: 10
 
+bandit_epsilon: 0.1
+bandit_ucb_c: 2.0
+bandit_ts_alpha: 1.0
+bandit_ts_beta: 1.0
+
 qs_model: gpt-4-turbo
 qs_temperature: 0.0
 gen_temperature: 0.8

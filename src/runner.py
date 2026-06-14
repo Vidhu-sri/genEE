@@ -106,12 +106,12 @@ def _select_action_arm(policy, state, iteration, rng, cfg):
         return max(ACTION_ARMS, key=lambda arm: values.get(arm, 0.0))
 
     if policy == "ucb":
-        c = float(cfg.get("bandit_ucb_c", 2.0))
+        c = float(cfg.get("bandit_ucb_c", 0.002))
         total = max(1, sum(counts.values()))
         return max(
             ACTION_ARMS,
             key=lambda arm: values.get(arm, 0.0)
-            + c * np.sqrt(np.log(total + 1) / max(1, counts.get(arm, 0))),
+            + c * np.sqrt(np.log(total) / max(1, counts.get(arm, 0))),
         )
 
     if policy == "thompson":
@@ -413,13 +413,26 @@ def load_snap(rd, topic, it):
     p = rd / "pool_snapshots" / f"{topic}_iter_{it}.json"
     return json.loads(p.read_text()) if p.exists() else None
 
+def load_ctr_history(rd, topic, stop):
+    history = []
+    for iteration in range(stop):
+        p = rd / "logs" / f"{topic}_iter_{iteration}.json"
+        if not p.exists():
+            break
+        history.append(float(json.loads(p.read_text())["avg_ctr"]))
+    return history
+
 # ─── Main loop (fully sync) ───
-def run_experiment(domain, method, user_level=False, resume=False, topics_subset=None):
+def run_experiment(
+    domain, method, user_level=False, resume=False, topics_subset=None, run_tag=None
+):
     gen_model = config.get("generator_model", config.get("gen_model", "gpt-3.5-turbo"))
     eval_label = evaluator_label()
     ul_tag = "user" if user_level else "cohort"
 
     run_id = f"{domain}__{method}__{gen_model}__{eval_label}__{ul_tag}"
+    if run_tag:
+        run_id = f"{run_id}__{run_tag}"
     rd = results_base / run_id
     for sub in ["logs", "pool_snapshots", "topic_summaries"]:
         (rd / sub).mkdir(parents=True, exist_ok=True)
@@ -476,7 +489,7 @@ def run_experiment(domain, method, user_level=False, resume=False, topics_subset
         if method.startswith("bandit_"):
             cfg["_bandit_action_state"] = _load_action_bandit_state(rd, topic, start)
 
-        ctr_hist = []
+        ctr_hist = load_ctr_history(rd, topic, start) if resume else []
         for i in tqdm(range(start, cfg["iterations"]), desc=f"  {topic}", leave=False):
             t0 = time.time()
             new_ip, ctrs, pscores, dropped, expl, expt, te, tg, ts = \
@@ -535,6 +548,8 @@ def main():
                    help="Use Dirichlet-sampled per-user alphas instead of fixed cohort alphas")
     p.add_argument("--resume", action="store_true")
     p.add_argument("--topics", nargs="*", default=None)
+    p.add_argument("--run-tag", default=None,
+                   help="Append a tag to the result directory/run ID")
     p.add_argument("--dry-run", action="store_true")
     args = p.parse_args()
 
@@ -566,7 +581,10 @@ def main():
         print(f"\n{'#'*60}")
         print(f"# {method} | {args.domain} | gen={config.get('generator_model', config.get('gen_model'))} | eval={evaluator_label()} | {'user-level' if args.user_level else 'cohort'}")
         print(f"{'#'*60}")
-        run_experiment(args.domain, method, args.user_level, args.resume, args.topics)
+        run_experiment(
+            args.domain, method, args.user_level, args.resume, args.topics,
+            args.run_tag,
+        )
 
 if __name__ == "__main__":
     main()

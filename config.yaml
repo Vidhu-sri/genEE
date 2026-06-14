@@ -7,7 +7,7 @@ generator_model: gpt-4o-mini
 
 evaluator_backend: film
 film_checkpoint: evaluator/checkpoints/best_dimensions_mpnet.pt
-evaluator_device: cpu   # use cuda on GPU pod
+evaluator_device: cpu
 
 iterations: 15
 sim_K: 3
@@ -22,7 +22,7 @@ num_drop: 1
 users_per_persona: 10
 
 bandit_epsilon: 0.1
-bandit_ucb_c: 2.0
+bandit_ucb_c: 0.002
 bandit_ts_alpha: 1.0
 bandit_ts_beta: 1.0
 

@@ -6,7 +6,15 @@ cd "$(dirname "${BASH_SOURCE[0]}")/.."
 RESULTS_DIR="results/bandit_10x10"
 mkdir -p "$RESULTS_DIR"
 
-python - <<'PY'
+if [[ -x "venv/bin/python" ]]; then
+    PYTHON="venv/bin/python"
+elif [[ -x "venv/Scripts/python.exe" ]]; then
+    PYTHON="venv/Scripts/python.exe"
+else
+    PYTHON="${PYTHON:-python}"
+fi
+
+"$PYTHON" - <<'PY'
 from pathlib import Path
 
 import yaml
@@ -42,7 +50,7 @@ if not checkpoint.is_file():
 print("Benchmark config verified.")
 PY
 
-mapfile -d '' -t TOPICS_WIKI < <(python - <<'PY'
+mapfile -d '' -t TOPICS_WIKI < <("$PYTHON" - <<'PY'
 import json
 import sys
 
@@ -51,7 +59,7 @@ for topic in json.load(open("data/topics_wikipedia.json", encoding="utf-8"))[:10
 PY
 )
 
-mapfile -d '' -t TOPICS_ECOM < <(python - <<'PY'
+mapfile -d '' -t TOPICS_ECOM < <("$PYTHON" - <<'PY'
 import json
 import sys
 
@@ -77,7 +85,7 @@ benchmark_complete() {
     local method="$2"
     local run_tag="$3"
 
-    python - "$domain" "$method" "$run_tag" <<'PY'
+    "$PYTHON" - "$domain" "$method" "$run_tag" <<'PY'
 import json
 import sys
 from pathlib import Path
@@ -123,7 +131,7 @@ run_benchmark() {
 
     {
         printf '\n=== %s %s | %s ===\n' "${domain^^}" "$method" "$(date --iso-8601=seconds)"
-        python -m src.runner \
+        "$PYTHON" -m src.runner \
             --domain "$domain" \
             --method "$method" \
             --topics "$@" \

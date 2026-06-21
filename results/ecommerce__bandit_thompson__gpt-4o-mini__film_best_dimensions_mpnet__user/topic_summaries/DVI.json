@@ -1,0 +1,31 @@
+{
+  "topic": "DVI",
+  "method": "bandit_thompson",
+  "ctr_trajectory": [
+    0.0030800000000000003,
+    0.00416,
+    0.00396,
+    0.0038,
+    0.00392,
+    0.0037199999999999998,
+    0.00396,
+    0.00388,
+    0.0038399999999999997,
+    0.00432,
+    0.004399999999999999,
+    0.0037600000000000003,
+    0.00436,
+    0.00408,
+    0.0042
+  ],
+  "initial_ctr": 0.0030800000000000003,
+  "final_ctr": 0.0042,
+  "improvement": 0.0011199999999999995,
+  "final_pool": [
+    "How do DVI connectors compare to HDMI in terms of performance?",
+    "How does DVI support higher resolutions compared to older connection types?",
+    "Can DVI support audio signals like HDMI does?",
+    "Can DVI support 4K resolutions and high refresh rates effectively?",
+    "Can I use a DVI to HDMI adapter for better video quality?"
+  ]
+}

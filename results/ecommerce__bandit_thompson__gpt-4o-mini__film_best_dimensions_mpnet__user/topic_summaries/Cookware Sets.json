@@ -1,0 +1,31 @@
+{
+  "topic": "Cookware Sets",
+  "method": "bandit_thompson",
+  "ctr_trajectory": [
+    0.0061200000000000004,
+    0.00712,
+    0.00756,
+    0.008159999999999999,
+    0.007000000000000001,
+    0.00736,
+    0.008,
+    0.007679999999999999,
+    0.00712,
+    0.0076,
+    0.00784,
+    0.0086,
+    0.008839999999999999,
+    0.0088,
+    0.007639999999999998
+  ],
+  "initial_ctr": 0.0061200000000000004,
+  "final_ctr": 0.007639999999999998,
+  "improvement": 0.001519999999999998,
+  "final_pool": [
+    "1. What materials are commonly used in cookware sets?",
+    "What are the key features to consider when buying cookware sets?",
+    "What are the key features to consider when choosing cookware sets?",
+    "What features should I look for in quality cookware sets?",
+    "What are the advantages of non-stick coatings in cookware sets?"
+  ]
+}

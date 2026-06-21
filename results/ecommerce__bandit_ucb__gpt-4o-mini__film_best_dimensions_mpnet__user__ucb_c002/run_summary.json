@@ -1,0 +1,10 @@
+{
+  "run_id": "ecommerce__bandit_ucb__gpt-4o-mini__film_best_dimensions_mpnet__user__ucb_c002",
+  "completed_at": "2026-06-14T14:56:52.095204",
+  "cumulative_time": {
+    "eval": 6307.702147483826,
+    "gen": 274.9926812648773,
+    "sim": 21.67454218864441,
+    "total": 6604.458233118057
+  }
+}

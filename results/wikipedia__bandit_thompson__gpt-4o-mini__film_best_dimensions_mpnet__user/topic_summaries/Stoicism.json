@@ -1,0 +1,31 @@
+{
+  "topic": "Stoicism",
+  "method": "bandit_thompson",
+  "ctr_trajectory": [
+    0.00872,
+    0.00968,
+    0.010360000000000001,
+    0.01012,
+    0.01052,
+    0.00916,
+    0.00988,
+    0.0098,
+    0.00952,
+    0.00968,
+    0.009920000000000002,
+    0.008960000000000001,
+    0.01036,
+    0.01,
+    0.010159999999999999
+  ],
+  "initial_ctr": 0.00872,
+  "final_ctr": 0.010159999999999999,
+  "improvement": 0.0014399999999999986,
+  "final_pool": [
+    "1. What is Stoicism?",
+    "2. Who founded Stoicism?",
+    "What are the main principles of Stoicism philosophy?",
+    "What are the core principles of Stoicism?",
+    "How does Stoicism influence modern philosophy and self-help practices?"
+  ]
+}

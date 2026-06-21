@@ -1,0 +1,31 @@
+{
+  "topic": "Stoicism",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.00872,
+    0.00976,
+    0.010440000000000001,
+    0.0098,
+    0.01032,
+    0.01052,
+    0.01116,
+    0.009,
+    0.008119999999999999,
+    0.00844,
+    0.00872,
+    0.01044,
+    0.009720000000000001,
+    0.01052,
+    0.01104
+  ],
+  "initial_ctr": 0.00872,
+  "final_ctr": 0.01104,
+  "improvement": 0.002319999999999999,
+  "final_pool": [
+    "1. What is Stoicism?",
+    "2. Who founded Stoicism?",
+    "How does Stoicism define the concept of virtue?",
+    "What are the main principles of Stoicism and its teachings?",
+    "What are the main principles of Stoicism philosophy?"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "topic": "Carl Jung",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.010079999999999999,
+    0.00996,
+    0.01024,
+    0.009999999999999998,
+    0.0092,
+    0.0082,
+    0.01052,
+    0.00888,
+    0.00892,
+    0.008400000000000001,
+    0.00836,
+    0.009,
+    0.00944,
+    0.00924,
+    0.00864
+  ],
+  "initial_ctr": 0.010079999999999999,
+  "final_ctr": 0.00864,
+  "improvement": -0.0014399999999999986,
+  "final_pool": [
+    "1. When was Carl Jung born?",
+    "2. Where was Carl Jung born?",
+    "What were Carl Jung's main contributions to psychology and psychotherapy?",
+    "What are Carl Jung's main contributions to psychology?",
+    "What are Carl Jung's main contributions to psychology and psychotherapy?"
+  ]
+}

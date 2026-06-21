@@ -1,0 +1,31 @@
+{
+  "topic": "Petra",
+  "method": "bandit_thompson",
+  "ctr_trajectory": [
+    0.00924,
+    0.009519999999999999,
+    0.0102,
+    0.009600000000000001,
+    0.00912,
+    0.00884,
+    0.010199999999999999,
+    0.00864,
+    0.007999999999999998,
+    0.00804,
+    0.009160000000000001,
+    0.00996,
+    0.00996,
+    0.00944,
+    0.00916
+  ],
+  "initial_ctr": 0.00924,
+  "final_ctr": 0.00916,
+  "improvement": -8.000000000000021e-05,
+  "final_pool": [
+    "1. Where is Petra located?",
+    "2. Who built Petra?",
+    "3. When was Petra established?",
+    "What is the significance of Petra in ancient trade routes?",
+    "What historical significance does Petra hold in ancient trade routes?"
+  ]
+}

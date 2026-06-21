@@ -1,0 +1,10 @@
+{
+  "run_id": "wikipedia__bandit_thompson__gpt-4o-mini__film_best_dimensions_mpnet__user",
+  "completed_at": "2026-06-15T02:45:19.455380",
+  "cumulative_time": {
+    "eval": 2599.9801404476166,
+    "gen": 327.739857673645,
+    "sim": 9.141427278518677,
+    "total": 2936.9073045253754
+  }
+}

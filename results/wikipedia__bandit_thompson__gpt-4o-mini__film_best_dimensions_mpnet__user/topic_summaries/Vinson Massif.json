@@ -1,0 +1,31 @@
+{
+  "topic": "Vinson Massif",
+  "method": "bandit_thompson",
+  "ctr_trajectory": [
+    0.0073999999999999995,
+    0.009240000000000002,
+    0.009600000000000001,
+    0.010239999999999999,
+    0.009,
+    0.007719999999999999,
+    0.00968,
+    0.008119999999999999,
+    0.009040000000000001,
+    0.006959999999999999,
+    0.009600000000000001,
+    0.00876,
+    0.00912,
+    0.0092,
+    0.007680000000000001
+  ],
+  "initial_ctr": 0.0073999999999999995,
+  "final_ctr": 0.007680000000000001,
+  "improvement": 0.0002800000000000016,
+  "final_pool": [
+    "1. Where is Vinson Massif located?",
+    "What are the main challenges climbers face on Vinson Massif?",
+    "What is the elevation of Vinson Massif?",
+    "What is the height of Vinson Massif?",
+    "What are the climbing routes available on Vinson Massif?"
+  ]
+}

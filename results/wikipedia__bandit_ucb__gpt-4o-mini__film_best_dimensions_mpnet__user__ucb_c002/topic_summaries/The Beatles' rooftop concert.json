@@ -1,0 +1,31 @@
+{
+  "topic": "The Beatles' rooftop concert",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.01532,
+    0.01824,
+    0.017240000000000002,
+    0.01728,
+    0.017599999999999998,
+    0.01588,
+    0.01808,
+    0.017599999999999998,
+    0.016720000000000002,
+    0.01988,
+    0.01672,
+    0.018039999999999997,
+    0.017599999999999998,
+    0.01668,
+    0.01796
+  ],
+  "initial_ctr": 0.01532,
+  "final_ctr": 0.01796,
+  "improvement": 0.00264,
+  "final_pool": [
+    "1. When did The Beatles' rooftop concert take place?",
+    "2. Where was the rooftop concert held?",
+    "3. Which building did The Beatles perform on top of?",
+    "What date did The Beatles' rooftop concert take place?",
+    "What was the significance of The Beatles' rooftop concert?"
+  ]
+}

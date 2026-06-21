@@ -1,0 +1,31 @@
+{
+  "topic": "Coaxial Cables",
+  "method": "bandit_thompson",
+  "ctr_trajectory": [
+    0.00404,
+    0.0048000000000000004,
+    0.005960000000000001,
+    0.006,
+    0.00568,
+    0.00484,
+    0.00608,
+    0.005880000000000001,
+    0.005840000000000001,
+    0.006320000000000001,
+    0.0064399999999999995,
+    0.00688,
+    0.006840000000000001,
+    0.0061200000000000004,
+    0.006719999999999999
+  ],
+  "initial_ctr": 0.00404,
+  "final_ctr": 0.006719999999999999,
+  "improvement": 0.0026799999999999992,
+  "final_pool": [
+    "What features should I consider when buying coaxial cables?",
+    "What features should I consider when choosing coaxial cables for my setup?",
+    "What types of coaxial cables are suitable for high-speed internet connections?",
+    "What types of coaxial cables are suitable for indoor versus outdoor use?",
+    "What are the key features to consider when buying coaxial cables?"
+  ]
+}

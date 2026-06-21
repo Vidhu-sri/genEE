@@ -35,8 +35,8 @@
   "iterations": 15,
   "users_per_persona": 10,
   "bandit_epsilon": 0.1,
-  "bandit_ucb_c": 2.0,
+  "bandit_ucb_c": 0.002,
   "bandit_ts_alpha": 1.0,
   "bandit_ts_beta": 1.0,
-  "started_at": "2026-06-09T06:57:01.823805"
+  "started_at": "2026-06-15T01:07:08.465111"
 }

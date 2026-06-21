@@ -1,0 +1,31 @@
+{
+  "topic": "Petra",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.009,
+    0.0098,
+    0.009479999999999999,
+    0.01004,
+    0.00788,
+    0.00952,
+    0.00968,
+    0.00912,
+    0.0088,
+    0.00848,
+    0.00936,
+    0.010080000000000002,
+    0.010320000000000001,
+    0.00972,
+    0.007880000000000002
+  ],
+  "initial_ctr": 0.009,
+  "final_ctr": 0.007880000000000002,
+  "improvement": -0.0011199999999999977,
+  "final_pool": [
+    "1. Where is Petra located?",
+    "2. Who built Petra?",
+    "3. When was Petra established?",
+    "What historical significance does Petra hold in ancient civilization?",
+    "What architectural styles are prominent in Petra's structures?"
+  ]
+}

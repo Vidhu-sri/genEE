@@ -1,0 +1,31 @@
+{
+  "topic": "Carl Jung",
+  "method": "bandit_thompson",
+  "ctr_trajectory": [
+    0.00924,
+    0.009839999999999998,
+    0.01096,
+    0.01016,
+    0.00824,
+    0.00872,
+    0.010159999999999999,
+    0.00964,
+    0.009040000000000001,
+    0.00904,
+    0.00924,
+    0.009240000000000002,
+    0.010159999999999999,
+    0.00912,
+    0.008799999999999999
+  ],
+  "initial_ctr": 0.00924,
+  "final_ctr": 0.008799999999999999,
+  "improvement": -0.00044000000000000115,
+  "final_pool": [
+    "1. When was Carl Jung born?",
+    "2. Where was Carl Jung born?",
+    "What are the main concepts developed by Carl Jung in psychology?",
+    "What are Carl Jung's main contributions to psychology?",
+    "What are the main concepts introduced by Carl Jung in psychology?"
+  ]
+}

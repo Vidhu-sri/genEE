@@ -1,0 +1,31 @@
+{
+  "topic": "Cookware Sets",
+  "method": "bandit_epsilon",
+  "ctr_trajectory": [
+    0.0064399999999999995,
+    0.0072,
+    0.00792,
+    0.00816,
+    0.007479999999999999,
+    0.00736,
+    0.00824,
+    0.00732,
+    0.00712,
+    0.00804,
+    0.00712,
+    0.00884,
+    0.00856,
+    0.0088,
+    0.00784
+  ],
+  "initial_ctr": 0.0064399999999999995,
+  "final_ctr": 0.00784,
+  "improvement": 0.0014000000000000002,
+  "final_pool": [
+    "1. What materials are commonly used in cookware sets?",
+    "What materials are commonly used in high-quality cookware sets?",
+    "What features should I consider when choosing cookware sets for my kitchen?",
+    "What are the advantages of non-stick vs. stainless steel cookware sets?",
+    "What key features should I consider when buying cookware sets?"
+  ]
+}

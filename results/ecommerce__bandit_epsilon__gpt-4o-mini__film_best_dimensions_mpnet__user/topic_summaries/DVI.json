@@ -1,0 +1,31 @@
+{
+  "topic": "DVI",
+  "method": "bandit_epsilon",
+  "ctr_trajectory": [
+    0.0028399999999999996,
+    0.00396,
+    0.0042,
+    0.00516,
+    0.0046,
+    0.00388,
+    0.00396,
+    0.0048400000000000006,
+    0.00416,
+    0.0048400000000000006,
+    0.00404,
+    0.00448,
+    0.00544,
+    0.00448,
+    0.004319999999999999
+  ],
+  "initial_ctr": 0.0028399999999999996,
+  "final_ctr": 0.004319999999999999,
+  "improvement": 0.0014799999999999995,
+  "final_pool": [
+    "What features should I consider when buying a DVI cable?",
+    "What are the key features of DVI connectors in display technology?",
+    "What features should I consider when buying DVI cables?",
+    "What features should I look for in DVI cables?",
+    "What are the differences between DVI-D and DVI-I cables?"
+  ]
+}

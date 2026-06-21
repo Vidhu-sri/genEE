@@ -13,3 +13,7 @@ Reference:
 - https://arxiv.org/abs/2406.05255 
 - https://arxiv.org/abs/2401.04858  
 - https://www.sciencedirect.com/science/article/abs/pii/S0957417422001543
+
+
+![App Diagram](results\bandit_10x10\bandit_vs_fixed_ecommerce.png)
+![App Diagram](results\bandit_10x10\bandit_vs_fixed_wikipedia.png)

@@ -1,0 +1,31 @@
+{
+  "topic": "Spray Bottles",
+  "method": "bandit_thompson",
+  "ctr_trajectory": [
+    0.00688,
+    0.008400000000000001,
+    0.00844,
+    0.00872,
+    0.007960000000000002,
+    0.00756,
+    0.00868,
+    0.008119999999999999,
+    0.00784,
+    0.007680000000000001,
+    0.007039999999999999,
+    0.007600000000000001,
+    0.00872,
+    0.00848,
+    0.007559999999999999
+  ],
+  "initial_ctr": 0.00688,
+  "final_ctr": 0.007559999999999999,
+  "improvement": 0.0006799999999999992,
+  "final_pool": [
+    "1. What materials are spray bottles commonly made from?",
+    "2. How do spray bottles work?",
+    "What features should I look for in a quality spray bottle?",
+    "What is the typical lifespan of a plastic spray bottle?",
+    "What are the benefits of using glass spray bottles over plastic ones?"
+  ]
+}

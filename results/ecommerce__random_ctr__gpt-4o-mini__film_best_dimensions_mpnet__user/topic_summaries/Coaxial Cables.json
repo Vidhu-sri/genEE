@@ -1,0 +1,31 @@
+{
+  "topic": "Coaxial Cables",
+  "method": "random_ctr",
+  "ctr_trajectory": [
+    0.004200000000000001,
+    0.0046,
+    0.005599999999999999,
+    0.00572,
+    0.004280000000000001,
+    0.00496,
+    0.00592,
+    0.00636,
+    0.00664,
+    0.0058000000000000005,
+    0.00596,
+    0.00668,
+    0.007679999999999999,
+    0.006319999999999999,
+    0.00692
+  ],
+  "initial_ctr": 0.004200000000000001,
+  "final_ctr": 0.00692,
+  "improvement": 0.0027199999999999993,
+  "final_pool": [
+    "5. What types of coaxial cables exist?",
+    "What features should I consider when choosing coaxial cables for my installation?",
+    "What are the key features to consider when buying coaxial cables?",
+    "What features should I consider when buying coaxial cables?",
+    "What features should I consider when choosing coaxial cables for my setup?"
+  ]
+}

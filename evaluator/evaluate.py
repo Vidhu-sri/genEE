@@ -31,8 +31,13 @@ def load_model(checkpoint, device="cpu"):
     ckpt = torch.load(checkpoint, map_location=device, weights_only=False)
     head_mode = ckpt.get("head_mode", "dimensions")  # fallback for old ckpts
     freeze_encoder = ckpt.get("freeze_encoder", True)
+    model_name = ckpt.get("model_name", "sentence-transformers/all-MiniLM-L6-v2")
 
-    model = FiLMEvaluator(freeze_encoder=freeze_encoder, head_mode=head_mode).to(device)
+    model = FiLMEvaluator(
+        freeze_encoder=freeze_encoder,
+        model_name=model_name,
+        head_mode=head_mode,
+    ).to(device)
 
     state = model.state_dict()
     for k, v in ckpt["model_state_dict"].items():

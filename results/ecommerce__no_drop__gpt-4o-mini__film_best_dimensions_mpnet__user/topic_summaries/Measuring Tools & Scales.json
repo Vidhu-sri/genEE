@@ -1,0 +1,37 @@
+{
+  "topic": "Measuring Tools & Scales",
+  "method": "no_drop",
+  "ctr_trajectory": [
+    0.005520000000000001,
+    0.0051,
+    0.005266666666666666,
+    0.005466666666666667,
+    0.004742857142857143,
+    0.004175,
+    0.0038749999999999995,
+    0.003525,
+    0.0032666666666666664,
+    0.00298,
+    0.0030800000000000003,
+    0.00352,
+    0.00312,
+    0.0031399999999999996,
+    0.0031599999999999996
+  ],
+  "initial_ctr": 0.005520000000000001,
+  "final_ctr": 0.0031599999999999996,
+  "improvement": -0.002360000000000001,
+  "final_pool": [
+    "1. What are common types of measuring tools and scales?",
+    "2. How do measuring tools and scales differ in function?",
+    "3. Which materials are used to make measuring tools and scales?",
+    "4. How is accuracy determined in measuring tools and scales?",
+    "5. What maintenance is required for measuring tools and scales?",
+    "What features should I consider when choosing measuring tools and scales?",
+    "What are the key features to consider when buying measuring tools and scales?",
+    "What features should I look for in measuring tools and scales?",
+    "What are the key features to consider when purchasing measuring tools and scales?",
+    "What features should I consider when selecting measuring tools and scales?",
+    "What are the key features to consider when choosing measuring tools and scales?"
+  ]
+}

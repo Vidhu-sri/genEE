@@ -1,0 +1,31 @@
+{
+  "topic": "Cookware Sets",
+  "method": "random_ctr",
+  "ctr_trajectory": [
+    0.006039999999999999,
+    0.00704,
+    0.0076,
+    0.00776,
+    0.006840000000000001,
+    0.0061200000000000004,
+    0.00636,
+    0.006320000000000001,
+    0.0062,
+    0.0073999999999999995,
+    0.0061600000000000005,
+    0.007759999999999999,
+    0.0082,
+    0.007000000000000001,
+    0.007679999999999999
+  ],
+  "initial_ctr": 0.006039999999999999,
+  "final_ctr": 0.007679999999999999,
+  "improvement": 0.00164,
+  "final_pool": [
+    "4. Do cookware sets usually include nonstick options?",
+    "What key features should I consider when buying cookware sets?",
+    "What materials are commonly used in cookware sets for durability and safety?",
+    "What are the key features to consider when buying cookware sets?",
+    "What are the key features to consider when choosing cookware sets?"
+  ]
+}

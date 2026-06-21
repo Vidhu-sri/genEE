@@ -1,0 +1,37 @@
+{
+  "topic": "Ketogenic diet",
+  "method": "no_drop",
+  "ctr_trajectory": [
+    0.0067599999999999995,
+    0.006299999999999999,
+    0.0051142857142857144,
+    0.003325,
+    0.005050000000000001,
+    0.0031999999999999997,
+    0.00355,
+    0.0037777777777777775,
+    0.003911111111111112,
+    0.0038666666666666663,
+    0.00298,
+    0.00334,
+    0.003,
+    0.00352,
+    0.002672727272727273
+  ],
+  "initial_ctr": 0.0067599999999999995,
+  "final_ctr": 0.002672727272727273,
+  "improvement": -0.004087272727272727,
+  "final_pool": [
+    "1. What is the ketogenic diet?",
+    "2. How does the ketogenic diet work?",
+    "3. What are the main principles of the ketogenic diet?",
+    "4. What foods are allowed on a ketogenic diet?",
+    "5. Which foods should be avoided on a ketogenic diet?",
+    "What foods are typically included in a ketogenic diet?",
+    "What are the main principles of the ketogenic diet?",
+    "What are the main components of a ketogenic diet?",
+    "What are the primary foods included in a ketogenic diet?",
+    "What are the main benefits of a ketogenic diet?",
+    "What foods are commonly included in a ketogenic diet?"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "topic": "Carl Jung",
+  "method": "bandit_epsilon",
+  "ctr_trajectory": [
+    0.00944,
+    0.00896,
+    0.011640000000000001,
+    0.010680000000000002,
+    0.00848,
+    0.008839999999999999,
+    0.010199999999999999,
+    0.009040000000000001,
+    0.0088,
+    0.00948,
+    0.0092,
+    0.00964,
+    0.00944,
+    0.00976,
+    0.00832
+  ],
+  "initial_ctr": 0.00944,
+  "final_ctr": 0.00832,
+  "improvement": -0.0011200000000000012,
+  "final_pool": [
+    "1. When was Carl Jung born?",
+    "2. Where was Carl Jung born?",
+    "What are the main theories developed by Carl Jung?",
+    "What is Carl Jung's concept of the collective unconscious?",
+    "What are the main concepts introduced by Carl Jung?"
+  ]
+}

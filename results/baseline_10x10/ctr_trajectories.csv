@@ -1,0 +1,1651 @@
+domain,method,topic,iteration,ctr
+wikipedia,no_drop,Artificial Superintelligence,0,0.00708
+wikipedia,no_drop,Artificial Superintelligence,1,0.0058
+wikipedia,no_drop,Artificial Superintelligence,2,0.004971428571428572
+wikipedia,no_drop,Artificial Superintelligence,3,0.0040999999999999995
+wikipedia,no_drop,Artificial Superintelligence,4,0.0037555555555555554
+wikipedia,no_drop,Artificial Superintelligence,5,0.0031399999999999996
+wikipedia,no_drop,Artificial Superintelligence,6,0.003
+wikipedia,no_drop,Artificial Superintelligence,7,0.0024
+wikipedia,no_drop,Artificial Superintelligence,8,0.002369230769230769
+wikipedia,no_drop,Artificial Superintelligence,9,0.0024307692307692303
+wikipedia,no_drop,Artificial Superintelligence,10,0.0019000000000000004
+wikipedia,no_drop,Artificial Superintelligence,11,0.00176
+wikipedia,no_drop,Artificial Superintelligence,12,0.0015599999999999998
+wikipedia,no_drop,Artificial Superintelligence,13,0.00232
+wikipedia,no_drop,Artificial Superintelligence,14,0.002125
+wikipedia,no_drop,Carl Jung,0,0.00888
+wikipedia,no_drop,Carl Jung,1,0.007233333333333334
+wikipedia,no_drop,Carl Jung,2,0.008466666666666667
+wikipedia,no_drop,Carl Jung,3,0.0074333333333333335
+wikipedia,no_drop,Carl Jung,4,0.006028571428571429
+wikipedia,no_drop,Carl Jung,5,0.006714285714285714
+wikipedia,no_drop,Carl Jung,6,0.0067428571428571425
+wikipedia,no_drop,Carl Jung,7,0.004575
+wikipedia,no_drop,Carl Jung,8,0.004725
+wikipedia,no_drop,Carl Jung,9,0.004577777777777777
+wikipedia,no_drop,Carl Jung,10,0.00404
+wikipedia,no_drop,Carl Jung,11,0.00422
+wikipedia,no_drop,Carl Jung,12,0.0036
+wikipedia,no_drop,Carl Jung,13,0.004739999999999999
+wikipedia,no_drop,Carl Jung,14,0.00402
+wikipedia,no_drop,Friedrich Nietzsche,0,0.01572
+wikipedia,no_drop,Friedrich Nietzsche,1,0.012833333333333334
+wikipedia,no_drop,Friedrich Nietzsche,2,0.011942857142857142
+wikipedia,no_drop,Friedrich Nietzsche,3,0.009399999999999999
+wikipedia,no_drop,Friedrich Nietzsche,4,0.009377777777777778
+wikipedia,no_drop,Friedrich Nietzsche,5,0.007620000000000002
+wikipedia,no_drop,Friedrich Nietzsche,6,0.007880000000000002
+wikipedia,no_drop,Friedrich Nietzsche,7,0.007745454545454545
+wikipedia,no_drop,Friedrich Nietzsche,8,0.006033333333333332
+wikipedia,no_drop,Friedrich Nietzsche,9,0.006100000000000001
+wikipedia,no_drop,Friedrich Nietzsche,10,0.006600000000000001
+wikipedia,no_drop,Friedrich Nietzsche,11,0.006
+wikipedia,no_drop,Friedrich Nietzsche,12,0.005830769230769231
+wikipedia,no_drop,Friedrich Nietzsche,13,0.0068153846153846155
+wikipedia,no_drop,Friedrich Nietzsche,14,0.0054285714285714284
+wikipedia,no_drop,History of film,0,0.01092
+wikipedia,no_drop,History of film,1,0.009166666666666667
+wikipedia,no_drop,History of film,2,0.008171428571428573
+wikipedia,no_drop,History of film,3,0.0065
+wikipedia,no_drop,History of film,4,0.005044444444444444
+wikipedia,no_drop,History of film,5,0.0054
+wikipedia,no_drop,History of film,6,0.0052
+wikipedia,no_drop,History of film,7,0.003833333333333333
+wikipedia,no_drop,History of film,8,0.00405
+wikipedia,no_drop,History of film,9,0.0036307692307692313
+wikipedia,no_drop,History of film,10,0.003228571428571428
+wikipedia,no_drop,History of film,11,0.0026933333333333336
+wikipedia,no_drop,History of film,12,0.0028375
+wikipedia,no_drop,History of film,13,0.002552941176470588
+wikipedia,no_drop,History of film,14,0.0027647058823529413
+wikipedia,no_drop,Ketogenic diet,0,0.0067599999999999995
+wikipedia,no_drop,Ketogenic diet,1,0.006299999999999999
+wikipedia,no_drop,Ketogenic diet,2,0.0051142857142857144
+wikipedia,no_drop,Ketogenic diet,3,0.003325
+wikipedia,no_drop,Ketogenic diet,4,0.005050000000000001
+wikipedia,no_drop,Ketogenic diet,5,0.0031999999999999997
+wikipedia,no_drop,Ketogenic diet,6,0.00355
+wikipedia,no_drop,Ketogenic diet,7,0.0037777777777777775
+wikipedia,no_drop,Ketogenic diet,8,0.003911111111111112
+wikipedia,no_drop,Ketogenic diet,9,0.0038666666666666663
+wikipedia,no_drop,Ketogenic diet,10,0.00298
+wikipedia,no_drop,Ketogenic diet,11,0.00334
+wikipedia,no_drop,Ketogenic diet,12,0.003
+wikipedia,no_drop,Ketogenic diet,13,0.00352
+wikipedia,no_drop,Ketogenic diet,14,0.002672727272727273
+wikipedia,no_drop,Petra,0,0.009680000000000001
+wikipedia,no_drop,Petra,1,0.007999999999999998
+wikipedia,no_drop,Petra,2,0.0082
+wikipedia,no_drop,Petra,3,0.005971428571428571
+wikipedia,no_drop,Petra,4,0.005685714285714285
+wikipedia,no_drop,Petra,5,0.006314285714285715
+wikipedia,no_drop,Petra,6,0.004775
+wikipedia,no_drop,Petra,7,0.004066666666666666
+wikipedia,no_drop,Petra,8,0.0044666666666666665
+wikipedia,no_drop,Petra,9,0.004088888888888889
+wikipedia,no_drop,Petra,10,0.00334
+wikipedia,no_drop,Petra,11,0.0038399999999999997
+wikipedia,no_drop,Petra,12,0.00396
+wikipedia,no_drop,Petra,13,0.004127272727272728
+wikipedia,no_drop,Petra,14,0.003072727272727273
+wikipedia,no_drop,Socotra,0,0.0114
+wikipedia,no_drop,Socotra,1,0.011099999999999999
+wikipedia,no_drop,Socotra,2,0.00937142857142857
+wikipedia,no_drop,Socotra,3,0.008150000000000001
+wikipedia,no_drop,Socotra,4,0.0075
+wikipedia,no_drop,Socotra,5,0.006355555555555555
+wikipedia,no_drop,Socotra,6,0.0061600000000000005
+wikipedia,no_drop,Socotra,7,0.0058200000000000005
+wikipedia,no_drop,Socotra,8,0.00634
+wikipedia,no_drop,Socotra,9,0.0067599999999999995
+wikipedia,no_drop,Socotra,10,0.00472
+wikipedia,no_drop,Socotra,11,0.00584
+wikipedia,no_drop,Socotra,12,0.005309090909090908
+wikipedia,no_drop,Socotra,13,0.004890909090909091
+wikipedia,no_drop,Socotra,14,0.00490909090909091
+wikipedia,no_drop,Stoicism,0,0.00872
+wikipedia,no_drop,Stoicism,1,0.007299999999999998
+wikipedia,no_drop,Stoicism,2,0.0067428571428571425
+wikipedia,no_drop,Stoicism,3,0.006285714285714285
+wikipedia,no_drop,Stoicism,4,0.005771428571428572
+wikipedia,no_drop,Stoicism,5,0.005225
+wikipedia,no_drop,Stoicism,6,0.005625
+wikipedia,no_drop,Stoicism,7,0.004866666666666667
+wikipedia,no_drop,Stoicism,8,0.004644444444444444
+wikipedia,no_drop,Stoicism,9,0.004311111111111111
+wikipedia,no_drop,Stoicism,10,0.004555555555555556
+wikipedia,no_drop,Stoicism,11,0.004222222222222222
+wikipedia,no_drop,Stoicism,12,0.005288888888888889
+wikipedia,no_drop,Stoicism,13,0.004599999999999999
+wikipedia,no_drop,Stoicism,14,0.004555555555555556
+wikipedia,no_drop,The Beatles' rooftop concert,0,0.01452
+wikipedia,no_drop,The Beatles' rooftop concert,1,0.011999999999999999
+wikipedia,no_drop,The Beatles' rooftop concert,2,0.013266666666666664
+wikipedia,no_drop,The Beatles' rooftop concert,3,0.0092
+wikipedia,no_drop,The Beatles' rooftop concert,4,0.0078000000000000005
+wikipedia,no_drop,The Beatles' rooftop concert,5,0.0082
+wikipedia,no_drop,The Beatles' rooftop concert,6,0.008325
+wikipedia,no_drop,The Beatles' rooftop concert,7,0.007155555555555556
+wikipedia,no_drop,The Beatles' rooftop concert,8,0.0064399999999999995
+wikipedia,no_drop,The Beatles' rooftop concert,9,0.0059636363636363645
+wikipedia,no_drop,The Beatles' rooftop concert,10,0.005654545454545455
+wikipedia,no_drop,The Beatles' rooftop concert,11,0.005818181818181819
+wikipedia,no_drop,The Beatles' rooftop concert,12,0.005966666666666665
+wikipedia,no_drop,The Beatles' rooftop concert,13,0.0056
+wikipedia,no_drop,The Beatles' rooftop concert,14,0.0058
+wikipedia,no_drop,Vinson Massif,0,0.00912
+wikipedia,no_drop,Vinson Massif,1,0.006933333333333334
+wikipedia,no_drop,Vinson Massif,2,0.006914285714285715
+wikipedia,no_drop,Vinson Massif,3,0.006257142857142857
+wikipedia,no_drop,Vinson Massif,4,0.0049
+wikipedia,no_drop,Vinson Massif,5,0.005175
+wikipedia,no_drop,Vinson Massif,6,0.00535
+wikipedia,no_drop,Vinson Massif,7,0.005
+wikipedia,no_drop,Vinson Massif,8,0.005275
+wikipedia,no_drop,Vinson Massif,9,0.0056
+wikipedia,no_drop,Vinson Massif,10,0.005775000000000001
+wikipedia,no_drop,Vinson Massif,11,0.00585
+wikipedia,no_drop,Vinson Massif,12,0.004375
+wikipedia,no_drop,Vinson Massif,13,0.0058
+wikipedia,no_drop,Vinson Massif,14,0.005025
+wikipedia,no_drop,__MEAN__,0,0.010280000000000001
+wikipedia,no_drop,__MEAN__,1,0.008666666666666666
+wikipedia,no_drop,__MEAN__,2,0.008316190476190475
+wikipedia,no_drop,__MEAN__,3,0.006662261904761904
+wikipedia,no_drop,__MEAN__,4,0.006091349206349206
+wikipedia,no_drop,__MEAN__,5,0.005734412698412699
+wikipedia,no_drop,__MEAN__,6,0.0056607857142857146
+wikipedia,no_drop,__MEAN__,7,0.004924045454545454
+wikipedia,no_drop,__MEAN__,8,0.004825478632478632
+wikipedia,no_drop,__MEAN__,9,0.004732961926961926
+wikipedia,no_drop,__MEAN__,10,0.004279367243867244
+wikipedia,no_drop,__MEAN__,11,0.004358373737373737
+wikipedia,no_drop,__MEAN__,12,0.00417279156954157
+wikipedia,no_drop,__MEAN__,13,0.004496650761003702
+wikipedia,no_drop,__MEAN__,14,0.004037337832102538
+wikipedia,random_ctr,Artificial Superintelligence,0,0.0064
+wikipedia,random_ctr,Artificial Superintelligence,1,0.006320000000000001
+wikipedia,random_ctr,Artificial Superintelligence,2,0.0074800000000000005
+wikipedia,random_ctr,Artificial Superintelligence,3,0.007719999999999999
+wikipedia,random_ctr,Artificial Superintelligence,4,0.0068000000000000005
+wikipedia,random_ctr,Artificial Superintelligence,5,0.00556
+wikipedia,random_ctr,Artificial Superintelligence,6,0.007959999999999998
+wikipedia,random_ctr,Artificial Superintelligence,7,0.00716
+wikipedia,random_ctr,Artificial Superintelligence,8,0.00572
+wikipedia,random_ctr,Artificial Superintelligence,9,0.004520000000000001
+wikipedia,random_ctr,Artificial Superintelligence,10,0.00532
+wikipedia,random_ctr,Artificial Superintelligence,11,0.0052
+wikipedia,random_ctr,Artificial Superintelligence,12,0.00536
+wikipedia,random_ctr,Artificial Superintelligence,13,0.006320000000000001
+wikipedia,random_ctr,Artificial Superintelligence,14,0.00536
+wikipedia,random_ctr,Carl Jung,0,0.00896
+wikipedia,random_ctr,Carl Jung,1,0.007840000000000001
+wikipedia,random_ctr,Carl Jung,2,0.00728
+wikipedia,random_ctr,Carl Jung,3,0.00824
+wikipedia,random_ctr,Carl Jung,4,0.0094
+wikipedia,random_ctr,Carl Jung,5,0.005959999999999999
+wikipedia,random_ctr,Carl Jung,6,0.007239999999999999
+wikipedia,random_ctr,Carl Jung,7,0.007319999999999998
+wikipedia,random_ctr,Carl Jung,8,0.00716
+wikipedia,random_ctr,Carl Jung,9,0.00756
+wikipedia,random_ctr,Carl Jung,10,0.00716
+wikipedia,random_ctr,Carl Jung,11,0.008
+wikipedia,random_ctr,Carl Jung,12,0.008119999999999999
+wikipedia,random_ctr,Carl Jung,13,0.007000000000000001
+wikipedia,random_ctr,Carl Jung,14,0.007880000000000002
+wikipedia,random_ctr,Friedrich Nietzsche,0,0.016120000000000002
+wikipedia,random_ctr,Friedrich Nietzsche,1,0.015639999999999998
+wikipedia,random_ctr,Friedrich Nietzsche,2,0.01688
+wikipedia,random_ctr,Friedrich Nietzsche,3,0.01668
+wikipedia,random_ctr,Friedrich Nietzsche,4,0.015400000000000002
+wikipedia,random_ctr,Friedrich Nietzsche,5,0.01356
+wikipedia,random_ctr,Friedrich Nietzsche,6,0.014640000000000004
+wikipedia,random_ctr,Friedrich Nietzsche,7,0.01336
+wikipedia,random_ctr,Friedrich Nietzsche,8,0.014000000000000002
+wikipedia,random_ctr,Friedrich Nietzsche,9,0.015359999999999999
+wikipedia,random_ctr,Friedrich Nietzsche,10,0.013439999999999999
+wikipedia,random_ctr,Friedrich Nietzsche,11,0.01484
+wikipedia,random_ctr,Friedrich Nietzsche,12,0.014280000000000001
+wikipedia,random_ctr,Friedrich Nietzsche,13,0.014280000000000001
+wikipedia,random_ctr,Friedrich Nietzsche,14,0.01532
+wikipedia,random_ctr,History of film,0,0.01176
+wikipedia,random_ctr,History of film,1,0.01024
+wikipedia,random_ctr,History of film,2,0.01148
+wikipedia,random_ctr,History of film,3,0.008879999999999999
+wikipedia,random_ctr,History of film,4,0.009080000000000001
+wikipedia,random_ctr,History of film,5,0.009040000000000001
+wikipedia,random_ctr,History of film,6,0.010320000000000001
+wikipedia,random_ctr,History of film,7,0.0064399999999999995
+wikipedia,random_ctr,History of film,8,0.00832
+wikipedia,random_ctr,History of film,9,0.007520000000000001
+wikipedia,random_ctr,History of film,10,0.00756
+wikipedia,random_ctr,History of film,11,0.00772
+wikipedia,random_ctr,History of film,12,0.00804
+wikipedia,random_ctr,History of film,13,0.00788
+wikipedia,random_ctr,History of film,14,0.0078
+wikipedia,random_ctr,Ketogenic diet,0,0.0072
+wikipedia,random_ctr,Ketogenic diet,1,0.006720000000000001
+wikipedia,random_ctr,Ketogenic diet,2,0.005800000000000001
+wikipedia,random_ctr,Ketogenic diet,3,0.00668
+wikipedia,random_ctr,Ketogenic diet,4,0.005200000000000001
+wikipedia,random_ctr,Ketogenic diet,5,0.00556
+wikipedia,random_ctr,Ketogenic diet,6,0.006279999999999999
+wikipedia,random_ctr,Ketogenic diet,7,0.0050799999999999994
+wikipedia,random_ctr,Ketogenic diet,8,0.0057599999999999995
+wikipedia,random_ctr,Ketogenic diet,9,0.00528
+wikipedia,random_ctr,Ketogenic diet,10,0.00692
+wikipedia,random_ctr,Ketogenic diet,11,0.005359999999999999
+wikipedia,random_ctr,Ketogenic diet,12,0.00544
+wikipedia,random_ctr,Ketogenic diet,13,0.00668
+wikipedia,random_ctr,Ketogenic diet,14,0.00676
+wikipedia,random_ctr,Petra,0,0.009040000000000001
+wikipedia,random_ctr,Petra,1,0.008
+wikipedia,random_ctr,Petra,2,0.008
+wikipedia,random_ctr,Petra,3,0.008799999999999999
+wikipedia,random_ctr,Petra,4,0.0084
+wikipedia,random_ctr,Petra,5,0.00688
+wikipedia,random_ctr,Petra,6,0.00804
+wikipedia,random_ctr,Petra,7,0.006959999999999999
+wikipedia,random_ctr,Petra,8,0.006799999999999999
+wikipedia,random_ctr,Petra,9,0.0061200000000000004
+wikipedia,random_ctr,Petra,10,0.008
+wikipedia,random_ctr,Petra,11,0.0074800000000000005
+wikipedia,random_ctr,Petra,12,0.00792
+wikipedia,random_ctr,Petra,13,0.0073999999999999995
+wikipedia,random_ctr,Petra,14,0.005
+wikipedia,random_ctr,Socotra,0,0.01076
+wikipedia,random_ctr,Socotra,1,0.013599999999999998
+wikipedia,random_ctr,Socotra,2,0.01416
+wikipedia,random_ctr,Socotra,3,0.012639999999999998
+wikipedia,random_ctr,Socotra,4,0.01136
+wikipedia,random_ctr,Socotra,5,0.01268
+wikipedia,random_ctr,Socotra,6,0.01348
+wikipedia,random_ctr,Socotra,7,0.0102
+wikipedia,random_ctr,Socotra,8,0.00964
+wikipedia,random_ctr,Socotra,9,0.01032
+wikipedia,random_ctr,Socotra,10,0.011800000000000001
+wikipedia,random_ctr,Socotra,11,0.01064
+wikipedia,random_ctr,Socotra,12,0.010960000000000001
+wikipedia,random_ctr,Socotra,13,0.012759999999999999
+wikipedia,random_ctr,Socotra,14,0.0108
+wikipedia,random_ctr,Stoicism,0,0.00872
+wikipedia,random_ctr,Stoicism,1,0.006559999999999999
+wikipedia,random_ctr,Stoicism,2,0.007680000000000001
+wikipedia,random_ctr,Stoicism,3,0.00712
+wikipedia,random_ctr,Stoicism,4,0.00796
+wikipedia,random_ctr,Stoicism,5,0.007039999999999999
+wikipedia,random_ctr,Stoicism,6,0.00736
+wikipedia,random_ctr,Stoicism,7,0.0066
+wikipedia,random_ctr,Stoicism,8,0.00732
+wikipedia,random_ctr,Stoicism,9,0.00668
+wikipedia,random_ctr,Stoicism,10,0.007519999999999999
+wikipedia,random_ctr,Stoicism,11,0.00732
+wikipedia,random_ctr,Stoicism,12,0.00824
+wikipedia,random_ctr,Stoicism,13,0.00796
+wikipedia,random_ctr,Stoicism,14,0.007520000000000001
+wikipedia,random_ctr,The Beatles' rooftop concert,0,0.014600000000000002
+wikipedia,random_ctr,The Beatles' rooftop concert,1,0.01228
+wikipedia,random_ctr,The Beatles' rooftop concert,2,0.010040000000000002
+wikipedia,random_ctr,The Beatles' rooftop concert,3,0.010879999999999999
+wikipedia,random_ctr,The Beatles' rooftop concert,4,0.010320000000000001
+wikipedia,random_ctr,The Beatles' rooftop concert,5,0.00944
+wikipedia,random_ctr,The Beatles' rooftop concert,6,0.009920000000000002
+wikipedia,random_ctr,The Beatles' rooftop concert,7,0.01004
+wikipedia,random_ctr,The Beatles' rooftop concert,8,0.00976
+wikipedia,random_ctr,The Beatles' rooftop concert,9,0.00944
+wikipedia,random_ctr,The Beatles' rooftop concert,10,0.0108
+wikipedia,random_ctr,The Beatles' rooftop concert,11,0.010720000000000002
+wikipedia,random_ctr,The Beatles' rooftop concert,12,0.012400000000000001
+wikipedia,random_ctr,The Beatles' rooftop concert,13,0.009720000000000001
+wikipedia,random_ctr,The Beatles' rooftop concert,14,0.00976
+wikipedia,random_ctr,Vinson Massif,0,0.00836
+wikipedia,random_ctr,Vinson Massif,1,0.00792
+wikipedia,random_ctr,Vinson Massif,2,0.01012
+wikipedia,random_ctr,Vinson Massif,3,0.01116
+wikipedia,random_ctr,Vinson Massif,4,0.00772
+wikipedia,random_ctr,Vinson Massif,5,0.00728
+wikipedia,random_ctr,Vinson Massif,6,0.008839999999999999
+wikipedia,random_ctr,Vinson Massif,7,0.00788
+wikipedia,random_ctr,Vinson Massif,8,0.0076
+wikipedia,random_ctr,Vinson Massif,9,0.00772
+wikipedia,random_ctr,Vinson Massif,10,0.009
+wikipedia,random_ctr,Vinson Massif,11,0.008119999999999999
+wikipedia,random_ctr,Vinson Massif,12,0.00888
+wikipedia,random_ctr,Vinson Massif,13,0.00976
+wikipedia,random_ctr,Vinson Massif,14,0.007520000000000001
+wikipedia,random_ctr,__MEAN__,0,0.010192000000000001
+wikipedia,random_ctr,__MEAN__,1,0.009512
+wikipedia,random_ctr,__MEAN__,2,0.009892000000000001
+wikipedia,random_ctr,__MEAN__,3,0.00988
+wikipedia,random_ctr,__MEAN__,4,0.009164
+wikipedia,random_ctr,__MEAN__,5,0.0083
+wikipedia,random_ctr,__MEAN__,6,0.009408
+wikipedia,random_ctr,__MEAN__,7,0.008104
+wikipedia,random_ctr,__MEAN__,8,0.008208
+wikipedia,random_ctr,__MEAN__,9,0.008052
+wikipedia,random_ctr,__MEAN__,10,0.008752
+wikipedia,random_ctr,__MEAN__,11,0.00854
+wikipedia,random_ctr,__MEAN__,12,0.008964
+wikipedia,random_ctr,__MEAN__,13,0.008976000000000001
+wikipedia,random_ctr,__MEAN__,14,0.008372000000000001
+wikipedia,partial_ctr,Artificial Superintelligence,0,0.00708
+wikipedia,partial_ctr,Artificial Superintelligence,1,0.007200000000000001
+wikipedia,partial_ctr,Artificial Superintelligence,2,0.0086
+wikipedia,partial_ctr,Artificial Superintelligence,3,0.0074800000000000005
+wikipedia,partial_ctr,Artificial Superintelligence,4,0.00756
+wikipedia,partial_ctr,Artificial Superintelligence,5,0.0068000000000000005
+wikipedia,partial_ctr,Artificial Superintelligence,6,0.00756
+wikipedia,partial_ctr,Artificial Superintelligence,7,0.00716
+wikipedia,partial_ctr,Artificial Superintelligence,8,0.006840000000000001
+wikipedia,partial_ctr,Artificial Superintelligence,9,0.008
+wikipedia,partial_ctr,Artificial Superintelligence,10,0.00716
+wikipedia,partial_ctr,Artificial Superintelligence,11,0.00668
+wikipedia,partial_ctr,Artificial Superintelligence,12,0.007800000000000001
+wikipedia,partial_ctr,Artificial Superintelligence,13,0.008679999999999998
+wikipedia,partial_ctr,Artificial Superintelligence,14,0.007759999999999999
+wikipedia,partial_ctr,Carl Jung,0,0.00888
+wikipedia,partial_ctr,Carl Jung,1,0.009920000000000002
+wikipedia,partial_ctr,Carl Jung,2,0.01116
+wikipedia,partial_ctr,Carl Jung,3,0.01048
+wikipedia,partial_ctr,Carl Jung,4,0.009479999999999999
+wikipedia,partial_ctr,Carl Jung,5,0.0114
+wikipedia,partial_ctr,Carl Jung,6,0.01064
+wikipedia,partial_ctr,Carl Jung,7,0.008799999999999999
+wikipedia,partial_ctr,Carl Jung,8,0.009080000000000001
+wikipedia,partial_ctr,Carl Jung,9,0.009999999999999998
+wikipedia,partial_ctr,Carl Jung,10,0.00956
+wikipedia,partial_ctr,Carl Jung,11,0.009920000000000002
+wikipedia,partial_ctr,Carl Jung,12,0.00892
+wikipedia,partial_ctr,Carl Jung,13,0.010400000000000001
+wikipedia,partial_ctr,Carl Jung,14,0.00924
+wikipedia,partial_ctr,Friedrich Nietzsche,0,0.01572
+wikipedia,partial_ctr,Friedrich Nietzsche,1,0.01612
+wikipedia,partial_ctr,Friedrich Nietzsche,2,0.01772
+wikipedia,partial_ctr,Friedrich Nietzsche,3,0.016319999999999998
+wikipedia,partial_ctr,Friedrich Nietzsche,4,0.01772
+wikipedia,partial_ctr,Friedrich Nietzsche,5,0.01552
+wikipedia,partial_ctr,Friedrich Nietzsche,6,0.0156
+wikipedia,partial_ctr,Friedrich Nietzsche,7,0.01804
+wikipedia,partial_ctr,Friedrich Nietzsche,8,0.013920000000000002
+wikipedia,partial_ctr,Friedrich Nietzsche,9,0.01588
+wikipedia,partial_ctr,Friedrich Nietzsche,10,0.015040000000000001
+wikipedia,partial_ctr,Friedrich Nietzsche,11,0.01756
+wikipedia,partial_ctr,Friedrich Nietzsche,12,0.0162
+wikipedia,partial_ctr,Friedrich Nietzsche,13,0.018840000000000003
+wikipedia,partial_ctr,Friedrich Nietzsche,14,0.014479999999999998
+wikipedia,partial_ctr,History of film,0,0.01092
+wikipedia,partial_ctr,History of film,1,0.01136
+wikipedia,partial_ctr,History of film,2,0.013319999999999999
+wikipedia,partial_ctr,History of film,3,0.01224
+wikipedia,partial_ctr,History of film,4,0.01132
+wikipedia,partial_ctr,History of film,5,0.01192
+wikipedia,partial_ctr,History of film,6,0.01316
+wikipedia,partial_ctr,History of film,7,0.01116
+wikipedia,partial_ctr,History of film,8,0.010320000000000001
+wikipedia,partial_ctr,History of film,9,0.01172
+wikipedia,partial_ctr,History of film,10,0.01124
+wikipedia,partial_ctr,History of film,11,0.01044
+wikipedia,partial_ctr,History of film,12,0.01376
+wikipedia,partial_ctr,History of film,13,0.01068
+wikipedia,partial_ctr,History of film,14,0.0124
+wikipedia,partial_ctr,Ketogenic diet,0,0.0067599999999999995
+wikipedia,partial_ctr,Ketogenic diet,1,0.006559999999999999
+wikipedia,partial_ctr,Ketogenic diet,2,0.00776
+wikipedia,partial_ctr,Ketogenic diet,3,0.00512
+wikipedia,partial_ctr,Ketogenic diet,4,0.00808
+wikipedia,partial_ctr,Ketogenic diet,5,0.00464
+wikipedia,partial_ctr,Ketogenic diet,6,0.00528
+wikipedia,partial_ctr,Ketogenic diet,7,0.0064399999999999995
+wikipedia,partial_ctr,Ketogenic diet,8,0.00688
+wikipedia,partial_ctr,Ketogenic diet,9,0.00776
+wikipedia,partial_ctr,Ketogenic diet,10,0.00736
+wikipedia,partial_ctr,Ketogenic diet,11,0.00668
+wikipedia,partial_ctr,Ketogenic diet,12,0.00688
+wikipedia,partial_ctr,Ketogenic diet,13,0.00636
+wikipedia,partial_ctr,Ketogenic diet,14,0.006560000000000001
+wikipedia,partial_ctr,Petra,0,0.009680000000000001
+wikipedia,partial_ctr,Petra,1,0.00892
+wikipedia,partial_ctr,Petra,2,0.01032
+wikipedia,partial_ctr,Petra,3,0.00912
+wikipedia,partial_ctr,Petra,4,0.008400000000000001
+wikipedia,partial_ctr,Petra,5,0.00844
+wikipedia,partial_ctr,Petra,6,0.00984
+wikipedia,partial_ctr,Petra,7,0.00772
+wikipedia,partial_ctr,Petra,8,0.00912
+wikipedia,partial_ctr,Petra,9,0.00912
+wikipedia,partial_ctr,Petra,10,0.008
+wikipedia,partial_ctr,Petra,11,0.009600000000000001
+wikipedia,partial_ctr,Petra,12,0.01008
+wikipedia,partial_ctr,Petra,13,0.01012
+wikipedia,partial_ctr,Petra,14,0.00788
+wikipedia,partial_ctr,Socotra,0,0.0114
+wikipedia,partial_ctr,Socotra,1,0.01304
+wikipedia,partial_ctr,Socotra,2,0.014279999999999998
+wikipedia,partial_ctr,Socotra,3,0.01492
+wikipedia,partial_ctr,Socotra,4,0.01432
+wikipedia,partial_ctr,Socotra,5,0.014039999999999997
+wikipedia,partial_ctr,Socotra,6,0.014679999999999999
+wikipedia,partial_ctr,Socotra,7,0.013040000000000001
+wikipedia,partial_ctr,Socotra,8,0.013240000000000002
+wikipedia,partial_ctr,Socotra,9,0.015
+wikipedia,partial_ctr,Socotra,10,0.01128
+wikipedia,partial_ctr,Socotra,11,0.013000000000000001
+wikipedia,partial_ctr,Socotra,12,0.013919999999999998
+wikipedia,partial_ctr,Socotra,13,0.01244
+wikipedia,partial_ctr,Socotra,14,0.01236
+wikipedia,partial_ctr,Stoicism,0,0.00872
+wikipedia,partial_ctr,Stoicism,1,0.0094
+wikipedia,partial_ctr,Stoicism,2,0.0106
+wikipedia,partial_ctr,Stoicism,3,0.01052
+wikipedia,partial_ctr,Stoicism,4,0.009240000000000002
+wikipedia,partial_ctr,Stoicism,5,0.0094
+wikipedia,partial_ctr,Stoicism,6,0.01024
+wikipedia,partial_ctr,Stoicism,7,0.009920000000000002
+wikipedia,partial_ctr,Stoicism,8,0.00968
+wikipedia,partial_ctr,Stoicism,9,0.00948
+wikipedia,partial_ctr,Stoicism,10,0.01056
+wikipedia,partial_ctr,Stoicism,11,0.009
+wikipedia,partial_ctr,Stoicism,12,0.010879999999999999
+wikipedia,partial_ctr,Stoicism,13,0.01
+wikipedia,partial_ctr,Stoicism,14,0.009240000000000002
+wikipedia,partial_ctr,The Beatles' rooftop concert,0,0.01452
+wikipedia,partial_ctr,The Beatles' rooftop concert,1,0.01612
+wikipedia,partial_ctr,The Beatles' rooftop concert,2,0.01776
+wikipedia,partial_ctr,The Beatles' rooftop concert,3,0.01512
+wikipedia,partial_ctr,The Beatles' rooftop concert,4,0.01452
+wikipedia,partial_ctr,The Beatles' rooftop concert,5,0.015479999999999999
+wikipedia,partial_ctr,The Beatles' rooftop concert,6,0.017480000000000002
+wikipedia,partial_ctr,The Beatles' rooftop concert,7,0.016040000000000002
+wikipedia,partial_ctr,The Beatles' rooftop concert,8,0.015239999999999998
+wikipedia,partial_ctr,The Beatles' rooftop concert,9,0.016560000000000002
+wikipedia,partial_ctr,The Beatles' rooftop concert,10,0.016360000000000003
+wikipedia,partial_ctr,The Beatles' rooftop concert,11,0.01616
+wikipedia,partial_ctr,The Beatles' rooftop concert,12,0.018719999999999997
+wikipedia,partial_ctr,The Beatles' rooftop concert,13,0.01576
+wikipedia,partial_ctr,The Beatles' rooftop concert,14,0.017759999999999998
+wikipedia,partial_ctr,Vinson Massif,0,0.00912
+wikipedia,partial_ctr,Vinson Massif,1,0.00924
+wikipedia,partial_ctr,Vinson Massif,2,0.010400000000000001
+wikipedia,partial_ctr,Vinson Massif,3,0.010240000000000003
+wikipedia,partial_ctr,Vinson Massif,4,0.0098
+wikipedia,partial_ctr,Vinson Massif,5,0.00848
+wikipedia,partial_ctr,Vinson Massif,6,0.010519999999999998
+wikipedia,partial_ctr,Vinson Massif,7,0.009479999999999999
+wikipedia,partial_ctr,Vinson Massif,8,0.00868
+wikipedia,partial_ctr,Vinson Massif,9,0.00928
+wikipedia,partial_ctr,Vinson Massif,10,0.009760000000000001
+wikipedia,partial_ctr,Vinson Massif,11,0.0092
+wikipedia,partial_ctr,Vinson Massif,12,0.009040000000000001
+wikipedia,partial_ctr,Vinson Massif,13,0.01016
+wikipedia,partial_ctr,Vinson Massif,14,0.00776
+wikipedia,partial_ctr,__MEAN__,0,0.010280000000000001
+wikipedia,partial_ctr,__MEAN__,1,0.010788
+wikipedia,partial_ctr,__MEAN__,2,0.012192
+wikipedia,partial_ctr,__MEAN__,3,0.011156
+wikipedia,partial_ctr,__MEAN__,4,0.011044
+wikipedia,partial_ctr,__MEAN__,5,0.010612
+wikipedia,partial_ctr,__MEAN__,6,0.0115
+wikipedia,partial_ctr,__MEAN__,7,0.010780000000000001
+wikipedia,partial_ctr,__MEAN__,8,0.0103
+wikipedia,partial_ctr,__MEAN__,9,0.01128
+wikipedia,partial_ctr,__MEAN__,10,0.010632
+wikipedia,partial_ctr,__MEAN__,11,0.010824
+wikipedia,partial_ctr,__MEAN__,12,0.01162
+wikipedia,partial_ctr,__MEAN__,13,0.011344
+wikipedia,partial_ctr,__MEAN__,14,0.010544
+wikipedia,full_ctr,Artificial Superintelligence,0,0.00708
+wikipedia,full_ctr,Artificial Superintelligence,1,0.00716
+wikipedia,full_ctr,Artificial Superintelligence,2,0.00844
+wikipedia,full_ctr,Artificial Superintelligence,3,0.007279999999999999
+wikipedia,full_ctr,Artificial Superintelligence,4,0.007520000000000001
+wikipedia,full_ctr,Artificial Superintelligence,5,0.00712
+wikipedia,full_ctr,Artificial Superintelligence,6,0.00796
+wikipedia,full_ctr,Artificial Superintelligence,7,0.007519999999999999
+wikipedia,full_ctr,Artificial Superintelligence,8,0.00712
+wikipedia,full_ctr,Artificial Superintelligence,9,0.008679999999999998
+wikipedia,full_ctr,Artificial Superintelligence,10,0.007880000000000002
+wikipedia,full_ctr,Artificial Superintelligence,11,0.008119999999999999
+wikipedia,full_ctr,Artificial Superintelligence,12,0.007959999999999998
+wikipedia,full_ctr,Artificial Superintelligence,13,0.009600000000000001
+wikipedia,full_ctr,Artificial Superintelligence,14,0.00876
+wikipedia,full_ctr,Carl Jung,0,0.00888
+wikipedia,full_ctr,Carl Jung,1,0.009720000000000001
+wikipedia,full_ctr,Carl Jung,2,0.010960000000000001
+wikipedia,full_ctr,Carl Jung,3,0.010759999999999999
+wikipedia,full_ctr,Carl Jung,4,0.009479999999999999
+wikipedia,full_ctr,Carl Jung,5,0.01052
+wikipedia,full_ctr,Carl Jung,6,0.010159999999999999
+wikipedia,full_ctr,Carl Jung,7,0.00864
+wikipedia,full_ctr,Carl Jung,8,0.00896
+wikipedia,full_ctr,Carl Jung,9,0.00956
+wikipedia,full_ctr,Carl Jung,10,0.00928
+wikipedia,full_ctr,Carl Jung,11,0.00964
+wikipedia,full_ctr,Carl Jung,12,0.009040000000000001
+wikipedia,full_ctr,Carl Jung,13,0.00996
+wikipedia,full_ctr,Carl Jung,14,0.00912
+wikipedia,full_ctr,Friedrich Nietzsche,0,0.01572
+wikipedia,full_ctr,Friedrich Nietzsche,1,0.0166
+wikipedia,full_ctr,Friedrich Nietzsche,2,0.017
+wikipedia,full_ctr,Friedrich Nietzsche,3,0.015560000000000001
+wikipedia,full_ctr,Friedrich Nietzsche,4,0.01644
+wikipedia,full_ctr,Friedrich Nietzsche,5,0.01476
+wikipedia,full_ctr,Friedrich Nietzsche,6,0.015279999999999998
+wikipedia,full_ctr,Friedrich Nietzsche,7,0.01664
+wikipedia,full_ctr,Friedrich Nietzsche,8,0.01328
+wikipedia,full_ctr,Friedrich Nietzsche,9,0.015
+wikipedia,full_ctr,Friedrich Nietzsche,10,0.01472
+wikipedia,full_ctr,Friedrich Nietzsche,11,0.01664
+wikipedia,full_ctr,Friedrich Nietzsche,12,0.01596
+wikipedia,full_ctr,Friedrich Nietzsche,13,0.017599999999999998
+wikipedia,full_ctr,Friedrich Nietzsche,14,0.014279999999999998
+wikipedia,full_ctr,History of film,0,0.01092
+wikipedia,full_ctr,History of film,1,0.011479999999999999
+wikipedia,full_ctr,History of film,2,0.013120000000000001
+wikipedia,full_ctr,History of film,3,0.011680000000000001
+wikipedia,full_ctr,History of film,4,0.010719999999999999
+wikipedia,full_ctr,History of film,5,0.01144
+wikipedia,full_ctr,History of film,6,0.01316
+wikipedia,full_ctr,History of film,7,0.01068
+wikipedia,full_ctr,History of film,8,0.010039999999999999
+wikipedia,full_ctr,History of film,9,0.01124
+wikipedia,full_ctr,History of film,10,0.01064
+wikipedia,full_ctr,History of film,11,0.010080000000000002
+wikipedia,full_ctr,History of film,12,0.013119999999999998
+wikipedia,full_ctr,History of film,13,0.01032
+wikipedia,full_ctr,History of film,14,0.011760000000000001
+wikipedia,full_ctr,Ketogenic diet,0,0.0067599999999999995
+wikipedia,full_ctr,Ketogenic diet,1,0.0068000000000000005
+wikipedia,full_ctr,Ketogenic diet,2,0.008119999999999999
+wikipedia,full_ctr,Ketogenic diet,3,0.00556
+wikipedia,full_ctr,Ketogenic diet,4,0.00824
+wikipedia,full_ctr,Ketogenic diet,5,0.00484
+wikipedia,full_ctr,Ketogenic diet,6,0.0054800000000000005
+wikipedia,full_ctr,Ketogenic diet,7,0.0066
+wikipedia,full_ctr,Ketogenic diet,8,0.007160000000000001
+wikipedia,full_ctr,Ketogenic diet,9,0.007800000000000001
+wikipedia,full_ctr,Ketogenic diet,10,0.0074399999999999996
+wikipedia,full_ctr,Ketogenic diet,11,0.006720000000000001
+wikipedia,full_ctr,Ketogenic diet,12,0.00668
+wikipedia,full_ctr,Ketogenic diet,13,0.0064399999999999995
+wikipedia,full_ctr,Ketogenic diet,14,0.006599999999999999
+wikipedia,full_ctr,Petra,0,0.009680000000000001
+wikipedia,full_ctr,Petra,1,0.00888
+wikipedia,full_ctr,Petra,2,0.010279999999999997
+wikipedia,full_ctr,Petra,3,0.0086
+wikipedia,full_ctr,Petra,4,0.007880000000000002
+wikipedia,full_ctr,Petra,5,0.008
+wikipedia,full_ctr,Petra,6,0.009399999999999999
+wikipedia,full_ctr,Petra,7,0.007640000000000001
+wikipedia,full_ctr,Petra,8,0.00908
+wikipedia,full_ctr,Petra,9,0.009
+wikipedia,full_ctr,Petra,10,0.008
+wikipedia,full_ctr,Petra,11,0.00928
+wikipedia,full_ctr,Petra,12,0.009559999999999999
+wikipedia,full_ctr,Petra,13,0.00952
+wikipedia,full_ctr,Petra,14,0.007679999999999999
+wikipedia,full_ctr,Socotra,0,0.0114
+wikipedia,full_ctr,Socotra,1,0.013000000000000001
+wikipedia,full_ctr,Socotra,2,0.0144
+wikipedia,full_ctr,Socotra,3,0.014960000000000001
+wikipedia,full_ctr,Socotra,4,0.01404
+wikipedia,full_ctr,Socotra,5,0.01384
+wikipedia,full_ctr,Socotra,6,0.014479999999999998
+wikipedia,full_ctr,Socotra,7,0.0128
+wikipedia,full_ctr,Socotra,8,0.01348
+wikipedia,full_ctr,Socotra,9,0.015559999999999996
+wikipedia,full_ctr,Socotra,10,0.01148
+wikipedia,full_ctr,Socotra,11,0.01308
+wikipedia,full_ctr,Socotra,12,0.012559999999999998
+wikipedia,full_ctr,Socotra,13,0.01204
+wikipedia,full_ctr,Socotra,14,0.01168
+wikipedia,full_ctr,Stoicism,0,0.00872
+wikipedia,full_ctr,Stoicism,1,0.01004
+wikipedia,full_ctr,Stoicism,2,0.01056
+wikipedia,full_ctr,Stoicism,3,0.01036
+wikipedia,full_ctr,Stoicism,4,0.00912
+wikipedia,full_ctr,Stoicism,5,0.009319999999999998
+wikipedia,full_ctr,Stoicism,6,0.01024
+wikipedia,full_ctr,Stoicism,7,0.009479999999999999
+wikipedia,full_ctr,Stoicism,8,0.00936
+wikipedia,full_ctr,Stoicism,9,0.00888
+wikipedia,full_ctr,Stoicism,10,0.010280000000000001
+wikipedia,full_ctr,Stoicism,11,0.00916
+wikipedia,full_ctr,Stoicism,12,0.010320000000000001
+wikipedia,full_ctr,Stoicism,13,0.00944
+wikipedia,full_ctr,Stoicism,14,0.00904
+wikipedia,full_ctr,The Beatles' rooftop concert,0,0.01452
+wikipedia,full_ctr,The Beatles' rooftop concert,1,0.015040000000000003
+wikipedia,full_ctr,The Beatles' rooftop concert,2,0.01608
+wikipedia,full_ctr,The Beatles' rooftop concert,3,0.014679999999999999
+wikipedia,full_ctr,The Beatles' rooftop concert,4,0.013800000000000002
+wikipedia,full_ctr,The Beatles' rooftop concert,5,0.01476
+wikipedia,full_ctr,The Beatles' rooftop concert,6,0.01628
+wikipedia,full_ctr,The Beatles' rooftop concert,7,0.015279999999999998
+wikipedia,full_ctr,The Beatles' rooftop concert,8,0.014000000000000002
+wikipedia,full_ctr,The Beatles' rooftop concert,9,0.015
+wikipedia,full_ctr,The Beatles' rooftop concert,10,0.014359999999999998
+wikipedia,full_ctr,The Beatles' rooftop concert,11,0.015479999999999999
+wikipedia,full_ctr,The Beatles' rooftop concert,12,0.01716
+wikipedia,full_ctr,The Beatles' rooftop concert,13,0.015080000000000005
+wikipedia,full_ctr,The Beatles' rooftop concert,14,0.015279999999999998
+wikipedia,full_ctr,Vinson Massif,0,0.00912
+wikipedia,full_ctr,Vinson Massif,1,0.009319999999999998
+wikipedia,full_ctr,Vinson Massif,2,0.0104
+wikipedia,full_ctr,Vinson Massif,3,0.01032
+wikipedia,full_ctr,Vinson Massif,4,0.009839999999999998
+wikipedia,full_ctr,Vinson Massif,5,0.00844
+wikipedia,full_ctr,Vinson Massif,6,0.010520000000000002
+wikipedia,full_ctr,Vinson Massif,7,0.00988
+wikipedia,full_ctr,Vinson Massif,8,0.00876
+wikipedia,full_ctr,Vinson Massif,9,0.00944
+wikipedia,full_ctr,Vinson Massif,10,0.00968
+wikipedia,full_ctr,Vinson Massif,11,0.009359999999999999
+wikipedia,full_ctr,Vinson Massif,12,0.009
+wikipedia,full_ctr,Vinson Massif,13,0.010119999999999999
+wikipedia,full_ctr,Vinson Massif,14,0.00736
+wikipedia,full_ctr,__MEAN__,0,0.010280000000000001
+wikipedia,full_ctr,__MEAN__,1,0.010804
+wikipedia,full_ctr,__MEAN__,2,0.011935999999999999
+wikipedia,full_ctr,__MEAN__,3,0.010976
+wikipedia,full_ctr,__MEAN__,4,0.010707999999999999
+wikipedia,full_ctr,__MEAN__,5,0.010303999999999999
+wikipedia,full_ctr,__MEAN__,6,0.011295999999999999
+wikipedia,full_ctr,__MEAN__,7,0.010516000000000001
+wikipedia,full_ctr,__MEAN__,8,0.010124
+wikipedia,full_ctr,__MEAN__,9,0.011016
+wikipedia,full_ctr,__MEAN__,10,0.010376
+wikipedia,full_ctr,__MEAN__,11,0.010756
+wikipedia,full_ctr,__MEAN__,12,0.011136
+wikipedia,full_ctr,__MEAN__,13,0.011012
+wikipedia,full_ctr,__MEAN__,14,0.010156
+wikipedia,explore_exploit,Artificial Superintelligence,0,0.00728
+wikipedia,explore_exploit,Artificial Superintelligence,1,0.007680000000000001
+wikipedia,explore_exploit,Artificial Superintelligence,2,0.009
+wikipedia,explore_exploit,Artificial Superintelligence,3,0.00784
+wikipedia,explore_exploit,Artificial Superintelligence,4,0.00744
+wikipedia,explore_exploit,Artificial Superintelligence,5,0.006920000000000001
+wikipedia,explore_exploit,Artificial Superintelligence,6,0.007640000000000001
+wikipedia,explore_exploit,Artificial Superintelligence,7,0.00812
+wikipedia,explore_exploit,Artificial Superintelligence,8,0.006319999999999999
+wikipedia,explore_exploit,Artificial Superintelligence,9,0.007680000000000001
+wikipedia,explore_exploit,Artificial Superintelligence,10,0.007680000000000001
+wikipedia,explore_exploit,Artificial Superintelligence,11,0.008840000000000002
+wikipedia,explore_exploit,Artificial Superintelligence,12,0.00872
+wikipedia,explore_exploit,Artificial Superintelligence,13,0.00844
+wikipedia,explore_exploit,Artificial Superintelligence,14,0.00856
+wikipedia,explore_exploit,Carl Jung,0,0.00908
+wikipedia,explore_exploit,Carl Jung,1,0.01008
+wikipedia,explore_exploit,Carl Jung,2,0.01008
+wikipedia,explore_exploit,Carl Jung,3,0.00976
+wikipedia,explore_exploit,Carl Jung,4,0.009040000000000001
+wikipedia,explore_exploit,Carl Jung,5,0.010159999999999999
+wikipedia,explore_exploit,Carl Jung,6,0.00996
+wikipedia,explore_exploit,Carl Jung,7,0.009000000000000001
+wikipedia,explore_exploit,Carl Jung,8,0.00868
+wikipedia,explore_exploit,Carl Jung,9,0.00896
+wikipedia,explore_exploit,Carl Jung,10,0.009880000000000002
+wikipedia,explore_exploit,Carl Jung,11,0.009839999999999998
+wikipedia,explore_exploit,Carl Jung,12,0.009600000000000001
+wikipedia,explore_exploit,Carl Jung,13,0.01008
+wikipedia,explore_exploit,Carl Jung,14,0.00928
+wikipedia,explore_exploit,Friedrich Nietzsche,0,0.016239999999999997
+wikipedia,explore_exploit,Friedrich Nietzsche,1,0.01668
+wikipedia,explore_exploit,Friedrich Nietzsche,2,0.01616
+wikipedia,explore_exploit,Friedrich Nietzsche,3,0.01632
+wikipedia,explore_exploit,Friedrich Nietzsche,4,0.015159999999999998
+wikipedia,explore_exploit,Friedrich Nietzsche,5,0.01552
+wikipedia,explore_exploit,Friedrich Nietzsche,6,0.014360000000000001
+wikipedia,explore_exploit,Friedrich Nietzsche,7,0.0162
+wikipedia,explore_exploit,Friedrich Nietzsche,8,0.015480000000000002
+wikipedia,explore_exploit,Friedrich Nietzsche,9,0.01484
+wikipedia,explore_exploit,Friedrich Nietzsche,10,0.01588
+wikipedia,explore_exploit,Friedrich Nietzsche,11,0.01608
+wikipedia,explore_exploit,Friedrich Nietzsche,12,0.01664
+wikipedia,explore_exploit,Friedrich Nietzsche,13,0.01532
+wikipedia,explore_exploit,Friedrich Nietzsche,14,0.01728
+wikipedia,explore_exploit,History of film,0,0.010839999999999999
+wikipedia,explore_exploit,History of film,1,0.0112
+wikipedia,explore_exploit,History of film,2,0.01236
+wikipedia,explore_exploit,History of film,3,0.0128
+wikipedia,explore_exploit,History of film,4,0.011359999999999999
+wikipedia,explore_exploit,History of film,5,0.00968
+wikipedia,explore_exploit,History of film,6,0.01144
+wikipedia,explore_exploit,History of film,7,0.01052
+wikipedia,explore_exploit,History of film,8,0.009839999999999998
+wikipedia,explore_exploit,History of film,9,0.013399999999999999
+wikipedia,explore_exploit,History of film,10,0.010960000000000001
+wikipedia,explore_exploit,History of film,11,0.01144
+wikipedia,explore_exploit,History of film,12,0.013120000000000001
+wikipedia,explore_exploit,History of film,13,0.012759999999999999
+wikipedia,explore_exploit,History of film,14,0.01108
+wikipedia,explore_exploit,Ketogenic diet,0,0.00552
+wikipedia,explore_exploit,Ketogenic diet,1,0.0074800000000000005
+wikipedia,explore_exploit,Ketogenic diet,2,0.0061600000000000005
+wikipedia,explore_exploit,Ketogenic diet,3,0.00792
+wikipedia,explore_exploit,Ketogenic diet,4,0.007240000000000001
+wikipedia,explore_exploit,Ketogenic diet,5,0.00472
+wikipedia,explore_exploit,Ketogenic diet,6,0.00664
+wikipedia,explore_exploit,Ketogenic diet,7,0.007039999999999999
+wikipedia,explore_exploit,Ketogenic diet,8,0.00588
+wikipedia,explore_exploit,Ketogenic diet,9,0.00568
+wikipedia,explore_exploit,Ketogenic diet,10,0.005880000000000001
+wikipedia,explore_exploit,Ketogenic diet,11,0.0068000000000000005
+wikipedia,explore_exploit,Ketogenic diet,12,0.00792
+wikipedia,explore_exploit,Ketogenic diet,13,0.007200000000000001
+wikipedia,explore_exploit,Ketogenic diet,14,0.0054800000000000005
+wikipedia,explore_exploit,Petra,0,0.008879999999999999
+wikipedia,explore_exploit,Petra,1,0.01008
+wikipedia,explore_exploit,Petra,2,0.01032
+wikipedia,explore_exploit,Petra,3,0.00976
+wikipedia,explore_exploit,Petra,4,0.00844
+wikipedia,explore_exploit,Petra,5,0.00908
+wikipedia,explore_exploit,Petra,6,0.00936
+wikipedia,explore_exploit,Petra,7,0.009
+wikipedia,explore_exploit,Petra,8,0.008400000000000001
+wikipedia,explore_exploit,Petra,9,0.00948
+wikipedia,explore_exploit,Petra,10,0.00984
+wikipedia,explore_exploit,Petra,11,0.009760000000000001
+wikipedia,explore_exploit,Petra,12,0.011040000000000001
+wikipedia,explore_exploit,Petra,13,0.010719999999999999
+wikipedia,explore_exploit,Petra,14,0.009919999999999998
+wikipedia,explore_exploit,Socotra,0,0.0118
+wikipedia,explore_exploit,Socotra,1,0.01444
+wikipedia,explore_exploit,Socotra,2,0.015359999999999999
+wikipedia,explore_exploit,Socotra,3,0.012
+wikipedia,explore_exploit,Socotra,4,0.0132
+wikipedia,explore_exploit,Socotra,5,0.01348
+wikipedia,explore_exploit,Socotra,6,0.01416
+wikipedia,explore_exploit,Socotra,7,0.0126
+wikipedia,explore_exploit,Socotra,8,0.01048
+wikipedia,explore_exploit,Socotra,9,0.013000000000000001
+wikipedia,explore_exploit,Socotra,10,0.0132
+wikipedia,explore_exploit,Socotra,11,0.015040000000000001
+wikipedia,explore_exploit,Socotra,12,0.01192
+wikipedia,explore_exploit,Socotra,13,0.01356
+wikipedia,explore_exploit,Socotra,14,0.01252
+wikipedia,explore_exploit,Stoicism,0,0.00872
+wikipedia,explore_exploit,Stoicism,1,0.009760000000000001
+wikipedia,explore_exploit,Stoicism,2,0.010839999999999999
+wikipedia,explore_exploit,Stoicism,3,0.01056
+wikipedia,explore_exploit,Stoicism,4,0.00932
+wikipedia,explore_exploit,Stoicism,5,0.0094
+wikipedia,explore_exploit,Stoicism,6,0.01024
+wikipedia,explore_exploit,Stoicism,7,0.0098
+wikipedia,explore_exploit,Stoicism,8,0.009519999999999999
+wikipedia,explore_exploit,Stoicism,9,0.0092
+wikipedia,explore_exploit,Stoicism,10,0.01032
+wikipedia,explore_exploit,Stoicism,11,0.00896
+wikipedia,explore_exploit,Stoicism,12,0.010599999999999998
+wikipedia,explore_exploit,Stoicism,13,0.009920000000000002
+wikipedia,explore_exploit,Stoicism,14,0.00908
+wikipedia,explore_exploit,The Beatles' rooftop concert,0,0.014599999999999998
+wikipedia,explore_exploit,The Beatles' rooftop concert,1,0.0172
+wikipedia,explore_exploit,The Beatles' rooftop concert,2,0.01676
+wikipedia,explore_exploit,The Beatles' rooftop concert,3,0.015000000000000003
+wikipedia,explore_exploit,The Beatles' rooftop concert,4,0.01452
+wikipedia,explore_exploit,The Beatles' rooftop concert,5,0.01484
+wikipedia,explore_exploit,The Beatles' rooftop concert,6,0.01684
+wikipedia,explore_exploit,The Beatles' rooftop concert,7,0.014599999999999998
+wikipedia,explore_exploit,The Beatles' rooftop concert,8,0.01544
+wikipedia,explore_exploit,The Beatles' rooftop concert,9,0.01596
+wikipedia,explore_exploit,The Beatles' rooftop concert,10,0.014160000000000002
+wikipedia,explore_exploit,The Beatles' rooftop concert,11,0.014720000000000002
+wikipedia,explore_exploit,The Beatles' rooftop concert,12,0.0164
+wikipedia,explore_exploit,The Beatles' rooftop concert,13,0.01636
+wikipedia,explore_exploit,The Beatles' rooftop concert,14,0.01716
+wikipedia,explore_exploit,Vinson Massif,0,0.00784
+wikipedia,explore_exploit,Vinson Massif,1,0.008799999999999999
+wikipedia,explore_exploit,Vinson Massif,2,0.01012
+wikipedia,explore_exploit,Vinson Massif,3,0.01036
+wikipedia,explore_exploit,Vinson Massif,4,0.007880000000000002
+wikipedia,explore_exploit,Vinson Massif,5,0.00852
+wikipedia,explore_exploit,Vinson Massif,6,0.00872
+wikipedia,explore_exploit,Vinson Massif,7,0.00976
+wikipedia,explore_exploit,Vinson Massif,8,0.00872
+wikipedia,explore_exploit,Vinson Massif,9,0.00888
+wikipedia,explore_exploit,Vinson Massif,10,0.00936
+wikipedia,explore_exploit,Vinson Massif,11,0.00848
+wikipedia,explore_exploit,Vinson Massif,12,0.0098
+wikipedia,explore_exploit,Vinson Massif,13,0.00892
+wikipedia,explore_exploit,Vinson Massif,14,0.0074800000000000005
+wikipedia,explore_exploit,__MEAN__,0,0.010079999999999999
+wikipedia,explore_exploit,__MEAN__,1,0.01134
+wikipedia,explore_exploit,__MEAN__,2,0.011716
+wikipedia,explore_exploit,__MEAN__,3,0.011232
+wikipedia,explore_exploit,__MEAN__,4,0.01036
+wikipedia,explore_exploit,__MEAN__,5,0.010232
+wikipedia,explore_exploit,__MEAN__,6,0.010936000000000001
+wikipedia,explore_exploit,__MEAN__,7,0.010664
+wikipedia,explore_exploit,__MEAN__,8,0.009876
+wikipedia,explore_exploit,__MEAN__,9,0.010707999999999999
+wikipedia,explore_exploit,__MEAN__,10,0.010716
+wikipedia,explore_exploit,__MEAN__,11,0.010996
+wikipedia,explore_exploit,__MEAN__,12,0.011576
+wikipedia,explore_exploit,__MEAN__,13,0.011328000000000001
+wikipedia,explore_exploit,__MEAN__,14,0.010784
+ecommerce,no_drop,Area Rugs,0,0.0064
+ecommerce,no_drop,Area Rugs,1,0.0062
+ecommerce,no_drop,Area Rugs,2,0.0051142857142857144
+ecommerce,no_drop,Area Rugs,3,0.004975
+ecommerce,no_drop,Area Rugs,4,0.004311111111111112
+ecommerce,no_drop,Area Rugs,5,0.0037777777777777775
+ecommerce,no_drop,Area Rugs,6,0.004866666666666667
+ecommerce,no_drop,Area Rugs,7,0.0042
+ecommerce,no_drop,Area Rugs,8,0.0034799999999999996
+ecommerce,no_drop,Area Rugs,9,0.0037400000000000003
+ecommerce,no_drop,Area Rugs,10,0.0036999999999999997
+ecommerce,no_drop,Area Rugs,11,0.00426
+ecommerce,no_drop,Area Rugs,12,0.0037454545454545453
+ecommerce,no_drop,Area Rugs,13,0.00345
+ecommerce,no_drop,Area Rugs,14,0.003276923076923077
+ecommerce,no_drop,Coaxial Cables,0,0.0038
+ecommerce,no_drop,Coaxial Cables,1,0.004233333333333333
+ecommerce,no_drop,Coaxial Cables,2,0.004228571428571428
+ecommerce,no_drop,Coaxial Cables,3,0.0040750000000000005
+ecommerce,no_drop,Coaxial Cables,4,0.0032222222222222222
+ecommerce,no_drop,Coaxial Cables,5,0.0024888888888888894
+ecommerce,no_drop,Coaxial Cables,6,0.0026400000000000004
+ecommerce,no_drop,Coaxial Cables,7,0.002709090909090909
+ecommerce,no_drop,Coaxial Cables,8,0.0027833333333333334
+ecommerce,no_drop,Coaxial Cables,9,0.0022615384615384615
+ecommerce,no_drop,Coaxial Cables,10,0.0017571428571428575
+ecommerce,no_drop,Coaxial Cables,11,0.002133333333333333
+ecommerce,no_drop,Coaxial Cables,12,0.0018874999999999999
+ecommerce,no_drop,Coaxial Cables,13,0.0014874999999999999
+ecommerce,no_drop,Coaxial Cables,14,0.0019058823529411763
+ecommerce,no_drop,Cookware Sets,0,0.005719999999999999
+ecommerce,no_drop,Cookware Sets,1,0.0055000000000000005
+ecommerce,no_drop,Cookware Sets,2,0.005314285714285714
+ecommerce,no_drop,Cookware Sets,3,0.0043
+ecommerce,no_drop,Cookware Sets,4,0.0041111111111111105
+ecommerce,no_drop,Cookware Sets,5,0.00324
+ecommerce,no_drop,Cookware Sets,6,0.0032909090909090913
+ecommerce,no_drop,Cookware Sets,7,0.0030833333333333333
+ecommerce,no_drop,Cookware Sets,8,0.00315
+ecommerce,no_drop,Cookware Sets,9,0.0024153846153846152
+ecommerce,no_drop,Cookware Sets,10,0.0026769230769230767
+ecommerce,no_drop,Cookware Sets,11,0.002614285714285714
+ecommerce,no_drop,Cookware Sets,12,0.0024
+ecommerce,no_drop,Cookware Sets,13,0.002613333333333333
+ecommerce,no_drop,Cookware Sets,14,0.002426666666666667
+ecommerce,no_drop,DVI,0,0.0026000000000000003
+ecommerce,no_drop,DVI,1,0.0033000000000000004
+ecommerce,no_drop,DVI,2,0.003
+ecommerce,no_drop,DVI,3,0.003025
+ecommerce,no_drop,DVI,4,0.0021333333333333334
+ecommerce,no_drop,DVI,5,0.0019199999999999998
+ecommerce,no_drop,DVI,6,0.0017999999999999997
+ecommerce,no_drop,DVI,7,0.0019
+ecommerce,no_drop,DVI,8,0.0014615384615384616
+ecommerce,no_drop,DVI,9,0.001969230769230769
+ecommerce,no_drop,DVI,10,0.0016000000000000003
+ecommerce,no_drop,DVI,11,0.0014923076923076923
+ecommerce,no_drop,DVI,12,0.001507692307692308
+ecommerce,no_drop,DVI,13,0.0016857142857142858
+ecommerce,no_drop,DVI,14,0.0011600000000000002
+ecommerce,no_drop,Kitchen Sinks,0,0.0094
+ecommerce,no_drop,Kitchen Sinks,1,0.008133333333333333
+ecommerce,no_drop,Kitchen Sinks,2,0.00817142857142857
+ecommerce,no_drop,Kitchen Sinks,3,0.007124999999999999
+ecommerce,no_drop,Kitchen Sinks,4,0.005875
+ecommerce,no_drop,Kitchen Sinks,5,0.0054666666666666665
+ecommerce,no_drop,Kitchen Sinks,6,0.005659999999999999
+ecommerce,no_drop,Kitchen Sinks,7,0.005018181818181818
+ecommerce,no_drop,Kitchen Sinks,8,0.005000000000000001
+ecommerce,no_drop,Kitchen Sinks,9,0.004369230769230769
+ecommerce,no_drop,Kitchen Sinks,10,0.004246153846153846
+ecommerce,no_drop,Kitchen Sinks,11,0.004276923076923077
+ecommerce,no_drop,Kitchen Sinks,12,0.003585714285714286
+ecommerce,no_drop,Kitchen Sinks,13,0.004671428571428571
+ecommerce,no_drop,Kitchen Sinks,14,0.0036
+ecommerce,no_drop,Lighting Cables,0,0.00468
+ecommerce,no_drop,Lighting Cables,1,0.0043
+ecommerce,no_drop,Lighting Cables,2,0.004285714285714287
+ecommerce,no_drop,Lighting Cables,3,0.00315
+ecommerce,no_drop,Lighting Cables,4,0.0030444444444444442
+ecommerce,no_drop,Lighting Cables,5,0.003
+ecommerce,no_drop,Lighting Cables,6,0.0033333333333333335
+ecommerce,no_drop,Lighting Cables,7,0.00306
+ecommerce,no_drop,Lighting Cables,8,0.00252
+ecommerce,no_drop,Lighting Cables,9,0.0026
+ecommerce,no_drop,Lighting Cables,10,0.002781818181818182
+ecommerce,no_drop,Lighting Cables,11,0.002472727272727273
+ecommerce,no_drop,Lighting Cables,12,0.0024545454545454545
+ecommerce,no_drop,Lighting Cables,13,0.0030727272727272725
+ecommerce,no_drop,Lighting Cables,14,0.0017999999999999997
+ecommerce,no_drop,Measuring Tools & Scales,0,0.005520000000000001
+ecommerce,no_drop,Measuring Tools & Scales,1,0.0051
+ecommerce,no_drop,Measuring Tools & Scales,2,0.005266666666666666
+ecommerce,no_drop,Measuring Tools & Scales,3,0.005466666666666667
+ecommerce,no_drop,Measuring Tools & Scales,4,0.004742857142857143
+ecommerce,no_drop,Measuring Tools & Scales,5,0.004175
+ecommerce,no_drop,Measuring Tools & Scales,6,0.0038749999999999995
+ecommerce,no_drop,Measuring Tools & Scales,7,0.003525
+ecommerce,no_drop,Measuring Tools & Scales,8,0.0032666666666666664
+ecommerce,no_drop,Measuring Tools & Scales,9,0.00298
+ecommerce,no_drop,Measuring Tools & Scales,10,0.0030800000000000003
+ecommerce,no_drop,Measuring Tools & Scales,11,0.00352
+ecommerce,no_drop,Measuring Tools & Scales,12,0.00312
+ecommerce,no_drop,Measuring Tools & Scales,13,0.0031399999999999996
+ecommerce,no_drop,Measuring Tools & Scales,14,0.0031599999999999996
+ecommerce,no_drop,Spray Bottles,0,0.00688
+ecommerce,no_drop,Spray Bottles,1,0.006266666666666667
+ecommerce,no_drop,Spray Bottles,2,0.005942857142857144
+ecommerce,no_drop,Spray Bottles,3,0.005600000000000001
+ecommerce,no_drop,Spray Bottles,4,0.003975
+ecommerce,no_drop,Spray Bottles,5,0.0037333333333333337
+ecommerce,no_drop,Spray Bottles,6,0.00334
+ecommerce,no_drop,Spray Bottles,7,0.0034545454545454545
+ecommerce,no_drop,Spray Bottles,8,0.0039454545454545445
+ecommerce,no_drop,Spray Bottles,9,0.0033666666666666667
+ecommerce,no_drop,Spray Bottles,10,0.00345
+ecommerce,no_drop,Spray Bottles,11,0.0030833333333333333
+ecommerce,no_drop,Spray Bottles,12,0.0030307692307692305
+ecommerce,no_drop,Spray Bottles,13,0.002671428571428571
+ecommerce,no_drop,Spray Bottles,14,0.00236
+ecommerce,no_drop,TV Antennas,0,0.00312
+ecommerce,no_drop,TV Antennas,1,0.0030666666666666668
+ecommerce,no_drop,TV Antennas,2,0.0034000000000000002
+ecommerce,no_drop,TV Antennas,3,0.002875
+ecommerce,no_drop,TV Antennas,4,0.0024
+ecommerce,no_drop,TV Antennas,5,0.0024
+ecommerce,no_drop,TV Antennas,6,0.00256
+ecommerce,no_drop,TV Antennas,7,0.0027
+ecommerce,no_drop,TV Antennas,8,0.0025
+ecommerce,no_drop,TV Antennas,9,0.00226
+ecommerce,no_drop,TV Antennas,10,0.0020545454545454543
+ecommerce,no_drop,TV Antennas,11,0.00215
+ecommerce,no_drop,TV Antennas,12,0.0020615384615384614
+ecommerce,no_drop,TV Antennas,13,0.001892307692307692
+ecommerce,no_drop,TV Antennas,14,0.0020615384615384614
+ecommerce,no_drop,Wall Plates,0,0.00572
+ecommerce,no_drop,Wall Plates,1,0.005666666666666667
+ecommerce,no_drop,Wall Plates,2,0.005085714285714285
+ecommerce,no_drop,Wall Plates,3,0.004824999999999999
+ecommerce,no_drop,Wall Plates,4,0.0031555555555555555
+ecommerce,no_drop,Wall Plates,5,0.00358
+ecommerce,no_drop,Wall Plates,6,0.0031272727272727272
+ecommerce,no_drop,Wall Plates,7,0.002766666666666667
+ecommerce,no_drop,Wall Plates,8,0.0025076923076923076
+ecommerce,no_drop,Wall Plates,9,0.002446153846153846
+ecommerce,no_drop,Wall Plates,10,0.002342857142857143
+ecommerce,no_drop,Wall Plates,11,0.0022
+ecommerce,no_drop,Wall Plates,12,0.00224
+ecommerce,no_drop,Wall Plates,13,0.0019874999999999997
+ecommerce,no_drop,Wall Plates,14,0.0019529411764705883
+ecommerce,no_drop,__MEAN__,0,0.005384
+ecommerce,no_drop,__MEAN__,1,0.005176666666666667
+ecommerce,no_drop,__MEAN__,2,0.004980952380952381
+ecommerce,no_drop,__MEAN__,3,0.004541666666666667
+ecommerce,no_drop,__MEAN__,4,0.003697063492063492
+ecommerce,no_drop,__MEAN__,5,0.003378166666666667
+ecommerce,no_drop,__MEAN__,6,0.003449318181818182
+ecommerce,no_drop,__MEAN__,7,0.003241681818181818
+ecommerce,no_drop,__MEAN__,8,0.0030614685314685314
+ecommerce,no_drop,__MEAN__,9,0.002840820512820513
+ecommerce,no_drop,__MEAN__,10,0.002768944055944056
+ecommerce,no_drop,__MEAN__,11,0.002820291042291042
+ecommerce,no_drop,__MEAN__,12,0.0026033214285714284
+ecommerce,no_drop,__MEAN__,13,0.0026671939726939727
+ecommerce,no_drop,__MEAN__,14,0.002370395173453997
+ecommerce,random_ctr,Area Rugs,0,0.006720000000000001
+ecommerce,random_ctr,Area Rugs,1,0.00756
+ecommerce,random_ctr,Area Rugs,2,0.00852
+ecommerce,random_ctr,Area Rugs,3,0.00868
+ecommerce,random_ctr,Area Rugs,4,0.007800000000000001
+ecommerce,random_ctr,Area Rugs,5,0.007680000000000001
+ecommerce,random_ctr,Area Rugs,6,0.00836
+ecommerce,random_ctr,Area Rugs,7,0.00852
+ecommerce,random_ctr,Area Rugs,8,0.007239999999999999
+ecommerce,random_ctr,Area Rugs,9,0.00756
+ecommerce,random_ctr,Area Rugs,10,0.007600000000000001
+ecommerce,random_ctr,Area Rugs,11,0.0084
+ecommerce,random_ctr,Area Rugs,12,0.00988
+ecommerce,random_ctr,Area Rugs,13,0.00908
+ecommerce,random_ctr,Area Rugs,14,0.008
+ecommerce,random_ctr,Coaxial Cables,0,0.004200000000000001
+ecommerce,random_ctr,Coaxial Cables,1,0.0046
+ecommerce,random_ctr,Coaxial Cables,2,0.005599999999999999
+ecommerce,random_ctr,Coaxial Cables,3,0.00572
+ecommerce,random_ctr,Coaxial Cables,4,0.004280000000000001
+ecommerce,random_ctr,Coaxial Cables,5,0.00496
+ecommerce,random_ctr,Coaxial Cables,6,0.00592
+ecommerce,random_ctr,Coaxial Cables,7,0.00636
+ecommerce,random_ctr,Coaxial Cables,8,0.00664
+ecommerce,random_ctr,Coaxial Cables,9,0.0058000000000000005
+ecommerce,random_ctr,Coaxial Cables,10,0.00596
+ecommerce,random_ctr,Coaxial Cables,11,0.00668
+ecommerce,random_ctr,Coaxial Cables,12,0.007679999999999999
+ecommerce,random_ctr,Coaxial Cables,13,0.006319999999999999
+ecommerce,random_ctr,Coaxial Cables,14,0.00692
+ecommerce,random_ctr,Cookware Sets,0,0.006039999999999999
+ecommerce,random_ctr,Cookware Sets,1,0.00704
+ecommerce,random_ctr,Cookware Sets,2,0.0076
+ecommerce,random_ctr,Cookware Sets,3,0.00776
+ecommerce,random_ctr,Cookware Sets,4,0.006840000000000001
+ecommerce,random_ctr,Cookware Sets,5,0.0061200000000000004
+ecommerce,random_ctr,Cookware Sets,6,0.00636
+ecommerce,random_ctr,Cookware Sets,7,0.006320000000000001
+ecommerce,random_ctr,Cookware Sets,8,0.0062
+ecommerce,random_ctr,Cookware Sets,9,0.0073999999999999995
+ecommerce,random_ctr,Cookware Sets,10,0.0061600000000000005
+ecommerce,random_ctr,Cookware Sets,11,0.007759999999999999
+ecommerce,random_ctr,Cookware Sets,12,0.0082
+ecommerce,random_ctr,Cookware Sets,13,0.007000000000000001
+ecommerce,random_ctr,Cookware Sets,14,0.007679999999999999
+ecommerce,random_ctr,DVI,0,0.00268
+ecommerce,random_ctr,DVI,1,0.0032
+ecommerce,random_ctr,DVI,2,0.0044800000000000005
+ecommerce,random_ctr,DVI,3,0.004200000000000001
+ecommerce,random_ctr,DVI,4,0.00388
+ecommerce,random_ctr,DVI,5,0.0034799999999999996
+ecommerce,random_ctr,DVI,6,0.00436
+ecommerce,random_ctr,DVI,7,0.0048000000000000004
+ecommerce,random_ctr,DVI,8,0.004399999999999999
+ecommerce,random_ctr,DVI,9,0.0032
+ecommerce,random_ctr,DVI,10,0.00404
+ecommerce,random_ctr,DVI,11,0.00544
+ecommerce,random_ctr,DVI,12,0.00456
+ecommerce,random_ctr,DVI,13,0.00424
+ecommerce,random_ctr,DVI,14,0.0038399999999999997
+ecommerce,random_ctr,Kitchen Sinks,0,0.009319999999999998
+ecommerce,random_ctr,Kitchen Sinks,1,0.010239999999999999
+ecommerce,random_ctr,Kitchen Sinks,2,0.01252
+ecommerce,random_ctr,Kitchen Sinks,3,0.012240000000000001
+ecommerce,random_ctr,Kitchen Sinks,4,0.01168
+ecommerce,random_ctr,Kitchen Sinks,5,0.012639999999999998
+ecommerce,random_ctr,Kitchen Sinks,6,0.012760000000000002
+ecommerce,random_ctr,Kitchen Sinks,7,0.012199999999999999
+ecommerce,random_ctr,Kitchen Sinks,8,0.01012
+ecommerce,random_ctr,Kitchen Sinks,9,0.01248
+ecommerce,random_ctr,Kitchen Sinks,10,0.010239999999999999
+ecommerce,random_ctr,Kitchen Sinks,11,0.011879999999999998
+ecommerce,random_ctr,Kitchen Sinks,12,0.01272
+ecommerce,random_ctr,Kitchen Sinks,13,0.010719999999999999
+ecommerce,random_ctr,Kitchen Sinks,14,0.011
+ecommerce,random_ctr,Lighting Cables,0,0.00448
+ecommerce,random_ctr,Lighting Cables,1,0.00504
+ecommerce,random_ctr,Lighting Cables,2,0.0058
+ecommerce,random_ctr,Lighting Cables,3,0.007279999999999999
+ecommerce,random_ctr,Lighting Cables,4,0.005399999999999999
+ecommerce,random_ctr,Lighting Cables,5,0.004960000000000001
+ecommerce,random_ctr,Lighting Cables,6,0.0052
+ecommerce,random_ctr,Lighting Cables,7,0.00608
+ecommerce,random_ctr,Lighting Cables,8,0.006
+ecommerce,random_ctr,Lighting Cables,9,0.00516
+ecommerce,random_ctr,Lighting Cables,10,0.0057599999999999995
+ecommerce,random_ctr,Lighting Cables,11,0.00552
+ecommerce,random_ctr,Lighting Cables,12,0.00596
+ecommerce,random_ctr,Lighting Cables,13,0.006279999999999999
+ecommerce,random_ctr,Lighting Cables,14,0.0061600000000000005
+ecommerce,random_ctr,Measuring Tools & Scales,0,0.00528
+ecommerce,random_ctr,Measuring Tools & Scales,1,0.00648
+ecommerce,random_ctr,Measuring Tools & Scales,2,0.00692
+ecommerce,random_ctr,Measuring Tools & Scales,3,0.0072
+ecommerce,random_ctr,Measuring Tools & Scales,4,0.0057599999999999995
+ecommerce,random_ctr,Measuring Tools & Scales,5,0.00616
+ecommerce,random_ctr,Measuring Tools & Scales,6,0.0068000000000000005
+ecommerce,random_ctr,Measuring Tools & Scales,7,0.0064399999999999995
+ecommerce,random_ctr,Measuring Tools & Scales,8,0.00568
+ecommerce,random_ctr,Measuring Tools & Scales,9,0.00604
+ecommerce,random_ctr,Measuring Tools & Scales,10,0.00648
+ecommerce,random_ctr,Measuring Tools & Scales,11,0.006959999999999999
+ecommerce,random_ctr,Measuring Tools & Scales,12,0.00728
+ecommerce,random_ctr,Measuring Tools & Scales,13,0.007520000000000001
+ecommerce,random_ctr,Measuring Tools & Scales,14,0.0073999999999999995
+ecommerce,random_ctr,Spray Bottles,0,0.00688
+ecommerce,random_ctr,Spray Bottles,1,0.00824
+ecommerce,random_ctr,Spray Bottles,2,0.00824
+ecommerce,random_ctr,Spray Bottles,3,0.00776
+ecommerce,random_ctr,Spray Bottles,4,0.006560000000000001
+ecommerce,random_ctr,Spray Bottles,5,0.00608
+ecommerce,random_ctr,Spray Bottles,6,0.00676
+ecommerce,random_ctr,Spray Bottles,7,0.00692
+ecommerce,random_ctr,Spray Bottles,8,0.0062
+ecommerce,random_ctr,Spray Bottles,9,0.006559999999999999
+ecommerce,random_ctr,Spray Bottles,10,0.006640000000000002
+ecommerce,random_ctr,Spray Bottles,11,0.00776
+ecommerce,random_ctr,Spray Bottles,12,0.00836
+ecommerce,random_ctr,Spray Bottles,13,0.00788
+ecommerce,random_ctr,Spray Bottles,14,0.00648
+ecommerce,random_ctr,TV Antennas,0,0.00304
+ecommerce,random_ctr,TV Antennas,1,0.0038
+ecommerce,random_ctr,TV Antennas,2,0.00532
+ecommerce,random_ctr,TV Antennas,3,0.006640000000000002
+ecommerce,random_ctr,TV Antennas,4,0.0058000000000000005
+ecommerce,random_ctr,TV Antennas,5,0.00592
+ecommerce,random_ctr,TV Antennas,6,0.00668
+ecommerce,random_ctr,TV Antennas,7,0.00668
+ecommerce,random_ctr,TV Antennas,8,0.00592
+ecommerce,random_ctr,TV Antennas,9,0.0061200000000000004
+ecommerce,random_ctr,TV Antennas,10,0.007000000000000001
+ecommerce,random_ctr,TV Antennas,11,0.00676
+ecommerce,random_ctr,TV Antennas,12,0.00692
+ecommerce,random_ctr,TV Antennas,13,0.006279999999999999
+ecommerce,random_ctr,TV Antennas,14,0.0064
+ecommerce,random_ctr,Wall Plates,0,0.005560000000000001
+ecommerce,random_ctr,Wall Plates,1,0.00708
+ecommerce,random_ctr,Wall Plates,2,0.00776
+ecommerce,random_ctr,Wall Plates,3,0.007639999999999999
+ecommerce,random_ctr,Wall Plates,4,0.007479999999999999
+ecommerce,random_ctr,Wall Plates,5,0.006280000000000001
+ecommerce,random_ctr,Wall Plates,6,0.00728
+ecommerce,random_ctr,Wall Plates,7,0.00704
+ecommerce,random_ctr,Wall Plates,8,0.0061600000000000005
+ecommerce,random_ctr,Wall Plates,9,0.00744
+ecommerce,random_ctr,Wall Plates,10,0.006719999999999999
+ecommerce,random_ctr,Wall Plates,11,0.006840000000000001
+ecommerce,random_ctr,Wall Plates,12,0.0086
+ecommerce,random_ctr,Wall Plates,13,0.00756
+ecommerce,random_ctr,Wall Plates,14,0.007039999999999999
+ecommerce,random_ctr,__MEAN__,0,0.0054199999999999995
+ecommerce,random_ctr,__MEAN__,1,0.006328
+ecommerce,random_ctr,__MEAN__,2,0.007276
+ecommerce,random_ctr,__MEAN__,3,0.0075120000000000004
+ecommerce,random_ctr,__MEAN__,4,0.006548
+ecommerce,random_ctr,__MEAN__,5,0.0064280000000000006
+ecommerce,random_ctr,__MEAN__,6,0.0070480000000000004
+ecommerce,random_ctr,__MEAN__,7,0.007136000000000001
+ecommerce,random_ctr,__MEAN__,8,0.006456000000000001
+ecommerce,random_ctr,__MEAN__,9,0.006776
+ecommerce,random_ctr,__MEAN__,10,0.006660000000000001
+ecommerce,random_ctr,__MEAN__,11,0.0073999999999999995
+ecommerce,random_ctr,__MEAN__,12,0.008015999999999999
+ecommerce,random_ctr,__MEAN__,13,0.007288
+ecommerce,random_ctr,__MEAN__,14,0.007091999999999999
+ecommerce,partial_ctr,Area Rugs,0,0.0064
+ecommerce,partial_ctr,Area Rugs,1,0.007680000000000001
+ecommerce,partial_ctr,Area Rugs,2,0.00856
+ecommerce,partial_ctr,Area Rugs,3,0.008479999999999998
+ecommerce,partial_ctr,Area Rugs,4,0.008119999999999999
+ecommerce,partial_ctr,Area Rugs,5,0.008
+ecommerce,partial_ctr,Area Rugs,6,0.00904
+ecommerce,partial_ctr,Area Rugs,7,0.008119999999999999
+ecommerce,partial_ctr,Area Rugs,8,0.007639999999999999
+ecommerce,partial_ctr,Area Rugs,9,0.007759999999999999
+ecommerce,partial_ctr,Area Rugs,10,0.00984
+ecommerce,partial_ctr,Area Rugs,11,0.010719999999999999
+ecommerce,partial_ctr,Area Rugs,12,0.01056
+ecommerce,partial_ctr,Area Rugs,13,0.01024
+ecommerce,partial_ctr,Area Rugs,14,0.00972
+ecommerce,partial_ctr,Coaxial Cables,0,0.0038
+ecommerce,partial_ctr,Coaxial Cables,1,0.00484
+ecommerce,partial_ctr,Coaxial Cables,2,0.00572
+ecommerce,partial_ctr,Coaxial Cables,3,0.006959999999999999
+ecommerce,partial_ctr,Coaxial Cables,4,0.00596
+ecommerce,partial_ctr,Coaxial Cables,5,0.0061200000000000004
+ecommerce,partial_ctr,Coaxial Cables,6,0.0067599999999999995
+ecommerce,partial_ctr,Coaxial Cables,7,0.00704
+ecommerce,partial_ctr,Coaxial Cables,8,0.0066
+ecommerce,partial_ctr,Coaxial Cables,9,0.006320000000000001
+ecommerce,partial_ctr,Coaxial Cables,10,0.0061200000000000004
+ecommerce,partial_ctr,Coaxial Cables,11,0.006959999999999999
+ecommerce,partial_ctr,Coaxial Cables,12,0.00788
+ecommerce,partial_ctr,Coaxial Cables,13,0.006279999999999999
+ecommerce,partial_ctr,Coaxial Cables,14,0.00716
+ecommerce,partial_ctr,Cookware Sets,0,0.005719999999999999
+ecommerce,partial_ctr,Cookware Sets,1,0.00692
+ecommerce,partial_ctr,Cookware Sets,2,0.00776
+ecommerce,partial_ctr,Cookware Sets,3,0.007679999999999999
+ecommerce,partial_ctr,Cookware Sets,4,0.00772
+ecommerce,partial_ctr,Cookware Sets,5,0.0066
+ecommerce,partial_ctr,Cookware Sets,6,0.008159999999999999
+ecommerce,partial_ctr,Cookware Sets,7,0.00832
+ecommerce,partial_ctr,Cookware Sets,8,0.008200000000000002
+ecommerce,partial_ctr,Cookware Sets,9,0.00716
+ecommerce,partial_ctr,Cookware Sets,10,0.00744
+ecommerce,partial_ctr,Cookware Sets,11,0.0094
+ecommerce,partial_ctr,Cookware Sets,12,0.009479999999999999
+ecommerce,partial_ctr,Cookware Sets,13,0.00912
+ecommerce,partial_ctr,Cookware Sets,14,0.00856
+ecommerce,partial_ctr,DVI,0,0.0026000000000000003
+ecommerce,partial_ctr,DVI,1,0.00344
+ecommerce,partial_ctr,DVI,2,0.0048000000000000004
+ecommerce,partial_ctr,DVI,3,0.006520000000000001
+ecommerce,partial_ctr,DVI,4,0.00424
+ecommerce,partial_ctr,DVI,5,0.00388
+ecommerce,partial_ctr,DVI,6,0.00452
+ecommerce,partial_ctr,DVI,7,0.0048000000000000004
+ecommerce,partial_ctr,DVI,8,0.004839999999999999
+ecommerce,partial_ctr,DVI,9,0.00532
+ecommerce,partial_ctr,DVI,10,0.0048400000000000006
+ecommerce,partial_ctr,DVI,11,0.00452
+ecommerce,partial_ctr,DVI,12,0.005200000000000001
+ecommerce,partial_ctr,DVI,13,0.00484
+ecommerce,partial_ctr,DVI,14,0.00396
+ecommerce,partial_ctr,Kitchen Sinks,0,0.0094
+ecommerce,partial_ctr,Kitchen Sinks,1,0.01048
+ecommerce,partial_ctr,Kitchen Sinks,2,0.01216
+ecommerce,partial_ctr,Kitchen Sinks,3,0.013120000000000001
+ecommerce,partial_ctr,Kitchen Sinks,4,0.01136
+ecommerce,partial_ctr,Kitchen Sinks,5,0.011720000000000001
+ecommerce,partial_ctr,Kitchen Sinks,6,0.012879999999999999
+ecommerce,partial_ctr,Kitchen Sinks,7,0.013439999999999999
+ecommerce,partial_ctr,Kitchen Sinks,8,0.01164
+ecommerce,partial_ctr,Kitchen Sinks,9,0.013120000000000001
+ecommerce,partial_ctr,Kitchen Sinks,10,0.01216
+ecommerce,partial_ctr,Kitchen Sinks,11,0.013000000000000001
+ecommerce,partial_ctr,Kitchen Sinks,12,0.01364
+ecommerce,partial_ctr,Kitchen Sinks,13,0.013800000000000002
+ecommerce,partial_ctr,Kitchen Sinks,14,0.012560000000000002
+ecommerce,partial_ctr,Lighting Cables,0,0.00468
+ecommerce,partial_ctr,Lighting Cables,1,0.005359999999999999
+ecommerce,partial_ctr,Lighting Cables,2,0.006959999999999999
+ecommerce,partial_ctr,Lighting Cables,3,0.0062
+ecommerce,partial_ctr,Lighting Cables,4,0.00624
+ecommerce,partial_ctr,Lighting Cables,5,0.006279999999999999
+ecommerce,partial_ctr,Lighting Cables,6,0.00624
+ecommerce,partial_ctr,Lighting Cables,7,0.006719999999999999
+ecommerce,partial_ctr,Lighting Cables,8,0.00568
+ecommerce,partial_ctr,Lighting Cables,9,0.00592
+ecommerce,partial_ctr,Lighting Cables,10,0.006559999999999999
+ecommerce,partial_ctr,Lighting Cables,11,0.006359999999999999
+ecommerce,partial_ctr,Lighting Cables,12,0.006959999999999999
+ecommerce,partial_ctr,Lighting Cables,13,0.00688
+ecommerce,partial_ctr,Lighting Cables,14,0.0062
+ecommerce,partial_ctr,Measuring Tools & Scales,0,0.005520000000000001
+ecommerce,partial_ctr,Measuring Tools & Scales,1,0.0064
+ecommerce,partial_ctr,Measuring Tools & Scales,2,0.0072
+ecommerce,partial_ctr,Measuring Tools & Scales,3,0.00816
+ecommerce,partial_ctr,Measuring Tools & Scales,4,0.00708
+ecommerce,partial_ctr,Measuring Tools & Scales,5,0.006320000000000001
+ecommerce,partial_ctr,Measuring Tools & Scales,6,0.007239999999999999
+ecommerce,partial_ctr,Measuring Tools & Scales,7,0.0066
+ecommerce,partial_ctr,Measuring Tools & Scales,8,0.0064399999999999995
+ecommerce,partial_ctr,Measuring Tools & Scales,9,0.006560000000000001
+ecommerce,partial_ctr,Measuring Tools & Scales,10,0.00736
+ecommerce,partial_ctr,Measuring Tools & Scales,11,0.0074800000000000005
+ecommerce,partial_ctr,Measuring Tools & Scales,12,0.0074800000000000005
+ecommerce,partial_ctr,Measuring Tools & Scales,13,0.007200000000000001
+ecommerce,partial_ctr,Measuring Tools & Scales,14,0.00732
+ecommerce,partial_ctr,Spray Bottles,0,0.00688
+ecommerce,partial_ctr,Spray Bottles,1,0.008159999999999999
+ecommerce,partial_ctr,Spray Bottles,2,0.0088
+ecommerce,partial_ctr,Spray Bottles,3,0.009640000000000001
+ecommerce,partial_ctr,Spray Bottles,4,0.00832
+ecommerce,partial_ctr,Spray Bottles,5,0.007640000000000001
+ecommerce,partial_ctr,Spray Bottles,6,0.007600000000000001
+ecommerce,partial_ctr,Spray Bottles,7,0.00824
+ecommerce,partial_ctr,Spray Bottles,8,0.008400000000000001
+ecommerce,partial_ctr,Spray Bottles,9,0.007880000000000002
+ecommerce,partial_ctr,Spray Bottles,10,0.0076
+ecommerce,partial_ctr,Spray Bottles,11,0.00804
+ecommerce,partial_ctr,Spray Bottles,12,0.00988
+ecommerce,partial_ctr,Spray Bottles,13,0.00868
+ecommerce,partial_ctr,Spray Bottles,14,0.00808
+ecommerce,partial_ctr,TV Antennas,0,0.00312
+ecommerce,partial_ctr,TV Antennas,1,0.00388
+ecommerce,partial_ctr,TV Antennas,2,0.00568
+ecommerce,partial_ctr,TV Antennas,3,0.00616
+ecommerce,partial_ctr,TV Antennas,4,0.00568
+ecommerce,partial_ctr,TV Antennas,5,0.0054800000000000005
+ecommerce,partial_ctr,TV Antennas,6,0.0064399999999999995
+ecommerce,partial_ctr,TV Antennas,7,0.0064
+ecommerce,partial_ctr,TV Antennas,8,0.005960000000000001
+ecommerce,partial_ctr,TV Antennas,9,0.006279999999999999
+ecommerce,partial_ctr,TV Antennas,10,0.00612
+ecommerce,partial_ctr,TV Antennas,11,0.0066
+ecommerce,partial_ctr,TV Antennas,12,0.0076
+ecommerce,partial_ctr,TV Antennas,13,0.00596
+ecommerce,partial_ctr,TV Antennas,14,0.0067599999999999995
+ecommerce,partial_ctr,Wall Plates,0,0.00572
+ecommerce,partial_ctr,Wall Plates,1,0.007000000000000001
+ecommerce,partial_ctr,Wall Plates,2,0.007639999999999999
+ecommerce,partial_ctr,Wall Plates,3,0.00892
+ecommerce,partial_ctr,Wall Plates,4,0.0061600000000000005
+ecommerce,partial_ctr,Wall Plates,5,0.00728
+ecommerce,partial_ctr,Wall Plates,6,0.00776
+ecommerce,partial_ctr,Wall Plates,7,0.007639999999999999
+ecommerce,partial_ctr,Wall Plates,8,0.00676
+ecommerce,partial_ctr,Wall Plates,9,0.00668
+ecommerce,partial_ctr,Wall Plates,10,0.0068000000000000005
+ecommerce,partial_ctr,Wall Plates,11,0.007479999999999999
+ecommerce,partial_ctr,Wall Plates,12,0.00784
+ecommerce,partial_ctr,Wall Plates,13,0.00716
+ecommerce,partial_ctr,Wall Plates,14,0.007520000000000001
+ecommerce,partial_ctr,__MEAN__,0,0.005384
+ecommerce,partial_ctr,__MEAN__,1,0.006416
+ecommerce,partial_ctr,__MEAN__,2,0.007528
+ecommerce,partial_ctr,__MEAN__,3,0.008184
+ecommerce,partial_ctr,__MEAN__,4,0.007088
+ecommerce,partial_ctr,__MEAN__,5,0.006932000000000001
+ecommerce,partial_ctr,__MEAN__,6,0.007664
+ecommerce,partial_ctr,__MEAN__,7,0.007732
+ecommerce,partial_ctr,__MEAN__,8,0.007216
+ecommerce,partial_ctr,__MEAN__,9,0.007300000000000001
+ecommerce,partial_ctr,__MEAN__,10,0.007484
+ecommerce,partial_ctr,__MEAN__,11,0.008055999999999999
+ecommerce,partial_ctr,__MEAN__,12,0.008652
+ecommerce,partial_ctr,__MEAN__,13,0.008015999999999999
+ecommerce,partial_ctr,__MEAN__,14,0.007784000000000001
+ecommerce,full_ctr,Area Rugs,0,0.0064
+ecommerce,full_ctr,Area Rugs,1,0.007639999999999999
+ecommerce,full_ctr,Area Rugs,2,0.00868
+ecommerce,full_ctr,Area Rugs,3,0.008799999999999999
+ecommerce,full_ctr,Area Rugs,4,0.007759999999999999
+ecommerce,full_ctr,Area Rugs,5,0.0072
+ecommerce,full_ctr,Area Rugs,6,0.0084
+ecommerce,full_ctr,Area Rugs,7,0.008039999999999999
+ecommerce,full_ctr,Area Rugs,8,0.00728
+ecommerce,full_ctr,Area Rugs,9,0.007680000000000001
+ecommerce,full_ctr,Area Rugs,10,0.007959999999999998
+ecommerce,full_ctr,Area Rugs,11,0.00852
+ecommerce,full_ctr,Area Rugs,12,0.00872
+ecommerce,full_ctr,Area Rugs,13,0.00896
+ecommerce,full_ctr,Area Rugs,14,0.008400000000000001
+ecommerce,full_ctr,Coaxial Cables,0,0.0038
+ecommerce,full_ctr,Coaxial Cables,1,0.00464
+ecommerce,full_ctr,Coaxial Cables,2,0.0054399999999999995
+ecommerce,full_ctr,Coaxial Cables,3,0.0058
+ecommerce,full_ctr,Coaxial Cables,4,0.0044
+ecommerce,full_ctr,Coaxial Cables,5,0.00392
+ecommerce,full_ctr,Coaxial Cables,6,0.00484
+ecommerce,full_ctr,Coaxial Cables,7,0.004919999999999999
+ecommerce,full_ctr,Coaxial Cables,8,0.0048000000000000004
+ecommerce,full_ctr,Coaxial Cables,9,0.00476
+ecommerce,full_ctr,Coaxial Cables,10,0.0048000000000000004
+ecommerce,full_ctr,Coaxial Cables,11,0.005639999999999999
+ecommerce,full_ctr,Coaxial Cables,12,0.00652
+ecommerce,full_ctr,Coaxial Cables,13,0.004399999999999999
+ecommerce,full_ctr,Coaxial Cables,14,0.00524
+ecommerce,full_ctr,Cookware Sets,0,0.005719999999999999
+ecommerce,full_ctr,Cookware Sets,1,0.0066
+ecommerce,full_ctr,Cookware Sets,2,0.007520000000000001
+ecommerce,full_ctr,Cookware Sets,3,0.007479999999999999
+ecommerce,full_ctr,Cookware Sets,4,0.00716
+ecommerce,full_ctr,Cookware Sets,5,0.00592
+ecommerce,full_ctr,Cookware Sets,6,0.00732
+ecommerce,full_ctr,Cookware Sets,7,0.00732
+ecommerce,full_ctr,Cookware Sets,8,0.00716
+ecommerce,full_ctr,Cookware Sets,9,0.00652
+ecommerce,full_ctr,Cookware Sets,10,0.00688
+ecommerce,full_ctr,Cookware Sets,11,0.0082
+ecommerce,full_ctr,Cookware Sets,12,0.0086
+ecommerce,full_ctr,Cookware Sets,13,0.00816
+ecommerce,full_ctr,Cookware Sets,14,0.007880000000000002
+ecommerce,full_ctr,DVI,0,0.0026000000000000003
+ecommerce,full_ctr,DVI,1,0.00292
+ecommerce,full_ctr,DVI,2,0.00412
+ecommerce,full_ctr,DVI,3,0.0057599999999999995
+ecommerce,full_ctr,DVI,4,0.00432
+ecommerce,full_ctr,DVI,5,0.00392
+ecommerce,full_ctr,DVI,6,0.004360000000000001
+ecommerce,full_ctr,DVI,7,0.00492
+ecommerce,full_ctr,DVI,8,0.00464
+ecommerce,full_ctr,DVI,9,0.00488
+ecommerce,full_ctr,DVI,10,0.00464
+ecommerce,full_ctr,DVI,11,0.004719999999999999
+ecommerce,full_ctr,DVI,12,0.004999999999999999
+ecommerce,full_ctr,DVI,13,0.0048400000000000006
+ecommerce,full_ctr,DVI,14,0.0037600000000000003
+ecommerce,full_ctr,Kitchen Sinks,0,0.0094
+ecommerce,full_ctr,Kitchen Sinks,1,0.0102
+ecommerce,full_ctr,Kitchen Sinks,2,0.011080000000000001
+ecommerce,full_ctr,Kitchen Sinks,3,0.011840000000000002
+ecommerce,full_ctr,Kitchen Sinks,4,0.009640000000000001
+ecommerce,full_ctr,Kitchen Sinks,5,0.0102
+ecommerce,full_ctr,Kitchen Sinks,6,0.011479999999999999
+ecommerce,full_ctr,Kitchen Sinks,7,0.01144
+ecommerce,full_ctr,Kitchen Sinks,8,0.0098
+ecommerce,full_ctr,Kitchen Sinks,9,0.010879999999999999
+ecommerce,full_ctr,Kitchen Sinks,10,0.010360000000000001
+ecommerce,full_ctr,Kitchen Sinks,11,0.010759999999999999
+ecommerce,full_ctr,Kitchen Sinks,12,0.01104
+ecommerce,full_ctr,Kitchen Sinks,13,0.0114
+ecommerce,full_ctr,Kitchen Sinks,14,0.0102
+ecommerce,full_ctr,Lighting Cables,0,0.00468
+ecommerce,full_ctr,Lighting Cables,1,0.00504
+ecommerce,full_ctr,Lighting Cables,2,0.00612
+ecommerce,full_ctr,Lighting Cables,3,0.006
+ecommerce,full_ctr,Lighting Cables,4,0.00568
+ecommerce,full_ctr,Lighting Cables,5,0.00568
+ecommerce,full_ctr,Lighting Cables,6,0.00588
+ecommerce,full_ctr,Lighting Cables,7,0.0056
+ecommerce,full_ctr,Lighting Cables,8,0.00516
+ecommerce,full_ctr,Lighting Cables,9,0.005200000000000001
+ecommerce,full_ctr,Lighting Cables,10,0.00564
+ecommerce,full_ctr,Lighting Cables,11,0.0054399999999999995
+ecommerce,full_ctr,Lighting Cables,12,0.005599999999999999
+ecommerce,full_ctr,Lighting Cables,13,0.005880000000000001
+ecommerce,full_ctr,Lighting Cables,14,0.00572
+ecommerce,full_ctr,Measuring Tools & Scales,0,0.005520000000000001
+ecommerce,full_ctr,Measuring Tools & Scales,1,0.00596
+ecommerce,full_ctr,Measuring Tools & Scales,2,0.006840000000000001
+ecommerce,full_ctr,Measuring Tools & Scales,3,0.0073999999999999995
+ecommerce,full_ctr,Measuring Tools & Scales,4,0.006279999999999999
+ecommerce,full_ctr,Measuring Tools & Scales,5,0.0057599999999999995
+ecommerce,full_ctr,Measuring Tools & Scales,6,0.0061600000000000005
+ecommerce,full_ctr,Measuring Tools & Scales,7,0.0058000000000000005
+ecommerce,full_ctr,Measuring Tools & Scales,8,0.005599999999999999
+ecommerce,full_ctr,Measuring Tools & Scales,9,0.00564
+ecommerce,full_ctr,Measuring Tools & Scales,10,0.00592
+ecommerce,full_ctr,Measuring Tools & Scales,11,0.00604
+ecommerce,full_ctr,Measuring Tools & Scales,12,0.0068000000000000005
+ecommerce,full_ctr,Measuring Tools & Scales,13,0.0062
+ecommerce,full_ctr,Measuring Tools & Scales,14,0.00648
+ecommerce,full_ctr,Spray Bottles,0,0.00688
+ecommerce,full_ctr,Spray Bottles,1,0.00796
+ecommerce,full_ctr,Spray Bottles,2,0.0086
+ecommerce,full_ctr,Spray Bottles,3,0.009080000000000001
+ecommerce,full_ctr,Spray Bottles,4,0.007639999999999999
+ecommerce,full_ctr,Spray Bottles,5,0.007239999999999999
+ecommerce,full_ctr,Spray Bottles,6,0.00716
+ecommerce,full_ctr,Spray Bottles,7,0.00804
+ecommerce,full_ctr,Spray Bottles,8,0.008
+ecommerce,full_ctr,Spray Bottles,9,0.007520000000000001
+ecommerce,full_ctr,Spray Bottles,10,0.00732
+ecommerce,full_ctr,Spray Bottles,11,0.0074800000000000005
+ecommerce,full_ctr,Spray Bottles,12,0.008320000000000001
+ecommerce,full_ctr,Spray Bottles,13,0.00776
+ecommerce,full_ctr,Spray Bottles,14,0.00732
+ecommerce,full_ctr,TV Antennas,0,0.00312
+ecommerce,full_ctr,TV Antennas,1,0.00312
+ecommerce,full_ctr,TV Antennas,2,0.00456
+ecommerce,full_ctr,TV Antennas,3,0.00488
+ecommerce,full_ctr,TV Antennas,4,0.0042
+ecommerce,full_ctr,TV Antennas,5,0.00472
+ecommerce,full_ctr,TV Antennas,6,0.00596
+ecommerce,full_ctr,TV Antennas,7,0.0054399999999999995
+ecommerce,full_ctr,TV Antennas,8,0.005
+ecommerce,full_ctr,TV Antennas,9,0.00476
+ecommerce,full_ctr,TV Antennas,10,0.00436
+ecommerce,full_ctr,TV Antennas,11,0.005
+ecommerce,full_ctr,TV Antennas,12,0.005599999999999999
+ecommerce,full_ctr,TV Antennas,13,0.00468
+ecommerce,full_ctr,TV Antennas,14,0.00488
+ecommerce,full_ctr,Wall Plates,0,0.00572
+ecommerce,full_ctr,Wall Plates,1,0.00636
+ecommerce,full_ctr,Wall Plates,2,0.006840000000000001
+ecommerce,full_ctr,Wall Plates,3,0.00828
+ecommerce,full_ctr,Wall Plates,4,0.006
+ecommerce,full_ctr,Wall Plates,5,0.006840000000000001
+ecommerce,full_ctr,Wall Plates,6,0.00712
+ecommerce,full_ctr,Wall Plates,7,0.00716
+ecommerce,full_ctr,Wall Plates,8,0.0064
+ecommerce,full_ctr,Wall Plates,9,0.0062
+ecommerce,full_ctr,Wall Plates,10,0.00612
+ecommerce,full_ctr,Wall Plates,11,0.0067599999999999995
+ecommerce,full_ctr,Wall Plates,12,0.0067599999999999995
+ecommerce,full_ctr,Wall Plates,13,0.00652
+ecommerce,full_ctr,Wall Plates,14,0.00708
+ecommerce,full_ctr,__MEAN__,0,0.005384
+ecommerce,full_ctr,__MEAN__,1,0.006044
+ecommerce,full_ctr,__MEAN__,2,0.00698
+ecommerce,full_ctr,__MEAN__,3,0.007532
+ecommerce,full_ctr,__MEAN__,4,0.006307999999999999
+ecommerce,full_ctr,__MEAN__,5,0.00614
+ecommerce,full_ctr,__MEAN__,6,0.006868000000000001
+ecommerce,full_ctr,__MEAN__,7,0.006867999999999999
+ecommerce,full_ctr,__MEAN__,8,0.006383999999999999
+ecommerce,full_ctr,__MEAN__,9,0.006404
+ecommerce,full_ctr,__MEAN__,10,0.0064
+ecommerce,full_ctr,__MEAN__,11,0.006855999999999999
+ecommerce,full_ctr,__MEAN__,12,0.0072959999999999995
+ecommerce,full_ctr,__MEAN__,13,0.00688
+ecommerce,full_ctr,__MEAN__,14,0.0066960000000000006
+ecommerce,explore_exploit,Area Rugs,0,0.0064
+ecommerce,explore_exploit,Area Rugs,1,0.007200000000000001
+ecommerce,explore_exploit,Area Rugs,2,0.00836
+ecommerce,explore_exploit,Area Rugs,3,0.00884
+ecommerce,explore_exploit,Area Rugs,4,0.00792
+ecommerce,explore_exploit,Area Rugs,5,0.00772
+ecommerce,explore_exploit,Area Rugs,6,0.00816
+ecommerce,explore_exploit,Area Rugs,7,0.00836
+ecommerce,explore_exploit,Area Rugs,8,0.00712
+ecommerce,explore_exploit,Area Rugs,9,0.007719999999999999
+ecommerce,explore_exploit,Area Rugs,10,0.00828
+ecommerce,explore_exploit,Area Rugs,11,0.0094
+ecommerce,explore_exploit,Area Rugs,12,0.008879999999999999
+ecommerce,explore_exploit,Area Rugs,13,0.008360000000000001
+ecommerce,explore_exploit,Area Rugs,14,0.00856
+ecommerce,explore_exploit,Coaxial Cables,0,0.0038
+ecommerce,explore_exploit,Coaxial Cables,1,0.004679999999999999
+ecommerce,explore_exploit,Coaxial Cables,2,0.00544
+ecommerce,explore_exploit,Coaxial Cables,3,0.00588
+ecommerce,explore_exploit,Coaxial Cables,4,0.00456
+ecommerce,explore_exploit,Coaxial Cables,5,0.004
+ecommerce,explore_exploit,Coaxial Cables,6,0.00496
+ecommerce,explore_exploit,Coaxial Cables,7,0.0047599999999999995
+ecommerce,explore_exploit,Coaxial Cables,8,0.0044399999999999995
+ecommerce,explore_exploit,Coaxial Cables,9,0.00456
+ecommerce,explore_exploit,Coaxial Cables,10,0.004919999999999999
+ecommerce,explore_exploit,Coaxial Cables,11,0.00588
+ecommerce,explore_exploit,Coaxial Cables,12,0.006719999999999999
+ecommerce,explore_exploit,Coaxial Cables,13,0.00472
+ecommerce,explore_exploit,Coaxial Cables,14,0.00592
+ecommerce,explore_exploit,Cookware Sets,0,0.005719999999999999
+ecommerce,explore_exploit,Cookware Sets,1,0.0064399999999999995
+ecommerce,explore_exploit,Cookware Sets,2,0.0074800000000000005
+ecommerce,explore_exploit,Cookware Sets,3,0.007520000000000001
+ecommerce,explore_exploit,Cookware Sets,4,0.00732
+ecommerce,explore_exploit,Cookware Sets,5,0.006240000000000001
+ecommerce,explore_exploit,Cookware Sets,6,0.007520000000000001
+ecommerce,explore_exploit,Cookware Sets,7,0.007000000000000001
+ecommerce,explore_exploit,Cookware Sets,8,0.00708
+ecommerce,explore_exploit,Cookware Sets,9,0.00652
+ecommerce,explore_exploit,Cookware Sets,10,0.00692
+ecommerce,explore_exploit,Cookware Sets,11,0.00808
+ecommerce,explore_exploit,Cookware Sets,12,0.008639999999999998
+ecommerce,explore_exploit,Cookware Sets,13,0.00808
+ecommerce,explore_exploit,Cookware Sets,14,0.00808
+ecommerce,explore_exploit,DVI,0,0.0026000000000000003
+ecommerce,explore_exploit,DVI,1,0.00352
+ecommerce,explore_exploit,DVI,2,0.0048000000000000004
+ecommerce,explore_exploit,DVI,3,0.006599999999999999
+ecommerce,explore_exploit,DVI,4,0.004
+ecommerce,explore_exploit,DVI,5,0.0034000000000000002
+ecommerce,explore_exploit,DVI,6,0.004280000000000001
+ecommerce,explore_exploit,DVI,7,0.00456
+ecommerce,explore_exploit,DVI,8,0.00464
+ecommerce,explore_exploit,DVI,9,0.0050799999999999994
+ecommerce,explore_exploit,DVI,10,0.004520000000000001
+ecommerce,explore_exploit,DVI,11,0.004360000000000001
+ecommerce,explore_exploit,DVI,12,0.00524
+ecommerce,explore_exploit,DVI,13,0.004999999999999999
+ecommerce,explore_exploit,DVI,14,0.00424
+ecommerce,explore_exploit,Kitchen Sinks,0,0.0094
+ecommerce,explore_exploit,Kitchen Sinks,1,0.00984
+ecommerce,explore_exploit,Kitchen Sinks,2,0.010920000000000001
+ecommerce,explore_exploit,Kitchen Sinks,3,0.01132
+ecommerce,explore_exploit,Kitchen Sinks,4,0.00988
+ecommerce,explore_exploit,Kitchen Sinks,5,0.010400000000000001
+ecommerce,explore_exploit,Kitchen Sinks,6,0.011839999999999998
+ecommerce,explore_exploit,Kitchen Sinks,7,0.012759999999999999
+ecommerce,explore_exploit,Kitchen Sinks,8,0.011039999999999998
+ecommerce,explore_exploit,Kitchen Sinks,9,0.012559999999999998
+ecommerce,explore_exploit,Kitchen Sinks,10,0.01116
+ecommerce,explore_exploit,Kitchen Sinks,11,0.01148
+ecommerce,explore_exploit,Kitchen Sinks,12,0.012399999999999998
+ecommerce,explore_exploit,Kitchen Sinks,13,0.012320000000000001
+ecommerce,explore_exploit,Kitchen Sinks,14,0.01136
+ecommerce,explore_exploit,Lighting Cables,0,0.00468
+ecommerce,explore_exploit,Lighting Cables,1,0.0051199999999999996
+ecommerce,explore_exploit,Lighting Cables,2,0.006040000000000001
+ecommerce,explore_exploit,Lighting Cables,3,0.00588
+ecommerce,explore_exploit,Lighting Cables,4,0.00532
+ecommerce,explore_exploit,Lighting Cables,5,0.005
+ecommerce,explore_exploit,Lighting Cables,6,0.005600000000000001
+ecommerce,explore_exploit,Lighting Cables,7,0.006039999999999999
+ecommerce,explore_exploit,Lighting Cables,8,0.005199999999999999
+ecommerce,explore_exploit,Lighting Cables,9,0.00504
+ecommerce,explore_exploit,Lighting Cables,10,0.00596
+ecommerce,explore_exploit,Lighting Cables,11,0.005560000000000001
+ecommerce,explore_exploit,Lighting Cables,12,0.00636
+ecommerce,explore_exploit,Lighting Cables,13,0.006359999999999999
+ecommerce,explore_exploit,Lighting Cables,14,0.005520000000000001
+ecommerce,explore_exploit,Measuring Tools & Scales,0,0.005520000000000001
+ecommerce,explore_exploit,Measuring Tools & Scales,1,0.0058
+ecommerce,explore_exploit,Measuring Tools & Scales,2,0.00648
+ecommerce,explore_exploit,Measuring Tools & Scales,3,0.0072
+ecommerce,explore_exploit,Measuring Tools & Scales,4,0.0066
+ecommerce,explore_exploit,Measuring Tools & Scales,5,0.00596
+ecommerce,explore_exploit,Measuring Tools & Scales,6,0.007000000000000001
+ecommerce,explore_exploit,Measuring Tools & Scales,7,0.00624
+ecommerce,explore_exploit,Measuring Tools & Scales,8,0.005840000000000001
+ecommerce,explore_exploit,Measuring Tools & Scales,9,0.006240000000000001
+ecommerce,explore_exploit,Measuring Tools & Scales,10,0.00664
+ecommerce,explore_exploit,Measuring Tools & Scales,11,0.007000000000000001
+ecommerce,explore_exploit,Measuring Tools & Scales,12,0.00708
+ecommerce,explore_exploit,Measuring Tools & Scales,13,0.0064399999999999995
+ecommerce,explore_exploit,Measuring Tools & Scales,14,0.006840000000000001
+ecommerce,explore_exploit,Spray Bottles,0,0.00688
+ecommerce,explore_exploit,Spray Bottles,1,0.00804
+ecommerce,explore_exploit,Spray Bottles,2,0.00852
+ecommerce,explore_exploit,Spray Bottles,3,0.00868
+ecommerce,explore_exploit,Spray Bottles,4,0.0074399999999999996
+ecommerce,explore_exploit,Spray Bottles,5,0.00732
+ecommerce,explore_exploit,Spray Bottles,6,0.00756
+ecommerce,explore_exploit,Spray Bottles,7,0.00864
+ecommerce,explore_exploit,Spray Bottles,8,0.008679999999999998
+ecommerce,explore_exploit,Spray Bottles,9,0.0076
+ecommerce,explore_exploit,Spray Bottles,10,0.00812
+ecommerce,explore_exploit,Spray Bottles,11,0.00728
+ecommerce,explore_exploit,Spray Bottles,12,0.00804
+ecommerce,explore_exploit,Spray Bottles,13,0.00792
+ecommerce,explore_exploit,Spray Bottles,14,0.007279999999999999
+ecommerce,explore_exploit,TV Antennas,0,0.00312
+ecommerce,explore_exploit,TV Antennas,1,0.00332
+ecommerce,explore_exploit,TV Antennas,2,0.00484
+ecommerce,explore_exploit,TV Antennas,3,0.005200000000000001
+ecommerce,explore_exploit,TV Antennas,4,0.00468
+ecommerce,explore_exploit,TV Antennas,5,0.00444
+ecommerce,explore_exploit,TV Antennas,6,0.00596
+ecommerce,explore_exploit,TV Antennas,7,0.0054800000000000005
+ecommerce,explore_exploit,TV Antennas,8,0.00524
+ecommerce,explore_exploit,TV Antennas,9,0.0050799999999999994
+ecommerce,explore_exploit,TV Antennas,10,0.0048000000000000004
+ecommerce,explore_exploit,TV Antennas,11,0.0050799999999999994
+ecommerce,explore_exploit,TV Antennas,12,0.00592
+ecommerce,explore_exploit,TV Antennas,13,0.004880000000000001
+ecommerce,explore_exploit,TV Antennas,14,0.004920000000000001
+ecommerce,explore_exploit,Wall Plates,0,0.00572
+ecommerce,explore_exploit,Wall Plates,1,0.00636
+ecommerce,explore_exploit,Wall Plates,2,0.006840000000000001
+ecommerce,explore_exploit,Wall Plates,3,0.00836
+ecommerce,explore_exploit,Wall Plates,4,0.00608
+ecommerce,explore_exploit,Wall Plates,5,0.00688
+ecommerce,explore_exploit,Wall Plates,6,0.00648
+ecommerce,explore_exploit,Wall Plates,7,0.0064
+ecommerce,explore_exploit,Wall Plates,8,0.0062
+ecommerce,explore_exploit,Wall Plates,9,0.0064
+ecommerce,explore_exploit,Wall Plates,10,0.00636
+ecommerce,explore_exploit,Wall Plates,11,0.00728
+ecommerce,explore_exploit,Wall Plates,12,0.007680000000000001
+ecommerce,explore_exploit,Wall Plates,13,0.006520000000000001
+ecommerce,explore_exploit,Wall Plates,14,0.006559999999999999
+ecommerce,explore_exploit,__MEAN__,0,0.005384
+ecommerce,explore_exploit,__MEAN__,1,0.006032
+ecommerce,explore_exploit,__MEAN__,2,0.006972000000000001
+ecommerce,explore_exploit,__MEAN__,3,0.007548000000000001
+ecommerce,explore_exploit,__MEAN__,4,0.006379999999999999
+ecommerce,explore_exploit,__MEAN__,5,0.006136000000000001
+ecommerce,explore_exploit,__MEAN__,6,0.006936
+ecommerce,explore_exploit,__MEAN__,7,0.007024
+ecommerce,explore_exploit,__MEAN__,8,0.006548
+ecommerce,explore_exploit,__MEAN__,9,0.00668
+ecommerce,explore_exploit,__MEAN__,10,0.006768000000000001
+ecommerce,explore_exploit,__MEAN__,11,0.0071400000000000005
+ecommerce,explore_exploit,__MEAN__,12,0.007696
+ecommerce,explore_exploit,__MEAN__,13,0.0070599999999999994
+ecommerce,explore_exploit,__MEAN__,14,0.006927999999999999

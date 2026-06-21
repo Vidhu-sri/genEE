@@ -1,0 +1,31 @@
+{
+  "topic": "DVI",
+  "method": "full_ctr",
+  "ctr_trajectory": [
+    0.0026000000000000003,
+    0.00292,
+    0.00412,
+    0.0057599999999999995,
+    0.00432,
+    0.00392,
+    0.004360000000000001,
+    0.00492,
+    0.00464,
+    0.00488,
+    0.00464,
+    0.004719999999999999,
+    0.004999999999999999,
+    0.0048400000000000006,
+    0.0037600000000000003
+  ],
+  "initial_ctr": 0.0026000000000000003,
+  "final_ctr": 0.0037600000000000003,
+  "improvement": 0.00116,
+  "final_pool": [
+    "4. How does DVI differ from HDMI?",
+    "What are the advantages of using DVI over DisplayPort?",
+    "How does DVI compare in quality to HDMI for video output?",
+    "Can DVI support audio output along with video signals?",
+    "How does DVI compare to HDMI in terms of video quality?"
+  ]
+}

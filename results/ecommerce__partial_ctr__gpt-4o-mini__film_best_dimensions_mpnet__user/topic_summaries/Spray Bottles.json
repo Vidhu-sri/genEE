@@ -1,0 +1,31 @@
+{
+  "topic": "Spray Bottles",
+  "method": "partial_ctr",
+  "ctr_trajectory": [
+    0.00688,
+    0.008159999999999999,
+    0.0088,
+    0.009640000000000001,
+    0.00832,
+    0.007640000000000001,
+    0.007600000000000001,
+    0.00824,
+    0.008400000000000001,
+    0.007880000000000002,
+    0.0076,
+    0.00804,
+    0.00988,
+    0.00868,
+    0.00808
+  ],
+  "initial_ctr": 0.00688,
+  "final_ctr": 0.00808,
+  "improvement": 0.0012000000000000005,
+  "final_pool": [
+    "1. What materials are spray bottles commonly made from?",
+    "What are the typical prices of durable spray bottles in the market?",
+    "What materials are commonly used in quality spray bottles?",
+    "What features should I look for in quality spray bottles?",
+    "What features should I consider when choosing spray bottles for household use?"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "topic": "Lighting Cables",
+  "method": "full_ctr",
+  "ctr_trajectory": [
+    0.00468,
+    0.00504,
+    0.00612,
+    0.006,
+    0.00568,
+    0.00568,
+    0.00588,
+    0.0056,
+    0.00516,
+    0.005200000000000001,
+    0.00564,
+    0.0054399999999999995,
+    0.005599999999999999,
+    0.005880000000000001,
+    0.00572
+  ],
+  "initial_ctr": 0.00468,
+  "final_ctr": 0.00572,
+  "improvement": 0.0010400000000000001,
+  "final_pool": [
+    "5. Can Lighting cables transfer data as well as charge?",
+    "Can Lightning cables support fast charging for compatible devices?",
+    "2. How do Lighting cables differ from other charging cables?",
+    "Can Lightning cables support high-speed data transfer for large files?",
+    "Can Lightning cables support audio and video output?"
+  ]
+}

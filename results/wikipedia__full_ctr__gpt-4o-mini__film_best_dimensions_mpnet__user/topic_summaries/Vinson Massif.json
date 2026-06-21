@@ -1,0 +1,31 @@
+{
+  "topic": "Vinson Massif",
+  "method": "full_ctr",
+  "ctr_trajectory": [
+    0.00912,
+    0.009319999999999998,
+    0.0104,
+    0.01032,
+    0.009839999999999998,
+    0.00844,
+    0.010520000000000002,
+    0.00988,
+    0.00876,
+    0.00944,
+    0.00968,
+    0.009359999999999999,
+    0.009,
+    0.010119999999999999,
+    0.00736
+  ],
+  "initial_ctr": 0.00912,
+  "final_ctr": 0.00736,
+  "improvement": -0.0017599999999999994,
+  "final_pool": [
+    "1. Where is Vinson Massif located?",
+    "What is the significance of Vinson Massif in Antarctica's geography?",
+    "What are the significant features of Vinson Massif's geography?",
+    "What is the height of Vinson Massif in meters?",
+    "What is the elevation of Vinson Massif in Antarctica?"
+  ]
+}

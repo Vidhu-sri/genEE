@@ -1,0 +1,31 @@
+{
+  "topic": "Spray Bottles",
+  "method": "random_ctr",
+  "ctr_trajectory": [
+    0.00688,
+    0.00824,
+    0.00824,
+    0.00776,
+    0.006560000000000001,
+    0.00608,
+    0.00676,
+    0.00692,
+    0.0062,
+    0.006559999999999999,
+    0.006640000000000002,
+    0.00776,
+    0.00836,
+    0.00788,
+    0.00648
+  ],
+  "initial_ctr": 0.00688,
+  "final_ctr": 0.00648,
+  "improvement": -0.0004000000000000002,
+  "final_pool": [
+    "4. Can spray bottles be reused?",
+    "What features should I consider when selecting spray bottles?",
+    "What features should I look for in spray bottles for cleaning solutions?",
+    "What are the common materials used in spray bottles?",
+    "What features should I consider when choosing spray bottles for cleaning solutions?"
+  ]
+}

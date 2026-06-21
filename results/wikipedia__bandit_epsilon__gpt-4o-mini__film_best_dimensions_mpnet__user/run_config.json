@@ -1,0 +1,42 @@
+{
+  "run_id": "wikipedia__bandit_epsilon__gpt-4o-mini__film_best_dimensions_mpnet__user",
+  "domain": "wikipedia",
+  "method": "bandit_epsilon",
+  "generator_model": "gpt-4o-mini",
+  "evaluator": "film_best_dimensions_mpnet",
+  "user_level": true,
+  "personas": [
+    "Discussion-Focused",
+    "History-Focused",
+    "Event-Focused",
+    "Person-Focused",
+    "Location-Focused"
+  ],
+  "topics": [
+    "Stoicism",
+    "Friedrich Nietzsche",
+    "Artificial Superintelligence",
+    "The Beatles' rooftop concert",
+    "Carl Jung",
+    "History of film",
+    "Vinson Massif",
+    "Socotra",
+    "Petra",
+    "Ketogenic diet"
+  ],
+  "pool_size": 5,
+  "keep_k": 4,
+  "initial_ip_size": 5,
+  "sim_K": 3,
+  "sim_S": 5000,
+  "sim_T": 1.5,
+  "sim_RS": 11.0,
+  "seed": 42,
+  "iterations": 15,
+  "users_per_persona": 10,
+  "bandit_epsilon": 0.1,
+  "bandit_ucb_c": 2.0,
+  "bandit_ts_alpha": 1.0,
+  "bandit_ts_beta": 1.0,
+  "started_at": "2026-06-09T05:29:32.156880"
+}

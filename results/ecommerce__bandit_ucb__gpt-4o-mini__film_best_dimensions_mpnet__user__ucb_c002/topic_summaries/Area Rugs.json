@@ -1,0 +1,31 @@
+{
+  "topic": "Area Rugs",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.006959999999999999,
+    0.00868,
+    0.00936,
+    0.00928,
+    0.009200000000000002,
+    0.009200000000000002,
+    0.00996,
+    0.00932,
+    0.00912,
+    0.009559999999999999,
+    0.00972,
+    0.009880000000000002,
+    0.01136,
+    0.009760000000000001,
+    0.00928
+  ],
+  "initial_ctr": 0.006959999999999999,
+  "final_ctr": 0.00928,
+  "improvement": 0.002320000000000001,
+  "final_pool": [
+    "1. What materials are commonly used in area rugs?",
+    "What materials are commonly used in area rugs and how do they affect quality?",
+    "What materials are commonly used in area rugs for durability and comfort?",
+    "What are the different styles of area rugs available on the market?",
+    "What are the benefits of using a natural fiber area rug?"
+  ]
+}

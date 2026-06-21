@@ -158,7 +158,11 @@ def train(args):
     val_dl = DataLoader(val_ds, batch_size=args.batch_size, shuffle=False,
                         collate_fn=collate, num_workers=0)
 
-    model = FiLMEvaluator(freeze_encoder=freeze_encoder, head_mode=args.head_mode).to(device)
+    model = FiLMEvaluator(
+        freeze_encoder=freeze_encoder,
+        model_name=args.model_name,
+        head_mode=args.head_mode,
+    ).to(device)
 
     trainable = [p for p in model.parameters() if p.requires_grad]
     n_trainable = sum(p.numel() for p in trainable)
@@ -186,13 +190,20 @@ def train(args):
             q_emb = model.encode(texts, device)
             pred_dims, pred_score = model(q_emb, alphas)
 
-            # Scalar loss only: forces model to USE alpha via FiLM.
-            # Dimension-level loss removed because it would push
-            # predicted_dims toward GPT's dims regardless of alpha,
-            # making FiLM bypass-able.
-            loss_mse = F.mse_loss(pred_score, target_gt)
+            loss_score = F.mse_loss(pred_score, target_gt)
+
+            loss_dim = pred_score.new_tensor(0.0)
+            if pred_dims is not None:
+                dim_gt = dim_gt.to(device)
+                loss_dim = F.mse_loss(pred_dims, dim_gt)
+
             loss_rank = pairwise_rank_loss(pred_score, target_gt, margin=args.rank_margin)
-            loss = loss_mse + args.rank_weight * loss_rank
+
+            loss = (
+                loss_score
+                + args.dim_weight * loss_dim
+                + args.rank_weight * loss_rank
+            )
 
             optimizer.zero_grad()
             loss.backward()
@@ -238,6 +249,7 @@ def train(args):
                 "model_state_dict": model_state_dict,
                 "head_mode": args.head_mode,
                 "freeze_encoder": freeze_encoder,
+                "model_name": args.model_name,
                 "epoch": epoch,
                 "val_loss": best_val,
                 "val_topics": list(val_topics),
@@ -253,9 +265,11 @@ def main():
     p.add_argument("--scores", default="data/gpt4_dimension_scores.json")
     p.add_argument("--output", default="evaluator/checkpoints/best.pt")
     p.add_argument("--data-dir", default="data")
+    p.add_argument("--model-name", default="sentence-transformers/all-MiniLM-L6-v2")
     p.add_argument("--epochs", type=int, default=30)
     p.add_argument("--batch-size", type=int, default=32)
     p.add_argument("--lr", type=float, default=1e-3)
+    p.add_argument("--dim-weight", type=float, default=0.0)
     p.add_argument("--rank-weight", type=float, default=0.0)
     p.add_argument("--rank-margin", type=float, default=0.03)
     p.add_argument("--n-alphas", type=int, default=20)

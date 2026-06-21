@@ -1,0 +1,31 @@
+{
+  "topic": "Ketogenic diet",
+  "method": "partial_ctr",
+  "ctr_trajectory": [
+    0.0067599999999999995,
+    0.006559999999999999,
+    0.00776,
+    0.00512,
+    0.00808,
+    0.00464,
+    0.00528,
+    0.0064399999999999995,
+    0.00688,
+    0.00776,
+    0.00736,
+    0.00668,
+    0.00688,
+    0.00636,
+    0.006560000000000001
+  ],
+  "initial_ctr": 0.0067599999999999995,
+  "final_ctr": 0.006560000000000001,
+  "improvement": -0.0001999999999999988,
+  "final_pool": [
+    "1. What is the ketogenic diet?",
+    "3. What are the main principles of the ketogenic diet?",
+    "What foods are typically included in a ketogenic diet?",
+    "What are the main principles of the ketogenic diet?",
+    "How does the ketogenic diet affect weight loss?"
+  ]
+}

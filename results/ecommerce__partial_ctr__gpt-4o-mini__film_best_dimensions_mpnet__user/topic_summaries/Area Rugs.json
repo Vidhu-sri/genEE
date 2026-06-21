@@ -1,0 +1,31 @@
+{
+  "topic": "Area Rugs",
+  "method": "partial_ctr",
+  "ctr_trajectory": [
+    0.0064,
+    0.007680000000000001,
+    0.00856,
+    0.008479999999999998,
+    0.008119999999999999,
+    0.008,
+    0.00904,
+    0.008119999999999999,
+    0.007639999999999999,
+    0.007759999999999999,
+    0.00984,
+    0.010719999999999999,
+    0.01056,
+    0.01024,
+    0.00972
+  ],
+  "initial_ctr": 0.0064,
+  "final_ctr": 0.00972,
+  "improvement": 0.003319999999999999,
+  "final_pool": [
+    "1. What materials are commonly used in area rugs?",
+    "What materials are commonly used in area rugs for durability and comfort?",
+    "What are the main materials used in area rugs?",
+    "What materials are commonly used in area rugs for durability?",
+    "4. How should area rugs be cleaned?"
+  ]
+}

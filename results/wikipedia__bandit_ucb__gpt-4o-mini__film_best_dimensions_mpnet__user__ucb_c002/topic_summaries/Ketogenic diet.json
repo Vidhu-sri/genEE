@@ -1,0 +1,31 @@
+{
+  "topic": "Ketogenic diet",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.00692,
+    0.005679999999999999,
+    0.00916,
+    0.00668,
+    0.00652,
+    0.0054,
+    0.0054800000000000005,
+    0.00772,
+    0.00552,
+    0.00708,
+    0.00664,
+    0.0074399999999999996,
+    0.006520000000000001,
+    0.00676,
+    0.006
+  ],
+  "initial_ctr": 0.00692,
+  "final_ctr": 0.006,
+  "improvement": -0.0009199999999999998,
+  "final_pool": [
+    "1. What is the ketogenic diet?",
+    "What are the main components of a ketogenic diet?",
+    "What are the potential benefits of the ketogenic diet for weight loss?",
+    "What foods are typically included in a ketogenic diet?",
+    "How does a ketogenic diet affect energy levels and metabolism?"
+  ]
+}

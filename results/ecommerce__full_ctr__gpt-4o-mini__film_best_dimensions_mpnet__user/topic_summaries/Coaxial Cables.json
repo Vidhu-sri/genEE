@@ -1,0 +1,31 @@
+{
+  "topic": "Coaxial Cables",
+  "method": "full_ctr",
+  "ctr_trajectory": [
+    0.0038,
+    0.00464,
+    0.0054399999999999995,
+    0.0058,
+    0.0044,
+    0.00392,
+    0.00484,
+    0.004919999999999999,
+    0.0048000000000000004,
+    0.00476,
+    0.0048000000000000004,
+    0.005639999999999999,
+    0.00652,
+    0.004399999999999999,
+    0.00524
+  ],
+  "initial_ctr": 0.0038,
+  "final_ctr": 0.00524,
+  "improvement": 0.0014399999999999999,
+  "final_pool": [
+    "How do different coaxial cable types affect data transmission speeds?",
+    "How do cable length and quality impact coaxial cable performance?",
+    "What are the common uses for coaxial cables in modern technology?",
+    "How do different connectors affect the performance of coaxial cables?",
+    "How does coaxial cable shielding affect signal quality and interference?"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "topic": "Artificial Superintelligence",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.0064399999999999995,
+    0.00792,
+    0.00848,
+    0.008360000000000001,
+    0.007640000000000001,
+    0.007679999999999999,
+    0.007120000000000001,
+    0.00792,
+    0.00736,
+    0.007639999999999999,
+    0.00824,
+    0.00816,
+    0.009159999999999998,
+    0.00692,
+    0.008
+  ],
+  "initial_ctr": 0.0064399999999999995,
+  "final_ctr": 0.008,
+  "improvement": 0.0015600000000000006,
+  "final_pool": [
+    "1. What is artificial superintelligence (ASI)?",
+    "3. Who first coined the term \"artificial superintelligence\"?",
+    "What are the potential benefits of artificial superintelligence?",
+    "What are the potential risks of developing artificial superintelligence?",
+    "What potential risks are associated with artificial superintelligence development?"
+  ]
+}

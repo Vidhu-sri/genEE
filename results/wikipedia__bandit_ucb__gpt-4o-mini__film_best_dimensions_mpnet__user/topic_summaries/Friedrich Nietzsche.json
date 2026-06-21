@@ -1,0 +1,31 @@
+{
+  "topic": "Friedrich Nietzsche",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.01732,
+    0.01588,
+    0.01672,
+    0.016239999999999997,
+    0.01592,
+    0.01456,
+    0.014599999999999998,
+    0.01644,
+    0.01372,
+    0.01816,
+    0.01544,
+    0.01544,
+    0.0164,
+    0.0154,
+    0.015039999999999998
+  ],
+  "initial_ctr": 0.01732,
+  "final_ctr": 0.015039999999999998,
+  "improvement": -0.0022800000000000008,
+  "final_pool": [
+    "3. What is Nietzsche best known for?",
+    "5. What philosophical concept is Nietzsche famous for introducing?",
+    "What philosophical concepts did Friedrich Nietzsche introduce or explore in his works?",
+    "What philosophical concepts did Friedrich Nietzsche introduce or popularize?",
+    "What are Nietzsche's main philosophical concepts?"
+  ]
+}

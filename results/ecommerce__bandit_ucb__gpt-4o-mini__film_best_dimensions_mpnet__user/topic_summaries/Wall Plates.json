@@ -1,0 +1,31 @@
+{
+  "topic": "Wall Plates",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.00572,
+    0.0064,
+    0.007639999999999999,
+    0.00796,
+    0.006279999999999999,
+    0.0061600000000000005,
+    0.00688,
+    0.00688,
+    0.00572,
+    0.00552,
+    0.0058,
+    0.007400000000000001,
+    0.007279999999999999,
+    0.006720000000000001,
+    0.00676
+  ],
+  "initial_ctr": 0.00572,
+  "final_ctr": 0.00676,
+  "improvement": 0.0010400000000000001,
+  "final_pool": [
+    "1. What materials are wall plates commonly made from?",
+    "What are the key features to consider when choosing wall plates?",
+    "What are the different types of wall plates available for electrical outlets?",
+    "What are the common materials used for wall plates and their durability?",
+    "What materials are commonly used for wall plates and their advantages?"
+  ]
+}

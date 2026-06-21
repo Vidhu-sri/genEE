@@ -1,0 +1,31 @@
+{
+  "topic": "Spray Bottles",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.00688,
+    0.00808,
+    0.00812,
+    0.00852,
+    0.00852,
+    0.008,
+    0.00876,
+    0.00852,
+    0.0078,
+    0.0074800000000000005,
+    0.007520000000000001,
+    0.00932,
+    0.009080000000000001,
+    0.009160000000000001,
+    0.008759999999999999
+  ],
+  "initial_ctr": 0.00688,
+  "final_ctr": 0.008759999999999999,
+  "improvement": 0.0018799999999999989,
+  "final_pool": [
+    "1. What materials are spray bottles commonly made from?",
+    "2. How do spray bottles work?",
+    "What are the common materials used in spray bottles?",
+    "What are the advantages of using reusable spray bottles?",
+    "What are the different types of spray nozzles available for bottles?"
+  ]
+}

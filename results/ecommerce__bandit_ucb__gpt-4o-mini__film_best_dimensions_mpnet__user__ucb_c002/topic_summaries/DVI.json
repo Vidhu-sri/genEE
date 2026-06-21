@@ -1,0 +1,31 @@
+{
+  "topic": "DVI",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.00252,
+    0.0032400000000000007,
+    0.004200000000000001,
+    0.00344,
+    0.0032799999999999995,
+    0.0028799999999999997,
+    0.0034399999999999995,
+    0.0046,
+    0.00368,
+    0.00324,
+    0.003920000000000001,
+    0.0036000000000000003,
+    0.00496,
+    0.004200000000000001,
+    0.00516
+  ],
+  "initial_ctr": 0.00252,
+  "final_ctr": 0.00516,
+  "improvement": 0.0026399999999999996,
+  "final_pool": [
+    "What features should I consider when buying DVI cables?",
+    "What are the key features of different DVI cables available?",
+    "How do I troubleshoot common issues with DVI connections?",
+    "What features should I consider when purchasing DVI products?",
+    "How do I troubleshoot common DVI connection issues?"
+  ]
+}

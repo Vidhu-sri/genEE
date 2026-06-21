@@ -1,0 +1,31 @@
+{
+  "topic": "Stoicism",
+  "method": "full_ctr",
+  "ctr_trajectory": [
+    0.00872,
+    0.01004,
+    0.01056,
+    0.01036,
+    0.00912,
+    0.009319999999999998,
+    0.01024,
+    0.009479999999999999,
+    0.00936,
+    0.00888,
+    0.010280000000000001,
+    0.00916,
+    0.010320000000000001,
+    0.00944,
+    0.00904
+  ],
+  "initial_ctr": 0.00872,
+  "final_ctr": 0.00904,
+  "improvement": 0.0003199999999999991,
+  "final_pool": [
+    "1. What is Stoicism?",
+    "2. Who founded Stoicism?",
+    "What are the main principles of Stoicism?",
+    "What are the main teachings of Stoicism in daily life?",
+    "How did Stoicism influence modern philosophy and psychology?"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "topic": "Area Rugs",
+  "method": "random_ctr",
+  "ctr_trajectory": [
+    0.006720000000000001,
+    0.00756,
+    0.00852,
+    0.00868,
+    0.007800000000000001,
+    0.007680000000000001,
+    0.00836,
+    0.00852,
+    0.007239999999999999,
+    0.00756,
+    0.007600000000000001,
+    0.0084,
+    0.00988,
+    0.00908,
+    0.008
+  ],
+  "initial_ctr": 0.006720000000000001,
+  "final_ctr": 0.008,
+  "improvement": 0.001279999999999999,
+  "final_pool": [
+    "What materials are commonly used in area rugs for durability and comfort?",
+    "What materials are commonly used in area rugs for durability?",
+    "What key features should I consider when choosing area rugs for my home?",
+    "1. What materials are commonly used in area rugs?",
+    "What should I consider when selecting area rugs for high-traffic areas?"
+  ]
+}

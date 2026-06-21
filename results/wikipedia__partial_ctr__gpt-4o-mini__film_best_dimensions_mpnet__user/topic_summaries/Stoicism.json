@@ -1,0 +1,31 @@
+{
+  "topic": "Stoicism",
+  "method": "partial_ctr",
+  "ctr_trajectory": [
+    0.00872,
+    0.0094,
+    0.0106,
+    0.01052,
+    0.009240000000000002,
+    0.0094,
+    0.01024,
+    0.009920000000000002,
+    0.00968,
+    0.00948,
+    0.01056,
+    0.009,
+    0.010879999999999999,
+    0.01,
+    0.009240000000000002
+  ],
+  "initial_ctr": 0.00872,
+  "final_ctr": 0.009240000000000002,
+  "improvement": 0.0005200000000000014,
+  "final_pool": [
+    "1. What is Stoicism?",
+    "2. Who founded Stoicism?",
+    "What are the main principles of Stoicism?",
+    "How does Stoicism define the concept of virtue?",
+    "How does Stoicism define virtue in relation to human behavior?"
+  ]
+}

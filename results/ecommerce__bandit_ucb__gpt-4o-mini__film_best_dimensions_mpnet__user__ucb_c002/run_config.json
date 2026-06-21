@@ -1,0 +1,42 @@
+{
+  "run_id": "ecommerce__bandit_ucb__gpt-4o-mini__film_best_dimensions_mpnet__user__ucb_c002",
+  "domain": "ecommerce",
+  "method": "bandit_ucb",
+  "generator_model": "gpt-4o-mini",
+  "evaluator": "film_best_dimensions_mpnet",
+  "user_level": true,
+  "personas": [
+    "Price",
+    "Quality",
+    "Brand Reputation",
+    "Features & Functionality",
+    "Ethical Considerations"
+  ],
+  "topics": [
+    "Spray Bottles",
+    "Cookware Sets",
+    "TV Antennas",
+    "DVI",
+    "Measuring Tools & Scales",
+    "Coaxial Cables",
+    "Area Rugs",
+    "Lighting Cables",
+    "Kitchen Sinks",
+    "Wall Plates"
+  ],
+  "pool_size": 5,
+  "keep_k": 4,
+  "initial_ip_size": 5,
+  "sim_K": 3,
+  "sim_S": 5000,
+  "sim_T": 1.5,
+  "sim_RS": 11.0,
+  "seed": 42,
+  "iterations": 15,
+  "users_per_persona": 10,
+  "bandit_epsilon": 0.1,
+  "bandit_ucb_c": 0.002,
+  "bandit_ts_alpha": 1.0,
+  "bandit_ts_beta": 1.0,
+  "started_at": "2026-06-14T13:06:46.094992"
+}

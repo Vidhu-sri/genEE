@@ -1,0 +1,31 @@
+{
+  "topic": "Stoicism",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.00872,
+    0.0098,
+    0.010159999999999999,
+    0.010240000000000003,
+    0.01032,
+    0.01024,
+    0.010960000000000001,
+    0.00924,
+    0.008119999999999999,
+    0.00928,
+    0.008879999999999999,
+    0.010519999999999998,
+    0.00968,
+    0.010239999999999999,
+    0.01064
+  ],
+  "initial_ctr": 0.00872,
+  "final_ctr": 0.01064,
+  "improvement": 0.0019199999999999998,
+  "final_pool": [
+    "1. What is Stoicism?",
+    "2. Who founded Stoicism?",
+    "What are the main principles of Stoicism philosophy?",
+    "What are the main principles of Stoicism in daily life?",
+    "How does Stoicism define virtue and its importance in daily life?"
+  ]
+}

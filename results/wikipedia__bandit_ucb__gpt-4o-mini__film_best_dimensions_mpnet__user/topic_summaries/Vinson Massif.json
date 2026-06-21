@@ -1,0 +1,31 @@
+{
+  "topic": "Vinson Massif",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.00836,
+    0.00944,
+    0.010839999999999999,
+    0.009760000000000001,
+    0.00996,
+    0.00864,
+    0.010599999999999998,
+    0.00868,
+    0.00888,
+    0.00852,
+    0.008360000000000001,
+    0.008560000000000002,
+    0.009240000000000002,
+    0.009519999999999999,
+    0.00868
+  ],
+  "initial_ctr": 0.00836,
+  "final_ctr": 0.00868,
+  "improvement": 0.00032000000000000084,
+  "final_pool": [
+    "1. Where is Vinson Massif located?",
+    "3. When was Vinson Massif first climbed?",
+    "What is the height of Vinson Massif?",
+    "What is the elevation of Vinson Massif in Antarctica?",
+    "What are the main features of Vinson Massif's geography and climate?"
+  ]
+}

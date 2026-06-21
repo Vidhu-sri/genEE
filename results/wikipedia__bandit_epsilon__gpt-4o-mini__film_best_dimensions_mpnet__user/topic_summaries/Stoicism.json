@@ -1,0 +1,31 @@
+{
+  "topic": "Stoicism",
+  "method": "bandit_epsilon",
+  "ctr_trajectory": [
+    0.00872,
+    0.0098,
+    0.01052,
+    0.0108,
+    0.01032,
+    0.01008,
+    0.009080000000000001,
+    0.00848,
+    0.00816,
+    0.01,
+    0.00916,
+    0.00952,
+    0.01004,
+    0.010039999999999999,
+    0.00972
+  ],
+  "initial_ctr": 0.00872,
+  "final_ctr": 0.00972,
+  "improvement": 0.0009999999999999992,
+  "final_pool": [
+    "1. What is Stoicism?",
+    "2. Who founded Stoicism?",
+    "How does Stoicism define virtue in relation to human behavior?",
+    "How does Stoicism define virtue in daily life?",
+    "How does Stoicism define virtue and its importance in daily life?"
+  ]
+}

@@ -47,7 +47,16 @@ WIKI_P = [p["name"] for p in _all if p.get("domain") == "wikipedia"]
 def personas_for(d): return ECOM_P if d == "ecommerce" else WIKI_P
 
 # ─── Methods ───
-METHODS = ["no_drop", "random_ctr", "partial_ctr", "full_ctr", "explore_exploit"]
+METHODS = [
+    "no_drop", "random_ctr", "partial_ctr", "full_ctr", "explore_exploit",
+    "bandit_epsilon", "bandit_ucb", "bandit_thompson",
+]
+
+def evaluator_label():
+    label = config.get("evaluator_backend", "minilm")
+    if label == "film":
+        return f"film_{Path(config.get('film_checkpoint', 'evaluator/checkpoints/best.pt')).stem}"
+    return label
 
 def _drop_worst(ip, ctrs, keep_k):
     n_drop = max(0, len(ip) - keep_k)
@@ -74,6 +83,118 @@ def _score(ip, topic, domain, personas, cfg, user_level, rng):
         )
     else:
         return eval_ip_all_personas(ip, topic, personas, domain)
+
+ACTION_ARMS = ["explore", "exploit", "both"]
+
+def _new_action_bandit_state():
+    return {
+        "counts": {arm: 0 for arm in ACTION_ARMS},
+        "values": {arm: 0.0 for arm in ACTION_ARMS},
+    }
+
+def _select_action_arm(policy, state, iteration, rng, cfg):
+    counts = state["counts"]
+    values = state["values"]
+    untried = [arm for arm in ACTION_ARMS if counts.get(arm, 0) == 0]
+    if untried:
+        return untried[0]
+
+    if policy == "epsilon":
+        epsilon = float(cfg.get("bandit_epsilon", 0.1))
+        if rng.random() < epsilon:
+            return str(rng.choice(ACTION_ARMS))
+        return max(ACTION_ARMS, key=lambda arm: values.get(arm, 0.0))
+
+    if policy == "ucb":
+        c = float(cfg.get("bandit_ucb_c", 0.002))
+        total = max(1, sum(counts.values()))
+        return max(
+            ACTION_ARMS,
+            key=lambda arm: values.get(arm, 0.0)
+            + c * np.sqrt(np.log(total) / max(1, counts.get(arm, 0))),
+        )
+
+    if policy == "thompson":
+        samples = {
+            arm: values.get(arm, 0.0) + rng.normal(0.0, 1.0 / np.sqrt(counts.get(arm, 0) + 1))
+            for arm in ACTION_ARMS
+        }
+        return max(ACTION_ARMS, key=lambda arm: samples[arm])
+
+    raise ValueError(f"Unknown bandit policy: {policy}")
+
+def _update_action_bandit_state(state, arm, reward):
+    counts = state["counts"]
+    values = state["values"]
+    counts[arm] = counts.get(arm, 0) + 1
+    n = counts[arm]
+    values[arm] = values.get(arm, 0.0) + (reward - values.get(arm, 0.0)) / n
+
+def _load_action_bandit_state(rd, topic, start):
+    if start <= 0:
+        return _new_action_bandit_state()
+
+    last = rd / "logs" / f"{topic}_iter_{start - 1}.json"
+    if not last.exists():
+        return _new_action_bandit_state()
+
+    try:
+        log = json.loads(last.read_text())
+        counts = log.get("arm_counts") or {}
+        values = log.get("arm_values") or {}
+        if not counts or not values:
+            return _new_action_bandit_state()
+        return {
+            "counts": {arm: int(counts.get(arm, 0)) for arm in ACTION_ARMS},
+            "values": {arm: float(values.get(arm, 0.0)) for arm in ACTION_ARMS},
+        }
+    except Exception:
+        return _new_action_bandit_state()
+
+def _m_bandit(ip, topic, domain, personas, iteration, cfg, user_level, rng, policy):
+    state = cfg.setdefault("_bandit_action_state", _new_action_bandit_state())
+    chosen_arm = _select_action_arm(policy, state, iteration, rng, cfg)
+
+    t0 = time.time()
+    ps = _score(ip, topic, domain, personas, cfg, user_level, rng)
+    te = time.time() - t0
+
+    t0 = time.time()
+    ctrs = simulate_ctr(ip, ps, K=cfg["sim_K"], S=cfg["sim_S"],
+                        RS=cfg["sim_RS"], T=cfg["sim_T"], seed=cfg["seed"]+iteration)
+    ts = time.time() - t0
+    avg_before = float(np.mean(list(ctrs.values()))) if ctrs else 0.0
+
+    dropped, keep = _drop_worst(ip, ctrs, cfg["keep_k"])
+
+    t0 = time.time()
+    explore = generate_explore_ip(ip, topic, domain) if chosen_arm in {"explore", "both"} else []
+    exploit = generate_exploit_ip(ctrs, topic, domain) if chosen_arm in {"exploit", "both"} else []
+    tg = time.time() - t0
+
+    new_ip = merge_pool(ip, keep, explore, exploit, cfg["pool_size"])
+
+    t0 = time.time()
+    ps_after = _score(new_ip, topic, domain, personas, cfg, user_level, rng)
+    te += time.time() - t0
+
+    t0 = time.time()
+    ctrs_after = simulate_ctr(new_ip, ps_after, K=cfg["sim_K"], S=cfg["sim_S"],
+                              RS=cfg["sim_RS"], T=cfg["sim_T"], seed=cfg["seed"]+10000+iteration)
+    ts += time.time() - t0
+    avg_after = float(np.mean(list(ctrs_after.values()))) if ctrs_after else 0.0
+    reward = avg_after - avg_before
+    _update_action_bandit_state(state, chosen_arm, reward)
+
+    cfg["_last_bandit_info"] = {
+        "chosen_arm": chosen_arm,
+        "avg_ctr_before": avg_before,
+        "avg_ctr_after": avg_after,
+        "reward": float(reward),
+        "arm_counts": {arm: int(state["counts"].get(arm, 0)) for arm in ACTION_ARMS},
+        "arm_values": {arm: float(state["values"].get(arm, 0.0)) for arm in ACTION_ARMS},
+    }
+    return new_ip, ctrs, ps, dropped, explore, exploit, te, tg, ts
 
 # ── Method implementations ──
 # All return: (new_ip, ctrs, pscores, dropped, explore, exploit, t_eval, t_gen, t_sim)
@@ -176,10 +297,21 @@ def m_explore_exploit(ip, topic, domain, personas, iteration, cfg, user_level, r
     new_ip = merge_pool(ip, keep, explore, exploit, cfg["pool_size"])
     return new_ip, ctrs, ps, dropped, explore, exploit, te, tg, ts
 
+def m_bandit_epsilon(ip, topic, domain, personas, iteration, cfg, user_level, rng):
+    return _m_bandit(ip, topic, domain, personas, iteration, cfg, user_level, rng, "epsilon")
+
+def m_bandit_ucb(ip, topic, domain, personas, iteration, cfg, user_level, rng):
+    return _m_bandit(ip, topic, domain, personas, iteration, cfg, user_level, rng, "ucb")
+
+def m_bandit_thompson(ip, topic, domain, personas, iteration, cfg, user_level, rng):
+    return _m_bandit(ip, topic, domain, personas, iteration, cfg, user_level, rng, "thompson")
+
 METHOD_FNS = {
     "no_drop": m_no_drop, "random_ctr": m_random_ctr,
     "partial_ctr": m_partial_ctr, "full_ctr": m_full_ctr,
     "explore_exploit": m_explore_exploit,
+    "bandit_epsilon": m_bandit_epsilon, "bandit_ucb": m_bandit_ucb,
+    "bandit_thompson": m_bandit_thompson,
 }
 
 # ─── Logging ───
@@ -188,11 +320,14 @@ CSV_COLS = [
     "user_level", "avg_ctr", "best_ctr", "worst_ctr", "median_ctr", "std_ctr",
     "pool_size", "n_dropped", "n_added_explore", "n_added_exploit",
     "eval_time_sec", "gen_time_sec", "sim_time_sec", "total_time_sec",
+    "chosen_arm", "reward",
+    "arm_explore_count", "arm_exploit_count", "arm_both_count",
+    "arm_explore_value", "arm_exploit_value", "arm_both_value",
 ]
 
 def build_log(run_id, domain, topic, method, gen_model, eval_label, user_level,
               iteration, ip, ctrs, pscores, personas,
-              dropped, explore, exploit, te, tg, ts, tt, cfg):
+              dropped, explore, exploit, te, tg, ts, tt, cfg, bandit_info=None):
     ctr_vals = [ctrs.get(q, 0.0) for q in ip]
     dropped_s, explore_s, exploit_s = set(dropped or []), set(explore or []), set(exploit or [])
 
@@ -218,7 +353,7 @@ def build_log(run_id, domain, topic, method, gen_model, eval_label, user_level,
         v = [pscores[p].get(q, 0) for q in ip]
         persona_avgs[p] = float(np.mean(v)) if v else 0.0
 
-    return {
+    log = {
         "run_id": run_id, "domain": domain, "topic": topic,
         "method": method, "generator_model": gen_model, "evaluator": eval_label,
         "user_level": user_level,
@@ -240,6 +375,24 @@ def build_log(run_id, domain, topic, method, gen_model, eval_label, user_level,
         "sim_K": cfg["sim_K"], "sim_S": cfg["sim_S"],
         "sim_T": cfg["sim_T"], "sim_RS": cfg["sim_RS"], "seed": cfg["seed"],
     }
+    if bandit_info:
+        counts = bandit_info.get("arm_counts", {})
+        values = bandit_info.get("arm_values", {})
+        log.update({
+            "chosen_arm": bandit_info.get("chosen_arm"),
+            "avg_ctr_before": float(bandit_info.get("avg_ctr_before", 0.0)),
+            "avg_ctr_after": float(bandit_info.get("avg_ctr_after", 0.0)),
+            "reward": float(bandit_info.get("reward", 0.0)),
+            "arm_counts": {arm: int(counts.get(arm, 0)) for arm in ACTION_ARMS},
+            "arm_values": {arm: float(values.get(arm, 0.0)) for arm in ACTION_ARMS},
+            "arm_explore_count": int(counts.get("explore", 0)),
+            "arm_exploit_count": int(counts.get("exploit", 0)),
+            "arm_both_count": int(counts.get("both", 0)),
+            "arm_explore_value": float(values.get("explore", 0.0)),
+            "arm_exploit_value": float(values.get("exploit", 0.0)),
+            "arm_both_value": float(values.get("both", 0.0)),
+        })
+    return log
 
 def append_csv(path, log, header):
     with open(path, "a") as f:
@@ -260,13 +413,26 @@ def load_snap(rd, topic, it):
     p = rd / "pool_snapshots" / f"{topic}_iter_{it}.json"
     return json.loads(p.read_text()) if p.exists() else None
 
+def load_ctr_history(rd, topic, stop):
+    history = []
+    for iteration in range(stop):
+        p = rd / "logs" / f"{topic}_iter_{iteration}.json"
+        if not p.exists():
+            break
+        history.append(float(json.loads(p.read_text())["avg_ctr"]))
+    return history
+
 # ─── Main loop (fully sync) ───
-def run_experiment(domain, method, user_level=False, resume=False, topics_subset=None):
-    gen_model = config.get("gen_model", "gpt-3.5-turbo")
-    eval_label = "minilm"  # always MiniLM now
+def run_experiment(
+    domain, method, user_level=False, resume=False, topics_subset=None, run_tag=None
+):
+    gen_model = config.get("generator_model", config.get("gen_model", "gpt-3.5-turbo"))
+    eval_label = evaluator_label()
     ul_tag = "user" if user_level else "cohort"
 
     run_id = f"{domain}__{method}__{gen_model}__{eval_label}__{ul_tag}"
+    if run_tag:
+        run_id = f"{run_id}__{run_tag}"
     rd = results_base / run_id
     for sub in ["logs", "pool_snapshots", "topic_summaries"]:
         (rd / sub).mkdir(parents=True, exist_ok=True)
@@ -276,9 +442,12 @@ def run_experiment(domain, method, user_level=False, resume=False, topics_subset
         topics = [t for t in topics if t in topics_subset]
     personas = personas_for(domain)
 
+    pool_size = int(config.get("pool_size", config.get("initial_ip_size", 20)))
+    keep_k = int(config.get("keep_k", pool_size - int(config.get("num_drop", 0))))
     cfg = {
-        "pool_size": int(config.get("pool_size", 20)),
-        "keep_k": int(config.get("keep_k", 10)),
+        "pool_size": pool_size,
+        "keep_k": keep_k,
+        "initial_ip_size": int(config.get("initial_ip_size", pool_size)),
         "sim_K": int(config.get("sim_K", 3)),
         "sim_S": int(config.get("sim_S", 5000)),
         "sim_T": float(config.get("sim_T", 1.5)),
@@ -286,6 +455,10 @@ def run_experiment(domain, method, user_level=False, resume=False, topics_subset
         "seed": int(config.get("seed", 42)),
         "iterations": int(config.get("iterations", 15)),
         "users_per_persona": int(config.get("users_per_persona", 10)),
+        "bandit_epsilon": float(config.get("bandit_epsilon", 0.1)),
+        "bandit_ucb_c": float(config.get("bandit_ucb_c", 2.0)),
+        "bandit_ts_alpha": float(config.get("bandit_ts_alpha", 1.0)),
+        "bandit_ts_beta": float(config.get("bandit_ts_beta", 1.0)),
     }
 
     (rd / "run_config.json").write_text(json.dumps({
@@ -304,7 +477,7 @@ def run_experiment(domain, method, user_level=False, resume=False, topics_subset
         print(f"\n{'='*60}\n[{run_id}] {topic}\n{'='*60}")
 
         start = 0
-        ip = load_ip(topic)
+        ip = load_ip(topic)[:cfg["initial_ip_size"]]
         if resume:
             li = last_iter(rd, topic)
             if li >= 0:
@@ -313,17 +486,21 @@ def run_experiment(domain, method, user_level=False, resume=False, topics_subset
         if start >= cfg["iterations"]:
             print("  Done, skipping."); continue
 
-        ctr_hist = []
+        if method.startswith("bandit_"):
+            cfg["_bandit_action_state"] = _load_action_bandit_state(rd, topic, start)
+
+        ctr_hist = load_ctr_history(rd, topic, start) if resume else []
         for i in tqdm(range(start, cfg["iterations"]), desc=f"  {topic}", leave=False):
             t0 = time.time()
             new_ip, ctrs, pscores, dropped, expl, expt, te, tg, ts = \
                 fn(ip, topic, domain, personas, i, cfg, user_level, rng)
             tt = time.time() - t0
+            bandit_info = cfg.pop("_last_bandit_info", None)
 
             log = build_log(
                 run_id, domain, topic, method, gen_model, eval_label, user_level,
                 i, ip, ctrs, pscores, personas,
-                dropped, expl, expt, te, tg, ts, tt, cfg,
+                dropped, expl, expt, te, tg, ts, tt, cfg, bandit_info,
             )
             ctr_hist.append(log["avg_ctr"])
 
@@ -336,9 +513,15 @@ def run_experiment(domain, method, user_level=False, resume=False, topics_subset
             ip = new_ip
             cum["eval"] += te; cum["gen"] += tg; cum["sim"] += ts; cum["total"] += tt
 
+            bandit_s = ""
+            if log.get("chosen_arm"):
+                bandit_s = (
+                    f" arm={log['chosen_arm']} reward={log.get('reward', 0.0):+.4f} "
+                    f"after={log.get('avg_ctr_after', 0.0):.4f}"
+                )
             tqdm.write(
                 f"    i={i:2d} avg_ctr={log['avg_ctr']:.4f} best={log['best_ctr']:.4f} "
-                f"pool={log['pool_size']} eval={te:.1f}s gen={tg:.1f}s"
+                f"pool={log['pool_size']}{bandit_s} eval={te:.1f}s gen={tg:.1f}s"
             )
 
         (rd / "topic_summaries" / f"{topic}.json").write_text(json.dumps({
@@ -365,6 +548,8 @@ def main():
                    help="Use Dirichlet-sampled per-user alphas instead of fixed cohort alphas")
     p.add_argument("--resume", action="store_true")
     p.add_argument("--topics", nargs="*", default=None)
+    p.add_argument("--run-tag", default=None,
+                   help="Append a tag to the result directory/run ID")
     p.add_argument("--dry-run", action="store_true")
     args = p.parse_args()
 
@@ -374,14 +559,14 @@ def main():
         if args.topics: topics = [t for t in topics if t in args.topics]
         methods = METHODS if args.method == "all" else [args.method]
         iters = config.get("iterations", 15)
-        pool = config.get("pool_size", 20)
+        pool = config.get("pool_size", config.get("initial_ip_size", 20))
         ups = config.get("users_per_persona", 10) if args.user_level else 1
         n_gen = len(topics) * iters * len(methods)
         print(f"=== DRY RUN ===")
         print(f"Domain:      {args.domain}")
         print(f"Methods:     {methods}")
-        print(f"Generator:   {config.get('gen_model')}")
-        print(f"Evaluator:   MiniLM (local, no API)")
+        print(f"Generator:   {config.get('generator_model', config.get('gen_model'))}")
+        print(f"Evaluator:   {evaluator_label()} (local, no API)")
         print(f"User-level:  {args.user_level} ({ups} users/persona)" if args.user_level else f"User-level:  False (cohort)")
         print(f"Topics:      {len(topics)}")
         print(f"Personas:    {personas}")
@@ -394,9 +579,12 @@ def main():
     methods = METHODS if args.method == "all" else [args.method]
     for method in methods:
         print(f"\n{'#'*60}")
-        print(f"# {method} | {args.domain} | gen={config.get('gen_model')} | eval=minilm | {'user-level' if args.user_level else 'cohort'}")
+        print(f"# {method} | {args.domain} | gen={config.get('generator_model', config.get('gen_model'))} | eval={evaluator_label()} | {'user-level' if args.user_level else 'cohort'}")
         print(f"{'#'*60}")
-        run_experiment(args.domain, method, args.user_level, args.resume, args.topics)
+        run_experiment(
+            args.domain, method, args.user_level, args.resume, args.topics,
+            args.run_tag,
+        )
 
 if __name__ == "__main__":
     main()

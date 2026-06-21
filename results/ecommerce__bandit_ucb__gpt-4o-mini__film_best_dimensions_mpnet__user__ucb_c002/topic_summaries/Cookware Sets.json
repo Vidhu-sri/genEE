@@ -1,0 +1,31 @@
+{
+  "topic": "Cookware Sets",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.0062,
+    0.007640000000000001,
+    0.007999999999999998,
+    0.00928,
+    0.00716,
+    0.00664,
+    0.00816,
+    0.00784,
+    0.007559999999999999,
+    0.007759999999999999,
+    0.007640000000000001,
+    0.00808,
+    0.0092,
+    0.008799999999999999,
+    0.008
+  ],
+  "initial_ctr": 0.0062,
+  "final_ctr": 0.008,
+  "improvement": 0.0018000000000000004,
+  "final_pool": [
+    "1. What materials are commonly used in cookware sets?",
+    "What features should I consider when choosing cookware sets for my kitchen?",
+    "What factors should I consider when choosing a cookware set?",
+    "What features should I consider when selecting cookware sets for my kitchen?",
+    "What materials are commonly used in high-quality cookware sets?"
+  ]
+}

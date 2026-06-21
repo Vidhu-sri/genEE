@@ -1,0 +1,31 @@
+{
+  "topic": "TV Antennas",
+  "method": "random_ctr",
+  "ctr_trajectory": [
+    0.00304,
+    0.0038,
+    0.00532,
+    0.006640000000000002,
+    0.0058000000000000005,
+    0.00592,
+    0.00668,
+    0.00668,
+    0.00592,
+    0.0061200000000000004,
+    0.007000000000000001,
+    0.00676,
+    0.00692,
+    0.006279999999999999,
+    0.0064
+  ],
+  "initial_ctr": 0.00304,
+  "final_ctr": 0.0064,
+  "improvement": 0.00336,
+  "final_pool": [
+    "4. Can TV antennas receive digital channels?",
+    "What features should I consider when selecting TV antennas for my home?",
+    "What features should I consider when buying TV antennas for better reception?",
+    "What features should I consider when buying TV antennas?",
+    "What features should I consider when choosing TV antennas?"
+  ]
+}

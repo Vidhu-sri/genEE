@@ -1,0 +1,31 @@
+{
+  "topic": "Artificial Superintelligence",
+  "method": "full_ctr",
+  "ctr_trajectory": [
+    0.00708,
+    0.00716,
+    0.00844,
+    0.007279999999999999,
+    0.007520000000000001,
+    0.00712,
+    0.00796,
+    0.007519999999999999,
+    0.00712,
+    0.008679999999999998,
+    0.007880000000000002,
+    0.008119999999999999,
+    0.007959999999999998,
+    0.009600000000000001,
+    0.00876
+  ],
+  "initial_ctr": 0.00708,
+  "final_ctr": 0.00876,
+  "improvement": 0.00168,
+  "final_pool": [
+    "1. What is artificial superintelligence (ASI)?",
+    "3. Who first coined the term \"artificial superintelligence\"?",
+    "How might artificial superintelligence impact society and human decision-making?",
+    "How could artificial superintelligence impact human society and decision-making processes?",
+    "What are the potential risks associated with artificial superintelligence development?"
+  ]
+}

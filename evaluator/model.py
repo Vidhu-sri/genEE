@@ -101,23 +101,25 @@ class FiLMEvaluator(nn.Module):
         super().__init__()
         self.encoder = AutoModel.from_pretrained(model_name)
         self.tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
+        self.model_name = model_name
+        self.hidden_dim = getattr(self.encoder.config, "hidden_size", HIDDEN_DIM)
         self.head_mode = head_mode
 
         if freeze_encoder:
             for p in self.encoder.parameters():
                 p.requires_grad = False
 
-        self.film = FiLMGenerator(alpha_dim=N_DIMS, feature_dim=HIDDEN_DIM)
+        self.film = FiLMGenerator(alpha_dim=N_DIMS, feature_dim=self.hidden_dim)
         if head_mode == "scalar":
-            self.head = ScalarHead(in_dim=HIDDEN_DIM)
+            self.head = ScalarHead(in_dim=self.hidden_dim)
         elif head_mode == "dimensions":
-            self.head = DimensionHead(in_dim=HIDDEN_DIM, n_dims=N_DIMS)
+            self.head = DimensionHead(in_dim=self.hidden_dim, n_dims=N_DIMS)
         else:
             raise ValueError(f"Unknown head_mode: {head_mode}")
 
     def encode(self, texts: List[str], device, no_grad: bool = None) -> torch.Tensor:
         """
-        Encode texts with MiniLM -> [B, 384].
+        Encode texts with the configured transformer -> [B, hidden_dim].
 
         If encoder parameters are frozen, this automatically runs without gradients.
         If encoder is unfrozen, gradients are allowed during training.

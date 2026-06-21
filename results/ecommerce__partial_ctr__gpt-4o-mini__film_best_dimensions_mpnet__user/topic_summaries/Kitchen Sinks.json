@@ -1,0 +1,31 @@
+{
+  "topic": "Kitchen Sinks",
+  "method": "partial_ctr",
+  "ctr_trajectory": [
+    0.0094,
+    0.01048,
+    0.01216,
+    0.013120000000000001,
+    0.01136,
+    0.011720000000000001,
+    0.012879999999999999,
+    0.013439999999999999,
+    0.01164,
+    0.013120000000000001,
+    0.01216,
+    0.013000000000000001,
+    0.01364,
+    0.013800000000000002,
+    0.012560000000000002
+  ],
+  "initial_ctr": 0.0094,
+  "final_ctr": 0.012560000000000002,
+  "improvement": 0.0031600000000000013,
+  "final_pool": [
+    "1. What materials are commonly used for kitchen sinks?",
+    "What features should I consider when choosing a kitchen sink?",
+    "What features should I consider when choosing kitchen sinks for my home?",
+    "What are common materials used in kitchen sinks?",
+    "What features should I consider when selecting kitchen sinks for my home?"
+  ]
+}

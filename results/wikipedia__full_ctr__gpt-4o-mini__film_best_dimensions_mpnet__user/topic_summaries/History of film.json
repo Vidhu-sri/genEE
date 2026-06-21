@@ -1,0 +1,31 @@
+{
+  "topic": "History of film",
+  "method": "full_ctr",
+  "ctr_trajectory": [
+    0.01092,
+    0.011479999999999999,
+    0.013120000000000001,
+    0.011680000000000001,
+    0.010719999999999999,
+    0.01144,
+    0.01316,
+    0.01068,
+    0.010039999999999999,
+    0.01124,
+    0.01064,
+    0.010080000000000002,
+    0.013119999999999998,
+    0.01032,
+    0.011760000000000001
+  ],
+  "initial_ctr": 0.01092,
+  "final_ctr": 0.011760000000000001,
+  "improvement": 0.0008400000000000022,
+  "final_pool": [
+    "1. When did the history of film begin?",
+    "2. Who are considered pioneers of early filmmaking?",
+    "What technological advancements significantly influenced the history of film production?",
+    "What technological advancements influenced the evolution of the history of film?",
+    "What technological advancements significantly impacted the history of film production?"
+  ]
+}

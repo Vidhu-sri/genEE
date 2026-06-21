@@ -1,0 +1,31 @@
+{
+  "topic": "Socotra",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.010720000000000002,
+    0.014320000000000003,
+    0.01384,
+    0.01388,
+    0.013280000000000004,
+    0.012879999999999999,
+    0.01284,
+    0.01184,
+    0.0118,
+    0.01228,
+    0.0132,
+    0.014000000000000002,
+    0.012240000000000001,
+    0.01168,
+    0.01024
+  ],
+  "initial_ctr": 0.010720000000000002,
+  "final_ctr": 0.01024,
+  "improvement": -0.00048000000000000126,
+  "final_pool": [
+    "1. Where is Socotra located?",
+    "What unique flora and fauna are found on Socotra?",
+    "What unique species are found on Socotra?",
+    "What unique biodiversity is found on Socotra Island?",
+    "What unique species are found on Socotra Island?"
+  ]
+}

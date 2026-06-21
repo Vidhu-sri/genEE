@@ -1,0 +1,151 @@
+iteration,topic,domain,method,generator_model,evaluator,user_level,avg_ctr,best_ctr,worst_ctr,median_ctr,std_ctr,pool_size,n_dropped,n_added_explore,n_added_exploit,eval_time_sec,gen_time_sec,sim_time_sec,total_time_sec
+0,Stoicism,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00872,0.0144,0.0052,0.0068,0.003643295211755424,5,1,1,0,11.439,2.626,0.04,14.107
+1,Stoicism,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.006559999999999999,0.0116,0.004,0.0064,0.0027405109012737018,5,1,1,0,11.879,1.822,0.036,13.738
+2,Stoicism,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007680000000000001,0.0148,0.0044,0.007,0.0037791004220581385,5,1,1,0,10.813,3.197,0.035,14.045
+3,Stoicism,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00712,0.012,0.0044,0.0062,0.002691022110648666,5,1,1,0,11.406,1.576,0.035,13.018
+4,Stoicism,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00796,0.0162,0.003,0.0064,0.004467482512556708,5,1,1,0,11.095,2.801,0.038,13.934
+5,Stoicism,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007039999999999999,0.0122,0.0046,0.0062,0.0027724357521861534,5,1,1,0,11.226,1.509,0.04,12.775
+6,Stoicism,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00736,0.0122,0.0052,0.006,0.0026150334605889846,5,1,1,0,12.881,1.76,0.039,14.68
+7,Stoicism,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0066,0.0134,0.0034,0.0056,0.0035349681752457124,5,1,1,0,12.404,1.777,0.037,14.218
+8,Stoicism,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00732,0.0122,0.0044,0.0068,0.0027845286854331383,5,1,1,0,11.684,2.052,0.036,13.773
+9,Stoicism,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00668,0.0094,0.0038,0.0054,0.002296432015105172,5,1,1,0,11.279,1.604,0.042,12.925
+10,Stoicism,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007519999999999999,0.0132,0.0038,0.0066,0.0032853614717409715,5,1,1,0,11.634,1.679,0.042,13.355
+11,Stoicism,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00732,0.011,0.0036,0.0072,0.0027235271248878716,5,1,1,0,18.258,3.957,0.066,22.281
+12,Stoicism,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00824,0.0114,0.005,0.0074,0.0023405982141324467,5,1,1,0,13.962,1.767,0.04,15.769
+13,Stoicism,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00796,0.0126,0.0054,0.0074,0.002546841180757057,5,1,1,0,10.914,2.115,0.037,13.066
+14,Stoicism,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007520000000000001,0.0124,0.004,0.0072,0.002787400222429495,5,1,1,0,11.889,2.372,0.037,14.298
+0,Friedrich Nietzsche,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.016120000000000002,0.017,0.0152,0.0164,0.0006997142273814364,5,1,1,0,11.605,1.816,0.042,13.464
+1,Friedrich Nietzsche,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.015639999999999998,0.0172,0.0136,0.0156,0.0014221111067704946,5,1,1,0,11.669,2.877,0.045,14.591
+2,Friedrich Nietzsche,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01688,0.0196,0.0138,0.0172,0.0018701871564097534,5,1,1,0,11.18,1.884,0.042,13.106
+3,Friedrich Nietzsche,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01668,0.0196,0.012,0.0176,0.002646053665366596,5,1,1,0,12.627,1.709,0.037,14.373
+4,Friedrich Nietzsche,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.015400000000000002,0.0186,0.013,0.0154,0.0018761663039293715,5,1,1,0,11.426,1.673,0.043,13.142
+5,Friedrich Nietzsche,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01356,0.0168,0.0112,0.0122,0.002214136400495687,5,1,1,0,12.225,2.586,0.033,14.845
+6,Friedrich Nietzsche,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.014640000000000004,0.0188,0.013,0.0138,0.0021181123671797962,5,1,1,0,11.399,3.023,0.044,14.466
+7,Friedrich Nietzsche,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01336,0.0148,0.0114,0.0138,0.0012737346662472526,5,1,1,0,11.615,2.147,0.038,13.8
+8,Friedrich Nietzsche,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.014000000000000002,0.0154,0.0124,0.0142,0.001080740486888504,5,1,1,0,11.313,2.016,0.039,13.368
+9,Friedrich Nietzsche,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.015359999999999999,0.0202,0.0114,0.015,0.002812543332999511,5,1,1,0,11.909,3.01,0.037,14.957
+10,Friedrich Nietzsche,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.013439999999999999,0.0156,0.0118,0.0138,0.0013529227620230207,5,1,1,0,11.167,2.508,0.04,13.715
+11,Friedrich Nietzsche,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01484,0.0178,0.0128,0.0134,0.002267686045289338,5,1,1,0,11.568,1.473,0.047,13.088
+12,Friedrich Nietzsche,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.014280000000000001,0.0176,0.012,0.0128,0.0024119701490690135,5,1,1,0,11.311,2.126,0.04,13.477
+13,Friedrich Nietzsche,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.014280000000000001,0.0156,0.012,0.0146,0.0012039933554633927,5,1,1,0,11.512,1.769,0.036,13.317
+14,Friedrich Nietzsche,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01532,0.0174,0.0132,0.0158,0.0014232357499725757,5,1,1,0,11.655,2.836,0.036,14.527
+0,Artificial Superintelligence,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0064,0.0108,0.003,0.0056,0.002576819745345025,5,1,1,0,13.146,1.757,0.036,14.939
+1,Artificial Superintelligence,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.006320000000000001,0.0134,0.0034,0.005,0.003616849457746341,5,1,1,0,14.314,1.57,0.04,15.925
+2,Artificial Superintelligence,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0074800000000000005,0.014,0.0044,0.0066,0.003407286310247497,5,1,1,0,14.017,1.886,0.038,15.942
+3,Artificial Superintelligence,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007719999999999999,0.013,0.0054,0.007,0.002705845524046042,5,1,1,0,13.678,1.844,0.034,15.557
+4,Artificial Superintelligence,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0068000000000000005,0.0112,0.0048,0.0056,0.0023460605277784287,5,1,1,0,13.071,3.253,0.036,16.359
+5,Artificial Superintelligence,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00556,0.0096,0.0038,0.0048,0.002151836425010042,5,1,1,0,13.132,1.813,0.04,14.984
+6,Artificial Superintelligence,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007959999999999998,0.0158,0.0046,0.0058,0.0041287286178677335,5,1,1,0,13.385,2.103,0.038,15.526
+7,Artificial Superintelligence,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00716,0.014,0.0046,0.0056,0.003485742388645495,5,1,1,0,13.306,2.044,0.04,15.39
+8,Artificial Superintelligence,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00572,0.0082,0.0038,0.0058,0.0014675149062275314,5,1,1,0,12.938,1.736,0.044,14.718
+9,Artificial Superintelligence,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.004520000000000001,0.0076,0.0032,0.0042,0.0016178998732925348,5,1,1,0,12.323,1.912,0.037,14.272
+10,Artificial Superintelligence,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00532,0.0068,0.0036,0.0056,0.001312097557348538,5,1,1,0,12.557,1.584,0.038,14.179
+11,Artificial Superintelligence,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0052,0.0066,0.0038,0.0054,0.001131370849898476,5,1,1,0,12.221,2.65,0.033,14.904
+12,Artificial Superintelligence,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00536,0.0062,0.004,0.0056,0.0008522910301065007,5,1,1,0,12.533,3.52,0.031,16.085
+13,Artificial Superintelligence,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.006320000000000001,0.007,0.0058,0.0064,0.00041182520563948016,5,1,1,0,12.563,2.01,0.04,14.613
+14,Artificial Superintelligence,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00536,0.007,0.0038,0.005,0.0011757550765359257,5,1,1,0,12.34,3.927,0.038,16.305
+0,The Beatles' rooftop concert,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.014600000000000002,0.0234,0.003,0.0138,0.007000571405249717,5,1,1,0,11.811,3.193,0.037,15.041
+1,The Beatles' rooftop concert,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01228,0.0236,0.0028,0.0084,0.007995598789334042,5,1,1,0,12.249,1.81,0.065,14.124
+2,The Beatles' rooftop concert,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.010040000000000002,0.0244,0.0042,0.0072,0.007327100381460596,5,1,1,0,11.988,1.768,0.038,13.794
+3,The Beatles' rooftop concert,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.010879999999999999,0.0206,0.0036,0.0106,0.006453030295915246,5,1,1,0,12.251,2.658,0.033,14.942
+4,The Beatles' rooftop concert,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.010320000000000001,0.0158,0.0054,0.008,0.004549461506596139,5,1,1,0,11.932,3.232,0.034,15.198
+5,The Beatles' rooftop concert,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00944,0.0174,0.0024,0.008,0.005395405452790365,5,1,1,0,12.26,5.507,0.034,17.801
+6,The Beatles' rooftop concert,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009920000000000002,0.016,0.0046,0.0076,0.0044552889917490205,5,1,1,0,11.908,2.198,0.035,14.141
+7,The Beatles' rooftop concert,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01004,0.0162,0.0046,0.007,0.004935422980859899,5,1,1,0,11.921,2.911,0.033,14.865
+8,The Beatles' rooftop concert,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00976,0.0154,0.0026,0.011,0.004932180045375473,5,1,1,0,11.649,3.379,0.041,15.069
+9,The Beatles' rooftop concert,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00944,0.0168,0.0042,0.008,0.00506185736661949,5,1,1,0,11.824,2.205,0.032,14.061
+10,The Beatles' rooftop concert,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0108,0.0146,0.0046,0.0116,0.0036419774848288123,5,1,1,0,12.787,3.459,0.036,16.282
+11,The Beatles' rooftop concert,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.010720000000000002,0.0148,0.0054,0.0098,0.003572338169882577,5,1,1,0,12.091,2.65,0.03,14.772
+12,The Beatles' rooftop concert,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.012400000000000001,0.0168,0.007,0.0142,0.0036221540552549667,5,1,1,0,11.776,3.079,0.032,14.887
+13,The Beatles' rooftop concert,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009720000000000001,0.0154,0.0038,0.0092,0.004579257581748378,5,1,1,0,12.149,3.806,0.036,15.99
+14,The Beatles' rooftop concert,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00976,0.0156,0.0048,0.0082,0.004213122357587066,5,1,1,0,11.978,2.237,0.045,14.26
+0,Carl Jung,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00896,0.0146,0.0038,0.0094,0.00350633712012978,5,1,1,0,10.881,2.073,0.04,12.994
+1,Carl Jung,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007840000000000001,0.0108,0.0054,0.0076,0.001856448221739567,5,1,1,0,10.873,3.486,0.042,14.401
+2,Carl Jung,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00728,0.0086,0.0054,0.0076,0.0011070682002478438,5,1,1,0,10.669,2.099,0.043,12.811
+3,Carl Jung,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00824,0.0094,0.0066,0.009,0.0011892854997854804,5,1,1,0,10.949,2.29,0.035,13.274
+4,Carl Jung,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0094,0.0114,0.0068,0.0102,0.0016637307474468338,5,1,1,0,10.888,3.235,0.039,14.162
+5,Carl Jung,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.005959999999999999,0.0092,0.0044,0.005,0.0017545369759569046,5,1,1,0,10.924,3.958,0.04,14.922
+6,Carl Jung,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007239999999999999,0.0096,0.0052,0.0072,0.0014333178293735132,5,1,1,0,10.273,3.505,0.045,13.823
+7,Carl Jung,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007319999999999998,0.0094,0.0052,0.0074,0.001400571312000928,5,1,1,0,10.986,1.885,0.04,12.911
+8,Carl Jung,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00716,0.0082,0.0058,0.0074,0.0008616263691415208,5,1,1,0,11.083,3.43,0.047,14.56
+9,Carl Jung,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00756,0.0092,0.0062,0.0076,0.0009911609354691093,5,1,1,0,11.181,1.575,0.037,12.793
+10,Carl Jung,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00716,0.0102,0.0058,0.0064,0.0015869467539901903,5,1,1,0,10.769,3.434,0.037,14.241
+11,Carl Jung,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.008,0.0104,0.0056,0.0076,0.0015798734126505197,5,1,1,0,10.766,2.447,0.035,13.248
+12,Carl Jung,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.008119999999999999,0.0106,0.0068,0.008,0.0013541048703848606,5,1,1,0,11.62,1.801,0.042,13.463
+13,Carl Jung,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007000000000000001,0.0086,0.0054,0.0066,0.001213260071048248,5,1,1,0,11.776,2.687,0.046,14.509
+14,Carl Jung,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007880000000000002,0.0102,0.0054,0.0084,0.0017463103962354458,5,1,1,0,12.014,4.614,0.036,16.664
+0,History of film,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01176,0.021,0.0056,0.0106,0.005470502719129204,5,1,1,0,11.52,2.311,0.038,13.869
+1,History of film,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01024,0.0184,0.0062,0.01,0.0044206786809267195,5,1,1,0,11.617,1.983,0.037,13.637
+2,History of film,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01148,0.0204,0.007,0.0102,0.0049616126410674186,5,1,1,0,11.81,1.761,0.038,13.609
+3,History of film,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.008879999999999999,0.0126,0.0072,0.0078,0.0020143485299222675,5,1,1,0,12.332,2.181,0.037,14.55
+4,History of film,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009080000000000001,0.0116,0.0066,0.0088,0.0016079800993793422,5,1,1,0,12.126,2.151,0.039,14.316
+5,History of film,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009040000000000001,0.0124,0.0066,0.0082,0.0019975985582694035,5,1,1,0,13.66,1.548,0.048,15.256
+6,History of film,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.010320000000000001,0.0154,0.0058,0.01,0.0030688108446106613,5,1,1,0,15.204,2.011,0.042,17.257
+7,History of film,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0064399999999999995,0.0076,0.0052,0.0062,0.0009243376006633076,5,1,1,0,13.631,1.665,0.055,15.351
+8,History of film,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00832,0.011,0.0064,0.0086,0.0015979987484350542,5,1,1,0,13.847,2.335,0.044,16.226
+9,History of film,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007520000000000001,0.011,0.006,0.007,0.0018137254478007411,5,1,1,0,13.194,1.881,0.057,15.131
+10,History of film,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00756,0.0106,0.0058,0.0076,0.001722324011328879,5,1,1,0,13.869,2.034,0.056,15.959
+11,History of film,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00772,0.0088,0.0062,0.0076,0.000992773891679269,5,1,1,0,14.98,1.588,0.044,16.612
+12,History of film,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00804,0.009,0.0058,0.0086,0.001148216007552586,5,1,1,0,14.025,2.504,0.042,16.571
+13,History of film,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00788,0.0096,0.0068,0.0078,0.0009599999999999999,5,1,1,0,12.263,2.634,0.047,14.944
+14,History of film,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0078,0.009,0.0068,0.0074,0.0009208691546577069,5,1,1,0,12.329,2.794,0.036,15.16
+0,Vinson Massif,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00836,0.0122,0.0058,0.0078,0.0021518364250100426,5,1,1,0,11.982,3.008,0.044,15.034
+1,Vinson Massif,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00792,0.0118,0.004,0.0082,0.002499919998719959,5,1,1,0,12.876,2.091,0.059,15.027
+2,Vinson Massif,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01012,0.0178,0.0058,0.009,0.004052850848476909,5,1,1,0,12.747,1.956,0.036,14.738
+3,Vinson Massif,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01116,0.016,0.008,0.0106,0.002624195114697076,5,1,1,0,12.017,1.829,0.049,13.895
+4,Vinson Massif,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00772,0.0094,0.0064,0.007,0.0012302845199383759,5,1,1,0,11.224,4.147,0.041,15.413
+5,Vinson Massif,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00728,0.0088,0.0064,0.0068,0.0008541662601625051,5,1,1,0,10.598,1.943,0.054,12.595
+6,Vinson Massif,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.008839999999999999,0.0108,0.0066,0.009,0.0014051334456200238,5,1,1,0,11.334,1.801,0.043,13.178
+7,Vinson Massif,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00788,0.009,0.006,0.0086,0.0011771151175649728,5,1,1,0,10.874,3.683,0.034,14.591
+8,Vinson Massif,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0076,0.0102,0.006,0.0072,0.001458766602304838,5,1,1,0,10.385,2.363,0.036,12.783
+9,Vinson Massif,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00772,0.0088,0.0072,0.0076,0.0005600000000000002,5,1,1,0,10.973,3.529,0.04,14.542
+10,Vinson Massif,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009,0.0104,0.008,0.0084,0.0009959919678390985,5,1,1,0,11.029,2.235,0.048,13.312
+11,Vinson Massif,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.008119999999999999,0.012,0.0052,0.0086,0.002398666296090392,5,1,1,0,11.092,1.629,0.036,12.757
+12,Vinson Massif,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00888,0.0124,0.0062,0.0078,0.0022754340245324627,5,1,1,0,11.59,2.126,0.038,13.755
+13,Vinson Massif,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00976,0.012,0.0078,0.0088,0.0017771887913218451,5,1,1,0,11.064,2.365,0.043,13.471
+14,Vinson Massif,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.007520000000000001,0.0092,0.0054,0.0076,0.001293676930303698,5,1,1,0,12.548,2.074,0.047,14.67
+0,Socotra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01076,0.014,0.0062,0.012,0.0027111621124528873,5,1,1,0,12.014,3.022,0.04,15.076
+1,Socotra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.013599999999999998,0.0168,0.011,0.0126,0.0023562682360037026,5,1,1,0,11.748,2.115,0.034,13.898
+2,Socotra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01416,0.021,0.0096,0.014,0.00401078545923364,5,1,1,0,11.433,1.503,0.037,12.974
+3,Socotra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.012639999999999998,0.0132,0.0116,0.013,0.0005851495535331119,5,1,1,0,11.613,1.715,0.035,13.363
+4,Socotra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01136,0.0122,0.0102,0.0118,0.0008039900496896712,5,1,1,0,11.645,2.0,0.046,13.692
+5,Socotra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01268,0.0144,0.0106,0.0134,0.0015727682601070002,5,1,1,0,11.79,1.613,0.044,13.447
+6,Socotra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01348,0.0164,0.0106,0.0142,0.002229259966894844,5,1,1,0,11.424,1.716,0.041,13.182
+7,Socotra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0102,0.011,0.0098,0.0102,0.00043817804600413275,5,1,1,0,10.974,2.12,0.038,13.133
+8,Socotra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00964,0.0128,0.0078,0.0096,0.0017590906741836818,5,1,1,0,11.747,1.874,0.032,13.654
+9,Socotra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01032,0.0142,0.0068,0.0086,0.0029949290475735817,5,1,1,0,11.032,1.595,0.04,12.668
+10,Socotra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.011800000000000001,0.0138,0.0096,0.011,0.001634625339336204,5,1,1,0,12.12,1.452,0.033,13.605
+11,Socotra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.01064,0.0136,0.009,0.0098,0.00168949696655543,5,1,1,0,11.693,1.602,0.034,13.329
+12,Socotra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.010960000000000001,0.0124,0.0088,0.0112,0.0013350655414622907,5,1,1,0,11.876,1.619,0.041,13.536
+13,Socotra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.012759999999999999,0.0158,0.009,0.0134,0.0028096974926137513,5,1,1,0,12.279,1.869,0.036,14.184
+14,Socotra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0108,0.0126,0.0094,0.011,0.0011865917579353062,5,1,1,0,12.036,2.047,0.042,14.125
+0,Petra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.009040000000000001,0.0132,0.0054,0.0074,0.0030130383336426374,5,1,1,0,10.828,1.562,0.036,12.425
+1,Petra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.008,0.0144,0.005,0.0068,0.0032960582519124264,5,1,1,0,10.672,1.49,0.036,12.198
+2,Petra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.008,0.0134,0.0042,0.006,0.0038366652186501756,5,1,1,0,11.082,2.681,0.035,13.798
+3,Petra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.008799999999999999,0.012,0.0052,0.01,0.002567489045740994,5,1,1,0,9.676,1.76,0.059,11.495
+4,Petra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0084,0.0106,0.0058,0.0078,0.0017798876369029594,5,1,1,0,10.378,1.955,0.039,12.371
+5,Petra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00688,0.0102,0.004,0.0066,0.0020341091416145795,5,1,1,0,10.468,3.382,0.037,13.887
+6,Petra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00804,0.013,0.0064,0.0068,0.0024928698321412613,5,1,1,0,10.063,2.165,0.047,12.274
+7,Petra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.006959999999999999,0.0122,0.0036,0.0058,0.0029404761519182575,5,1,1,0,10.21,1.274,0.037,11.521
+8,Petra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.006799999999999999,0.013,0.0044,0.0052,0.0031673332631726643,5,1,1,0,10.04,1.965,0.036,12.041
+9,Petra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0061200000000000004,0.012,0.004,0.0046,0.0029869047524151153,5,1,1,0,10.512,2.195,0.039,12.747
+10,Petra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.008,0.0136,0.006,0.0072,0.0028509647489928735,5,1,1,0,10.493,1.731,0.037,12.261
+11,Petra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0074800000000000005,0.0114,0.0036,0.0084,0.0027643444069073595,5,1,1,0,10.658,1.983,0.042,12.682
+12,Petra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00792,0.0154,0.004,0.006,0.004264457761544837,5,1,1,0,11.29,1.548,0.033,12.872
+13,Petra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0073999999999999995,0.0132,0.0052,0.0062,0.0029366647748764246,5,1,1,0,10.71,1.9,0.035,12.646
+14,Petra,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.005,0.0062,0.0032,0.0052,0.0009879271228182775,5,1,1,0,10.591,1.642,0.04,12.273
+0,Ketogenic diet,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0072,0.0088,0.0048,0.0072,0.001368210510118966,5,1,1,0,12.855,3.603,0.045,16.503
+1,Ketogenic diet,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.006720000000000001,0.0092,0.0044,0.0068,0.0018269099594670779,5,1,1,0,12.92,2.734,0.041,15.695
+2,Ketogenic diet,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.005800000000000001,0.0088,0.0036,0.0054,0.0016828547174370103,5,1,1,0,11.835,2.308,0.033,14.177
+3,Ketogenic diet,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00668,0.0076,0.0054,0.0066,0.000844748483277715,5,1,1,0,12.081,2.654,0.04,14.775
+4,Ketogenic diet,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.005200000000000001,0.0058,0.0046,0.005,0.00043817804600413275,5,1,1,0,12.198,1.957,0.039,14.195
+5,Ketogenic diet,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00556,0.0076,0.004,0.0046,0.0014499655168313487,5,1,1,0,13.042,3.345,0.038,16.425
+6,Ketogenic diet,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.006279999999999999,0.008,0.0042,0.0062,0.001400571312000928,5,1,1,0,11.743,1.964,0.038,13.746
+7,Ketogenic diet,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0050799999999999994,0.006,0.0042,0.0048,0.0006997142273814362,5,1,1,0,11.983,1.839,0.035,13.857
+8,Ketogenic diet,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.0057599999999999995,0.0076,0.0042,0.0058,0.0012547509713086498,5,1,1,0,11.861,3.068,0.041,14.97
+9,Ketogenic diet,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00528,0.0068,0.004,0.0048,0.0009927738916792686,5,1,1,0,13.031,1.898,0.046,14.974
+10,Ketogenic diet,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00692,0.0096,0.0032,0.0076,0.0021894291493446414,5,1,1,0,12.079,2.774,0.04,14.893
+11,Ketogenic diet,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.005359999999999999,0.0058,0.0048,0.0054,0.0003440930106817051,5,1,1,0,12.837,2.027,0.035,14.898
+12,Ketogenic diet,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00544,0.0068,0.0046,0.0052,0.0007525955088890711,5,1,1,0,12.117,3.639,0.038,15.794
+13,Ketogenic diet,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00668,0.0076,0.0048,0.007,0.0010400000000000001,5,1,1,0,12.443,2.365,0.035,14.844
+14,Ketogenic diet,wikipedia,random_ctr,gpt-4o-mini,film_best_dimensions_mpnet,True,0.00676,0.0082,0.0054,0.0062,0.0011271202242884297,5,1,1,0,12.406,1.826,0.038,14.27

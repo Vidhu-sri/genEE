@@ -1,0 +1,10 @@
+{
+  "run_id": "wikipedia__bandit_ucb__gpt-4o-mini__film_best_dimensions_mpnet__user__ucb_c002",
+  "completed_at": "2026-06-14T13:06:04.211236",
+  "cumulative_time": {
+    "eval": 3818.631817340851,
+    "gen": 312.157021522522,
+    "sim": 13.588025331497192,
+    "total": 4144.438283920288
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "topic": "Spray Bottles",
+  "method": "bandit_epsilon",
+  "ctr_trajectory": [
+    0.00688,
+    0.00828,
+    0.0084,
+    0.00868,
+    0.0078,
+    0.0074800000000000005,
+    0.00832,
+    0.008040000000000002,
+    0.007719999999999999,
+    0.00808,
+    0.007319999999999998,
+    0.009519999999999999,
+    0.00848,
+    0.00848,
+    0.00792
+  ],
+  "initial_ctr": 0.00688,
+  "final_ctr": 0.00792,
+  "improvement": 0.0010400000000000001,
+  "final_pool": [
+    "1. What materials are spray bottles commonly made from?",
+    "2. How do spray bottles work?",
+    "What are the key features to consider when purchasing spray bottles?",
+    "What types of liquids are safe to use in spray bottles?",
+    "What features should I look for in quality spray bottles?"
+  ]
+}

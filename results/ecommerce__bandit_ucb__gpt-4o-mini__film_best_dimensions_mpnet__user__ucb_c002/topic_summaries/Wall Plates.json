@@ -1,0 +1,31 @@
+{
+  "topic": "Wall Plates",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.00572,
+    0.006520000000000001,
+    0.007719999999999999,
+    0.008360000000000001,
+    0.006320000000000001,
+    0.006999999999999999,
+    0.007639999999999999,
+    0.0073999999999999995,
+    0.00704,
+    0.006480000000000001,
+    0.006560000000000001,
+    0.007880000000000002,
+    0.0074800000000000005,
+    0.007239999999999999,
+    0.006839999999999999
+  ],
+  "initial_ctr": 0.00572,
+  "final_ctr": 0.006839999999999999,
+  "improvement": 0.0011199999999999986,
+  "final_pool": [
+    "What materials are wall plates commonly made from?",
+    "What features should I consider when selecting wall plates for my home?",
+    "How do different materials affect the durability of wall plates?",
+    "What features should I consider when choosing wall plates for my home?",
+    "How do wall plate colors impact the aesthetic of a room?"
+  ]
+}

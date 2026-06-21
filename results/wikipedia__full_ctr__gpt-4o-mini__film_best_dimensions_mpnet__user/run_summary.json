@@ -1,0 +1,10 @@
+{
+  "run_id": "wikipedia__full_ctr__gpt-4o-mini__film_best_dimensions_mpnet__user",
+  "completed_at": "2026-06-06T04:55:09.751290",
+  "cumulative_time": {
+    "eval": 2046.4240009784698,
+    "gen": 159.83212757110596,
+    "sim": 6.728992223739624,
+    "total": 2212.9926517009735
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "topic": "Lighting Cables",
+  "method": "partial_ctr",
+  "ctr_trajectory": [
+    0.00468,
+    0.005359999999999999,
+    0.006959999999999999,
+    0.0062,
+    0.00624,
+    0.006279999999999999,
+    0.00624,
+    0.006719999999999999,
+    0.00568,
+    0.00592,
+    0.006559999999999999,
+    0.006359999999999999,
+    0.006959999999999999,
+    0.00688,
+    0.0062
+  ],
+  "initial_ctr": 0.00468,
+  "final_ctr": 0.0062,
+  "improvement": 0.0015199999999999997,
+  "final_pool": [
+    "What features should I look for in lighting cables for durability?",
+    "What features should I consider when choosing Lighting Cables?",
+    "What are the key features to consider when buying lighting cables?",
+    "What features should I consider when choosing lighting cables?",
+    "What should I consider when comparing different lighting cables for durability?"
+  ]
+}

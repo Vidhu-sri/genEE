@@ -1,0 +1,31 @@
+{
+  "topic": "Friedrich Nietzsche",
+  "method": "random_ctr",
+  "ctr_trajectory": [
+    0.016120000000000002,
+    0.015639999999999998,
+    0.01688,
+    0.01668,
+    0.015400000000000002,
+    0.01356,
+    0.014640000000000004,
+    0.01336,
+    0.014000000000000002,
+    0.015359999999999999,
+    0.013439999999999999,
+    0.01484,
+    0.014280000000000001,
+    0.014280000000000001,
+    0.01532
+  ],
+  "initial_ctr": 0.016120000000000002,
+  "final_ctr": 0.01532,
+  "improvement": -0.0008000000000000021,
+  "final_pool": [
+    "4. Which of Nietzsche\u2019s works is considered his masterpiece?",
+    "What were Nietzsche's main philosophical ideas?",
+    "What were Friedrich Nietzsche's most influential philosophical concepts?",
+    "What were Friedrich Nietzsche's main philosophical contributions?",
+    "What were Friedrich Nietzsche's views on morality and religion?"
+  ]
+}

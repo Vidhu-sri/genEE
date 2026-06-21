@@ -1,0 +1,31 @@
+{
+  "topic": "The Beatles' rooftop concert",
+  "method": "random_ctr",
+  "ctr_trajectory": [
+    0.014600000000000002,
+    0.01228,
+    0.010040000000000002,
+    0.010879999999999999,
+    0.010320000000000001,
+    0.00944,
+    0.009920000000000002,
+    0.01004,
+    0.00976,
+    0.00944,
+    0.0108,
+    0.010720000000000002,
+    0.012400000000000001,
+    0.009720000000000001,
+    0.00976
+  ],
+  "initial_ctr": 0.014600000000000002,
+  "final_ctr": 0.00976,
+  "improvement": -0.004840000000000002,
+  "final_pool": [
+    "4. What was the main reason for holding the rooftop concert?",
+    "What year did The Beatles perform their rooftop concert?",
+    "What songs did The Beatles perform during the rooftop concert?",
+    "5. How long did the rooftop concert last?",
+    "What date did The Beatles perform their rooftop concert?"
+  ]
+}

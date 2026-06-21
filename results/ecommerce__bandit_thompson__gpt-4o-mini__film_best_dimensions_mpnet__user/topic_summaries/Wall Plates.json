@@ -1,0 +1,31 @@
+{
+  "topic": "Wall Plates",
+  "method": "bandit_thompson",
+  "ctr_trajectory": [
+    0.0061600000000000005,
+    0.007000000000000001,
+    0.007399999999999999,
+    0.00896,
+    0.00676,
+    0.006559999999999999,
+    0.00808,
+    0.008119999999999999,
+    0.00664,
+    0.008360000000000001,
+    0.007000000000000001,
+    0.00804,
+    0.00832,
+    0.007520000000000001,
+    0.00688
+  ],
+  "initial_ctr": 0.0061600000000000005,
+  "final_ctr": 0.00688,
+  "improvement": 0.0007199999999999993,
+  "final_pool": [
+    "1. What materials are wall plates commonly made from?",
+    "What features should I consider when choosing wall plates for my home?",
+    "What different styles of wall plates are available for home decor?",
+    "What are the different styles of wall plates available for home decor?",
+    "What styles of wall plates are available for different home decors?"
+  ]
+}

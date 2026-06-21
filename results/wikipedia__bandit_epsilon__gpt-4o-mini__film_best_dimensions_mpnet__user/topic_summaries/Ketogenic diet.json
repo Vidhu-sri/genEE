@@ -1,0 +1,31 @@
+{
+  "topic": "Ketogenic diet",
+  "method": "bandit_epsilon",
+  "ctr_trajectory": [
+    0.0068000000000000005,
+    0.0054399999999999995,
+    0.007639999999999999,
+    0.007680000000000001,
+    0.007239999999999999,
+    0.006359999999999999,
+    0.00608,
+    0.006840000000000001,
+    0.00428,
+    0.007039999999999999,
+    0.00648,
+    0.005,
+    0.00776,
+    0.0060799999999999995,
+    0.00636
+  ],
+  "initial_ctr": 0.0068000000000000005,
+  "final_ctr": 0.00636,
+  "improvement": -0.0004400000000000003,
+  "final_pool": [
+    "2. How does the ketogenic diet work?",
+    "What are the potential benefits of following a ketogenic diet?",
+    "How does the ketogenic diet affect weight loss and metabolism?",
+    "How does a ketogenic diet affect weight loss and metabolic health?",
+    "What are the potential health benefits of the ketogenic diet?"
+  ]
+}

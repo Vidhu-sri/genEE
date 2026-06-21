@@ -1,0 +1,41 @@
+{
+  "topic": "Friedrich Nietzsche",
+  "method": "no_drop",
+  "ctr_trajectory": [
+    0.01572,
+    0.012833333333333334,
+    0.011942857142857142,
+    0.009399999999999999,
+    0.009377777777777778,
+    0.007620000000000002,
+    0.007880000000000002,
+    0.007745454545454545,
+    0.006033333333333332,
+    0.006100000000000001,
+    0.006600000000000001,
+    0.006,
+    0.005830769230769231,
+    0.0068153846153846155,
+    0.0054285714285714284
+  ],
+  "initial_ctr": 0.01572,
+  "final_ctr": 0.0054285714285714284,
+  "improvement": -0.010291428571428573,
+  "final_pool": [
+    "1. When was Friedrich Nietzsche born?",
+    "2. Where was Nietzsche born?",
+    "3. What is Nietzsche best known for?",
+    "4. Which of Nietzsche\u2019s works is considered his masterpiece?",
+    "5. What philosophical concept is Nietzsche famous for introducing?",
+    "What are Friedrich Nietzsche's main philosophical concepts?",
+    "What are Friedrich Nietzsche's main philosophical ideas?",
+    "What were Friedrich Nietzsche's main philosophical ideas?",
+    "What are Nietzsche's views on morality?",
+    "What are Nietzsche's main philosophical ideas?",
+    "What were Friedrich Nietzsche's main philosophical contributions?",
+    "What were Friedrich Nietzsche's main philosophical concepts?",
+    "What are Nietzsche's main philosophical contributions?",
+    "What were Friedrich Nietzsche's most influential philosophical ideas?",
+    "What were Nietzsche's main philosophical ideas and beliefs?"
+  ]
+}

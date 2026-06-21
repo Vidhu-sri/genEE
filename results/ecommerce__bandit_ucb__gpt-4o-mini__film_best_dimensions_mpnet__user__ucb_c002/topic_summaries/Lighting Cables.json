@@ -1,0 +1,31 @@
+{
+  "topic": "Lighting Cables",
+  "method": "bandit_ucb",
+  "ctr_trajectory": [
+    0.00468,
+    0.004880000000000001,
+    0.006839999999999999,
+    0.006560000000000001,
+    0.006240000000000001,
+    0.006,
+    0.006039999999999999,
+    0.0058,
+    0.005600000000000001,
+    0.00596,
+    0.0064399999999999995,
+    0.006320000000000001,
+    0.0067599999999999995,
+    0.0057599999999999995,
+    0.0052
+  ],
+  "initial_ctr": 0.00468,
+  "final_ctr": 0.0052,
+  "improvement": 0.0005199999999999996,
+  "final_pool": [
+    "What are the key features to consider when buying lighting cables?",
+    "What are the key features of different lighting cables available in the market?",
+    "What features should I consider when choosing lighting cables for my devices?",
+    "What features should I consider when purchasing lighting cables?",
+    "What features should I consider when choosing lighting cables?"
+  ]
+}

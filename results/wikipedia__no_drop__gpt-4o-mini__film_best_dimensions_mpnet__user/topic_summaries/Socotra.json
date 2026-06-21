@@ -1,0 +1,37 @@
+{
+  "topic": "Socotra",
+  "method": "no_drop",
+  "ctr_trajectory": [
+    0.0114,
+    0.011099999999999999,
+    0.00937142857142857,
+    0.008150000000000001,
+    0.0075,
+    0.006355555555555555,
+    0.0061600000000000005,
+    0.0058200000000000005,
+    0.00634,
+    0.0067599999999999995,
+    0.00472,
+    0.00584,
+    0.005309090909090908,
+    0.004890909090909091,
+    0.00490909090909091
+  ],
+  "initial_ctr": 0.0114,
+  "final_ctr": 0.00490909090909091,
+  "improvement": -0.006490909090909091,
+  "final_pool": [
+    "1. Where is Socotra located?",
+    "2. What country does Socotra belong to?",
+    "3. How large is Socotra Island?",
+    "4. What is Socotra known for?",
+    "5. What unique plants are found on Socotra?",
+    "What unique species are found on Socotra?",
+    "What unique species are endemic to Socotra?",
+    "What unique species can be found on Socotra Island?",
+    "What unique species are found on Socotra Island?",
+    "What unique species are native to Socotra?",
+    "What unique flora and fauna are found on Socotra?"
+  ]
+}

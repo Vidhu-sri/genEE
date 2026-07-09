@@ -258,11 +258,35 @@ def generate_explore_ip(ip, topic, domain):
     return llm.generate_list(prompt, N)
 
 
+# Approach #2: feed CTR as a verbalized ranking instead of raw numbers.
+# Flipped on by runner's --verbalize flag; tests whether small models use
+# ordinal/natural-language engagement feedback better than numeric CTRs.
+VERBALIZE_CTR = bool(config.get("verbalize_ctr", False))
+
+
+def _verbalize_ctrs(top_k):
+    n = len(top_k)
+    lines = ["Below are previously shown questions, ranked by how much "
+             "users engaged with them (most engaged first):"]
+    for i, (q, _p) in enumerate(top_k):
+        if i == 0:
+            tag = "users engaged with this the most"
+        elif n > 1 and i == n - 1:
+            tag = "users engaged with this the least"
+        else:
+            tag = "moderate engagement"
+        lines.append(f"{i + 1}. {q} ({tag})")
+    return "\n".join(lines)
+
+
 def generate_exploit_ip(ctrs_or_scores, topic, domain):
     prompt_template = (prompts_path / f"exploit_prompt_{domain}.txt").read_text()
     N = int(config.get("num_generate", config.get("exploit_n", 5)))
     top_k = sorted(ctrs_or_scores.items(), key=lambda x: x[1], reverse=True)[:max(1, N)]
-    questions_str = "\n".join(f"Question: {q}\nCTR: {round(p * 100, 1)}%" for q, p in top_k)
+    if VERBALIZE_CTR:
+        questions_str = _verbalize_ctrs(top_k)
+    else:
+        questions_str = "\n".join(f"Question: {q}\nCTR: {round(p * 100, 1)}%" for q, p in top_k)
     prompt = render_template(prompt_template, {
         "TITLE": topic, "CATEGORY": topic, "N": str(N), "QUESTIONS_AND_CTR": questions_str
     })

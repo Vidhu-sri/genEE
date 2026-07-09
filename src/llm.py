@@ -1,11 +1,8 @@
-import os, re, json, time, hashlib
-from pathlib import Path
-from dotenv import load_dotenv
-from openai import OpenAI, AsyncOpenAI
 import asyncio
 import os, re, json, time, hashlib, random
-from openai import OpenAI, AsyncOpenAI, RateLimitError, APIError, APIConnectionError
+from pathlib import Path
 from dotenv import load_dotenv
+from openai import OpenAI, AsyncOpenAI, RateLimitError, APIError, APIConnectionError
 
 
 async def safe_api_call(acall, retries=5, base_delay=1.0):
@@ -19,13 +16,6 @@ async def safe_api_call(acall, retries=5, base_delay=1.0):
             await asyncio.sleep(wait)
     print("[error] giving up after retries; returning None")
     return None
-
-
-load_dotenv()
-client = OpenAI()
-aclient = AsyncOpenAI()
-
-
 
 
 load_dotenv()
@@ -81,14 +71,27 @@ class LLM:
         self.cache = DiskCache(cache_path)
 
     # ---------- GENERATION ----------
-    def generate_list(self, prompt: str, k: int = 10):
-        r = client.chat.completions.create(
-            model=self.gen_model,
-            messages=[{"role": "user", "content": prompt}],
-            temperature=self.gen_temperature,
-            max_tokens=self.max_tokens_gen,
-        )
-        txt = r.choices[0].message.content
+    def generate_list(self, prompt: str, k: int = 10, retries: int = 6, base_delay: float = 2.0):
+        r = None
+        for attempt in range(retries):
+            try:
+                r = client.chat.completions.create(
+                    model=self.gen_model,
+                    messages=[{"role": "user", "content": prompt}],
+                    temperature=self.gen_temperature,
+                    max_tokens=self.max_tokens_gen,
+                )
+                break
+            except (RateLimitError, APIError, APIConnectionError) as e:
+                if attempt == retries - 1:
+                    print(f"[error] generation gave up after {retries} tries ({type(e).__name__}); returning []")
+                    return []
+                wait = base_delay * (2 ** attempt) * (1.0 + random.random())
+                print(f"[warn] gen throttled ({type(e).__name__}), retry {attempt+1}/{retries} in {wait:.1f}s...")
+                time.sleep(wait)
+        txt = r.choices[0].message.content if (r and r.choices) else None
+        if not txt:
+            return []
         # robust line extraction
         lines = [ln.strip() for ln in txt.splitlines() if ln.strip()]
         # strip common prefixes

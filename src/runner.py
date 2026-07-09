@@ -12,7 +12,7 @@ Usage:
   python src/runner.py --domain wikipedia --method all --dry-run
 """
 
-import os, json, yaml, argparse, time, random
+import os, re, json, yaml, argparse, time, random
 from datetime import datetime
 from tqdm import tqdm
 from pathlib import Path
@@ -430,7 +430,9 @@ def run_experiment(
     eval_label = evaluator_label()
     ul_tag = "user" if user_level else "cohort"
 
-    run_id = f"{domain}__{method}__{gen_model}__{eval_label}__{ul_tag}"
+    # sanitize model id for filesystem (OpenRouter ids contain '/' and ':')
+    gen_tag = re.sub(r"[/:]+", "_", gen_model)
+    run_id = f"{domain}__{method}__{gen_tag}__{eval_label}__{ul_tag}"
     if run_tag:
         run_id = f"{run_id}__{run_tag}"
     rd = results_base / run_id
@@ -550,8 +552,23 @@ def main():
     p.add_argument("--topics", nargs="*", default=None)
     p.add_argument("--run-tag", default=None,
                    help="Append a tag to the result directory/run ID")
+    p.add_argument("--gen-model", default=None,
+                   help="Override config generator_model (e.g. an OpenRouter id like moonshotai/kimi-k2)")
+    p.add_argument("--verbalize", action="store_true",
+                   help="Approach #2: feed CTR feedback as a verbalized ranking instead of raw numbers")
     p.add_argument("--dry-run", action="store_true")
     args = p.parse_args()
+
+    import src.utils as _U
+    if args.gen_model:
+        # update naming (runner's config) AND the already-constructed generator in utils
+        config["generator_model"] = args.gen_model
+        _U.llm.gen_model = args.gen_model
+        print(f"[gen-model] generator overridden to: {args.gen_model}")
+    if args.verbalize:
+        _U.VERBALIZE_CTR = True
+        args.run_tag = f"{args.run_tag}_verbalized" if args.run_tag else "verbalized"
+        print("[verbalize] CTR feedback rendered as verbalized ranking (approach #2)")
 
     if args.dry_run:
         personas = personas_for(args.domain)
